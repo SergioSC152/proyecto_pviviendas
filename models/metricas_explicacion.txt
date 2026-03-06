@@ -1,0 +1,10 @@
+Evaluación del Modelo - Sprint 2
+
+R2 (Coeficiente de determinación):
+Indica qué tan bien el modelo explica la variación del precio de las viviendas.
+
+MAE (Error Absoluto Medio):
+Representa el error promedio entre el precio real y el precio predicho.
+
+RMSE (Raíz del Error Cuadrático Medio):
+Penaliza más los errores grandes y mide la desviación del modelo.

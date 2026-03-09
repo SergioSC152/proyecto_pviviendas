@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Predicción de precio de vivienda</title>
+</head>
+
+<body>
+
+<h2>Predicción de precio de vivienda</h2>
+
+<form id="formPrediccion">
+
+    <label>Calidad de la vivienda</label><br>
+    <input type="number" id="calidad" required><br><br>
+
+    <label>Área de la casa</label><br>
+    <input type="number" id="area" required><br><br>
+
+    <label>Habitaciones</label><br>
+    <input type="number" id="habitaciones" required><br><br>
+
+    <label>Baños</label><br>
+    <input type="number" id="banos" required><br><br>
+
+    <label>Garaje</label><br>
+    <input type="number" id="garaje" required><br><br>
+
+    <button type="submit">Predecir precio</button>
+
+</form>
+
+<h3 id="resultado"></h3>
+
+<script>
+
+document.getElementById("formPrediccion").addEventListener("submit", async function(e){
+
+    e.preventDefault()
+
+    const datos = {
+        calidad: document.getElementById("calidad").value,
+        area: document.getElementById("area").value,
+        habitaciones: document.getElementById("habitaciones").value,
+        banos: document.getElementById("banos").value,
+        garaje: document.getElementById("garaje").value
+    }
+
+    const respuesta = await fetch("http://127.0.0.1:8000/predecir", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify(datos)
+    })
+
+    const resultado = await respuesta.json()
+
+    document.getElementById("resultado").innerText =
+        "Precio estimado: $" + resultado.precio_estimado
+
+})
+
+</script>
+
+</body>
+</html>

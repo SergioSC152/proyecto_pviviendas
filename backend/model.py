@@ -97,4 +97,6 @@ def predecir_precio(calidad, area, habitaciones, banos, garaje):
 
     prediccion = modelo.predict(datos)
 
+    print("Predicción generada correctamente.")
+
     return int(prediccion[0])

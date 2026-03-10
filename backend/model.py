@@ -22,6 +22,8 @@ def entrenar_y_guardar_modelo():
         "FullBath",
         "GarageCars"
     ]]
+    print("Variables utilizadas para el modelo:")
+    print(X.columns)
     y = data["SalePrice"]
 
     X_train, X_test, y_train, y_test = train_test_split(

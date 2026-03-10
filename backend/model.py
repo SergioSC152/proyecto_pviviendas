@@ -12,6 +12,9 @@ def entrenar_y_guardar_modelo():
 
     data = pd.read_csv("data/train.csv")
 
+    print("Número de filas del dataset:", data.shape[0])
+    print("Número de columnas del dataset:", data.shape[1])
+
     X = data[[
         "OverallQual",
         "GrLivArea",

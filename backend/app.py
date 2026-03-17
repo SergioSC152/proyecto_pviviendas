@@ -3,13 +3,12 @@ from flask_cors import CORS
 from model import predecir_precio
 
 app = Flask(__name__)
-
-# 🔥 CORS BIEN CONFIGURADO
-CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app)
 
 @app.route("/predecir", methods=["POST"])
 def predecir():
-    datos = request.get_json()
+
+    datos = request.json
 
     precio = predecir_precio(
         datos["calidad"],
@@ -22,5 +21,4 @@ def predecir():
     return jsonify({"precio": precio})
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
-    
+    app.run(debug=True)

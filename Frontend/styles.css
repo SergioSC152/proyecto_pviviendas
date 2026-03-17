@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0d1117;
+    color: white;
+}
+
+.container {
+    display: flex;
+    height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+    width: 300px;
+    background: #161b22;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-bottom: 20px;
+}
+
+.sidebar label {
+    display: block;
+    margin-top: 15px;
+}
+
+.sidebar input, .sidebar select {
+    width: 100%;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+    background: #ff4d4d;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+/* Main */
+.main {
+    flex: 1;
+    padding: 20px;
+}
+
+canvas {
+    background: white;
+    border-radius: 10px;
+}
+
+.resultado {
+    margin-top: 20px;
+    padding: 15px;
+    background: green;
+    border-radius: 10px;
+}

@@ -1,6 +1,9 @@
 const area = document.getElementById("area");
 const calidad = document.getElementById("calidad");
 
+
+
+
 area.oninput = () => {
     document.getElementById("area_val").innerText = area.value;
 };
@@ -58,4 +61,3 @@ function predecir() {
             err.message;
     });
 }
-

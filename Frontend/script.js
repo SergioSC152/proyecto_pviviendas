@@ -1,33 +1,8 @@
-const area = document.getElementById("area");
-const calidad = document.getElementById("calidad");
-
-
-
-
-area.oninput = () => {
-    document.getElementById("area_val").innerText = area.value;
-};
-
-calidad.oninput = () => {
-    document.getElementById("calidad_val").innerText = calidad.value;
-};
-
-// GRAFICA
-let chart = new Chart(document.getElementById("grafica"), {
-    type: "bar",
-    data: {
-        labels: ["Base", "Zona", "Tamaño", "Extras", "Final"],
-        datasets: [{
-            label: "Precio",
-            data: [100000, 150000, 140000, 160000, 130000]
-        }]
-    }
-});
-
-// PREDICCIÓN
 function predecir() {
 
-    fetch("http://127.0.0.1:5000/predecir",  {
+    document.getElementById("resultado").innerText = "Calculando... ⏳";
+
+    fetch("http://127.0.0.1:5000/predecir", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
@@ -40,24 +15,20 @@ function predecir() {
             garaje: 1
         })
     })
-    .then(async res => {
-        const text = await res.text();
-
-        if (!res.ok) {
-            throw new Error("Backend dice: " + text);
-        }
-
-        return JSON.parse(text);
-    })
+    .then(res => res.json())
     .then(data => {
 
-        document.getElementById("resultado").innerText =
-            "Precio estimado: $" + data.precio;
+        if (data.error) {
+            document.getElementById("resultado").innerText =
+                "Error: " + data.error;
+        } else {
+            document.getElementById("resultado").innerText =
+                "💰 Precio estimado: $" + data.precio;
+        }
 
     })
     .catch(err => {
-        console.error("ERROR REAL:", err);
         document.getElementById("resultado").innerText =
-            err.message;
+            "Error de conexión con el servidor";
     });
 }

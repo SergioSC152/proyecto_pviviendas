@@ -20,5 +20,26 @@ def predecir():
 
     return jsonify({"precio": precio})
 
+@app.route("/predecir", methods=["POST"])
+def predecir():
+
+    datos = request.json
+
+    try:
+        calidad = int(datos["calidad"])
+        area = int(datos["area"])
+        habitaciones = int(datos["habitaciones"])
+        banos = int(datos["banos"])
+        garaje = int(datos["garaje"])
+
+        precio = predecir_precio(calidad, area, habitaciones, banos, garaje)
+
+        return jsonify({"precio": precio})
+
+    except Exception as e:
+        return jsonify({"error": str(e)}), 400
+    
 if __name__ == "__main__":
     app.run(debug=True)
+    
+

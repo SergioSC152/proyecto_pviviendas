@@ -53,7 +53,7 @@ function predecir() {
             let precio = data.precio;
 
             document.getElementById("resultado").innerText =
-                "💰 Precio estimado: $" + precio;
+                " Precio estimado: $" + precio;
 
             chart.data.datasets[0].data = [
                 precio * 0.8,

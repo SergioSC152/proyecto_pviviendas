@@ -1,6 +1,6 @@
 from model import predecir_precio 
 
-print("🏠 SISTEMA DE PREDICCIÓN DE VIVIENDAS\n")
+print(" SISTEMA DE PREDICCIÓN DE VIVIENDAS\n")
 
 
 calidad = int(input("Ingresa la calidad (1 - 10): "))
@@ -12,4 +12,4 @@ garaje = int(input("Número de garajes: "))
 
 precio = predecir_precio(calidad, area, habitaciones, banos, garaje)
 
-print("\n💰 Precio estimado:", precio)
+print("\nPrecio estimado:", precio)

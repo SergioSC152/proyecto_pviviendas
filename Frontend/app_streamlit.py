@@ -1,5 +1,5 @@
 import streamlit as st
-
+import requests
 # CONFIG
 st.set_page_config(page_title="SMART HOME PRICE", page_icon="🏠", layout="wide")
 
@@ -49,23 +49,42 @@ with tab1:
     st.subheader("Resultado de la predicción")
 
     if predecir_btn:
-        factor_calidad = {
-            "Mala": 0.8,
-            "Regular": 1.0,
-            "Buena": 1.2,
-            "Excelente": 1.5,
-            "Lujo": 2.0
+       try:
+        mapa_calidad = {
+            "Mala": 2,
+            "Regular": 4,
+            "Buena": 6,
+            "Excelente": 8,
+            "Lujo": 10
         }
 
-        factor_ubicacion = {
-            "Centro": 1.5,
-            "Norte": 1.3,
-            "Sur": 1.1,
-            "Suburbio": 0.9
+        data = {
+            "calidad": mapa_calidad[calidad],
+            "area": area,
+            "habitaciones": cuartos,
+            "banos": banos,
+            "garaje": 1
         }
 
-        precio = (area * 900 + cuartos * 8000 + banos * 5000)
-        precio *= factor_calidad[calidad] * factor_ubicacion[ubicacion]
+        response = requests.post("http://127.0.0.1:5000/predecir", json=data)
+
+        if response.status_code == 200:
+            resultado = response.json()
+            precio = resultado["precio"]
+
+            st.session_state.precio = precio
+
+            st.balloons()
+
+            st.success(f"""
+            ## 💰 ${precio:,.2f} USD
+            ### 📍 Ubicación: {ubicacion}
+            """)
+        else:
+            st.error("❌ Error en el servidor")
+
+       except Exception as e:
+        st.error(f"❌ No se pudo conectar con el backend: {e}")
 
         st.session_state.precio = precio
 
@@ -115,4 +134,3 @@ Métricas:
 
     with st.expander("🔍 ¿Cómo funciona?"):
         st.write("El modelo analiza patrones en datos históricos para estimar el precio de una vivienda.")
-        

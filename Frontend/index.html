@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Predicción de Viviendas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- SIDEBAR -->
+    <div class="sidebar">
+        <h2>⚙️ Parámetros del Inmueble</h2>
+
+        <label>Área (m²)</label>
+        <input type="range" id="area" min="50" max="500" value="200">
+        <span id="area_val">200</span>
+
+        <label>Habitaciones</label>
+        <select id="habitaciones">
+            <option>1</option>
+            <option>2</option>
+            <option selected>3</option>
+            <option>4</option>
+            <option>5</option>
+        </select>
+
+        <label>Baños</label>
+        <select id="banos">
+            <option>1</option>
+            <option selected>2</option>
+            <option>3</option>
+        </select>
+
+        <label>Calidad</label>
+        <input type="range" id="calidad" min="1" max="10" value="5">
+        <span id="calidad_val">5</span>
+
+        <label>Garaje</label>
+        <select id="garaje">
+            <option>0</option>
+            <option selected>1</option>
+            <option>2</option>
+            <option>3</option>
+        </select>
+
+        <button onclick="predecir()">Calcular Precio</button>
+    </div>
+
+    <!-- MAIN -->
+    <div class="main">
+        <h1>📊 Comparativa de Precios</h1>
+
+        <canvas id="grafica"></canvas>
+
+        <div id="resultado" class="resultado">
+            Esperando predicción...
+        </div>
+    </div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="script.js"></script>
+
+</body>
+</html>

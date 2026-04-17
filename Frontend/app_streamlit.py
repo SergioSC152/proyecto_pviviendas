@@ -22,6 +22,9 @@ with st.sidebar:
     cuartos = st.slider("🛏️ Habitaciones", 1, 5, 3)
     banos = st.slider("🚿 Baños", 1, 3, 2)
     calidad = st.select_slider("⭐ Calidad", ["Mala", "Regular", "Buena", "Excelente", "Lujo"])
+    
+    # 🔥 NUEVA VARIABLE
+    anio = st.slider("🏗️ Año de construcción", 1950, 2023, 2005)
 
     ubicacion = st.selectbox("📍 Ubicación", ["Centro", "Norte", "Sur", "Suburbio"])
 
@@ -45,7 +48,9 @@ st.divider()
 # --- TABS ---
 tab1, tab2, tab3 = st.tabs(["📊 Predicción", "📈 Visualización", "🧠 Modelo"])
 
-
+# =========================
+# TAB 1 - PREDICCIÓN
+# =========================
 with tab1:
     st.subheader("Resultado de la predicción")
 
@@ -64,7 +69,8 @@ with tab1:
                 "area": area,
                 "habitaciones": cuartos,
                 "banos": banos,
-                "garaje": 1
+                "garaje": 1,
+                "anio": anio   # 🔥 NUEVO
             }
 
             response = requests.post("http://127.0.0.1:5000/predecir", json=data)
@@ -100,7 +106,9 @@ with tab1:
         except Exception as e:
             st.error(f"❌ No se pudo conectar con el backend: {e}")
 
- 
+# =========================
+# TAB 2 - VISUALIZACIÓN
+# =========================
 with tab2:
     st.subheader("📊 Distribución de precios")
 
@@ -109,7 +117,9 @@ with tab2:
     st.write("📈 Esta gráfica representa precios de viviendas similares en el dataset.")
     st.caption("Datos simulados - Sprint 3 (EDA)")
 
-
+# =========================
+# TAB 3 - MODELO
+# =========================
 with tab3:
     st.subheader("🧠 Información del modelo")
 
@@ -123,6 +133,7 @@ Variables:
 - Baños
 - Calidad
 - Garaje
+- Año de construcción
 
 Métricas:
 - MAE

@@ -88,14 +88,23 @@ with tab1:
 
         st.session_state.precio = precio
 
+        # Tasa de cambio simulada (puedes luego hacerla dinámica)
+        TASA_USD_MXN = 17.0
+
+        precio_mxn = precio * TASA_USD_MXN
+
         st.balloons()
 
         st.success(f"""
         ## 💰 ${precio:,.2f} USD
+        ## 🇲🇽 ${precio_mxn:,.2f} MXN
         ### 📍 Ubicación: {ubicacion}
         """)
 
-        # NUEVO (para commit 2)
+        st.info("Conversión aproximada basada en tasa USD → MXN")
+        st.caption("La conversión es referencial y puede variar según el mercado.")
+
+    
         st.info("📌 Este resultado es una estimación basada en un modelo de Machine Learning entrenado.")
 
         # Barra de confianza visual

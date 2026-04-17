@@ -1,5 +1,6 @@
 import streamlit as st
 import requests
+
 # CONFIG
 st.set_page_config(page_title="SMART HOME PRICE", page_icon="🏠", layout="wide")
 
@@ -21,6 +22,9 @@ with st.sidebar:
     cuartos = st.slider("🛏️ Habitaciones", 1, 5, 3)
     banos = st.slider("🚿 Baños", 1, 3, 2)
     calidad = st.select_slider("⭐ Calidad", ["Mala", "Regular", "Buena", "Excelente", "Lujo"])
+
+    # 🔥 NUEVA VARIABLE
+    anio = st.slider("🏗️ Año de construcción", 1950, 2023, 2005)
 
     ubicacion = st.selectbox("📍 Ubicación", ["Centro", "Norte", "Sur", "Suburbio"])
 
@@ -44,74 +48,78 @@ st.divider()
 # --- TABS ---
 tab1, tab2, tab3 = st.tabs(["📊 Predicción", "📈 Visualización", "🧠 Modelo"])
 
-# TAB 1
+# =========================
+# TAB 1 - PREDICCIÓN
+# =========================
 with tab1:
     st.subheader("Resultado de la predicción")
 
     if predecir_btn:
-       try:
-        mapa_calidad = {
-            "Mala": 2,
-            "Regular": 4,
-            "Buena": 6,
-            "Excelente": 8,
-            "Lujo": 10
-        }
+        try:
+            mapa_calidad = {
+                "Mala": 2,
+                "Regular": 4,
+                "Buena": 6,
+                "Excelente": 8,
+                "Lujo": 10
+            }
 
-        data = {
-            "calidad": mapa_calidad[calidad],
-            "area": area,
-            "habitaciones": cuartos,
-            "banos": banos,
-            "garaje": 1
-        }
+            data = {
+                "calidad": mapa_calidad[calidad],
+                "area": area,
+                "habitaciones": cuartos,
+                "banos": banos,
+                "garaje": 1,
+                "anio": anio
+            }
 
-        response = requests.post("http://127.0.0.1:5000/predecir", json=data)
+            response = requests.post("http://127.0.0.1:5000/predecir", json=data)
 
-        if response.status_code == 200:
-            resultado = response.json()
-            precio = resultado["precio"]
+            if response.status_code == 200:
+                resultado = response.json()
+                precio = resultado["precio"]
 
-            st.session_state.precio = precio
+                st.session_state.precio = precio
 
-            st.balloons()
+                # 💱 Conversión USD → MXN
+                TASA_USD_MXN = 17.0
+                precio_mxn = precio * TASA_USD_MXN
 
-            st.success(f"""
-            ## 💰 ${precio:,.2f} USD
-            ### 📍 Ubicación: {ubicacion}
-            """)
-        else:
-            st.error("❌ Error en el servidor")
+                st.balloons()
 
-       except Exception as e:
-        st.error(f"❌ No se pudo conectar con el backend: {e}")
+                st.success(f"""
+                ## 💰 ${precio:,.2f} USD
+                ## 🇲🇽 ${precio_mxn:,.2f} MXN
+                ### 📍 Ubicación: {ubicacion}
+                """)
 
-        st.session_state.precio = precio
+                st.info("💱 Conversión aproximada basada en tasa USD → MXN")
+                st.caption("La conversión es referencial y puede variar según el mercado.")
 
-        st.balloons()
+                st.info("📌 Este resultado es una estimación basada en un modelo de Machine Learning entrenado.")
 
-        st.success(f"""
-        ## 💰 ${precio:,.2f} USD
-        ### 📍 Ubicación: {ubicacion}
-        """)
+                st.progress(92)
 
-        # NUEVO (para commit 2)
-        st.info("📌 Este resultado es una estimación basada en un modelo de Machine Learning entrenado.")
+            else:
+                st.error("❌ Error en el servidor")
 
-        # Barra de confianza visual
-        st.progress(92)
+        except Exception as e:
+            st.error(f"❌ No se pudo conectar con el backend: {e}")
 
-# TAB 2
+# =========================
+# TAB 2 - VISUALIZACIÓN
+# =========================
 with tab2:
     st.subheader("📊 Distribución de precios")
+
     st.bar_chart([120000, 150000, 170000, 140000, 200000])
 
-    # NUEVO (para commit 3)
     st.write("📈 Esta gráfica representa precios de viviendas similares en el dataset.")
-
     st.caption("Datos simulados - Sprint 3 (EDA)")
 
-# TAB 3
+# =========================
+# TAB 3 - MODELO
+# =========================
 with tab3:
     st.subheader("🧠 Información del modelo")
 
@@ -124,7 +132,8 @@ Variables:
 - Habitaciones
 - Baños
 - Calidad
-- Ubicación
+- Garaje
+- Año de construcción
 
 Métricas:
 - MAE

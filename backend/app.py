@@ -11,12 +11,14 @@ def predecir_api():
     datos = request.json
 
     precio = predecir_precio(
-        datos["calidad"],
-        datos["area"],
-        datos["habitaciones"],
-        datos["banos"],
-        datos["garaje"]
+     datos["calidad"],
+     datos["area"],
+     datos["habitaciones"],
+     datos["banos"],
+     datos["garaje"],
+     datos["anio"]
     )
+    
 
     return jsonify({"precio": precio})
 

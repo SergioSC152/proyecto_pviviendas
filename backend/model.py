@@ -14,12 +14,14 @@ def entrenar_y_guardar_modelo():
     print("Número de filas del dataset:", data.shape[0])
     print("Número de columnas del dataset:", data.shape[1])
 
+    # 🔥 AGREGAMOS YearBuilt
     X = data[[
         "OverallQual",
         "GrLivArea",
         "BedroomAbvGr",
         "FullBath",
-        "GarageCars"
+        "GarageCars",
+        "YearBuilt"
     ]]
 
     print("Variables utilizadas para el modelo:")
@@ -59,11 +61,12 @@ def cargar_modelo():
     return modelo
 
 
-def predecir_precio(calidad, area, habitaciones, banos, garaje):
+# ACTUALIZAMOS LA FUNCIÓN
+def predecir_precio(calidad, area, habitaciones, banos, garaje, anio):
 
     modelo = cargar_modelo()
 
-    datos = [[calidad, area, habitaciones, banos, garaje]]
+    datos = [[calidad, area, habitaciones, banos, garaje, anio]]
     prediccion = modelo.predict(datos)
 
     print("Predicción generada correctamente.")

@@ -17,7 +17,7 @@ def predecir_api():
             datos["habitaciones"],
             datos["banos"],
             datos["garaje"],
-            datos["anio"]  # 🔥 NUEVA VARIABLE
+            datos["anio"]  # NUEVA VARIABLE
         )
 
         return jsonify({"precio": precio})

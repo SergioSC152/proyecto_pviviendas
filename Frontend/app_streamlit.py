@@ -2,19 +2,45 @@ import streamlit as st
 import requests
 
 # CONFIG
-st.set_page_config(page_title="SMART HOME PRICE", page_icon="🏠", layout="wide")
+st.set_page_config(
+    page_title="SMART HOME PRICE",
+    page_icon="logo2.png",  # 👈 aquí tu logo
+    layout="wide"
+)
+
+
 
 # --- HEADER ---
 st.markdown("""
-# 🏠 SMART HOME PRICE
-### 🤖 Predicción inteligente de precios de viviendas
-""")
+<div style='
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:20px;
+    padding: 20px;
+    border-radius:20px;
+    background: linear-gradient(135deg, #6366F1, #22C55E);
+    color:white;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
+'>
+    <img src="data:image/png;base64,{}" width="80">
+    <div>
+        <h1 style='margin:0;'>SMART HOME PRICE</h1>
+        <p style='margin:0;'>Predicción inteligente de precios con IA</p>
+    </div>
+</div>
+""".format(
+    __import__("base64").b64encode(open("logo.png", "rb").read()).decode()
+), unsafe_allow_html=True)
 
 st.info("💡 Ingresa las características del inmueble y obtén una estimación basada en Machine Learning.")
 
 st.divider()
 
 # --- SIDEBAR ---
+with st.sidebar:
+    st.image("logo2.png", width=120)
+    st.markdown("## 🏠 SMART HOME")
 with st.sidebar:
     st.header("⚙️ Configura tu vivienda")
 
@@ -35,12 +61,12 @@ with st.sidebar:
 if 'precio' not in st.session_state:
     st.session_state.precio = 0
 
-col1, col2, col3, col4 = st.columns(4)
+#col1, col2, col3, col4 = st.columns(4)
 
-col1.metric("💰 Precio", f"${st.session_state.precio:,.0f}")
-col2.metric("🤖 Modelo", "Random Forest")
-col3.metric("📉 Error", "± $15K")
-col4.metric("📊 Confianza", "92%")
+#col1.metric("💰 Precio", f"${st.session_state.precio:,.0f}")
+#col2.metric("🤖 Modelo", "Random Forest")
+#col3.metric("📉 Error", "± $15K")
+#col4.metric("📊 Confianza", "92%")
 
 st.divider()
 
@@ -48,7 +74,21 @@ st.divider()
 tab1, tab2, tab3 = st.tabs(["📊 Predicción", "📈 Visualización", "🧠 Modelo"])
 
 with tab1:
-    st.subheader("Resultado de la predicción")
+    st.subheader("🗺️ Ubicación del inmueble")
+
+    import pandas as pd
+
+    data_mapa = pd.DataFrame({
+        'lat': [23.2494],
+        'lon': [-106.4111]
+    })
+
+    st.map(data_mapa)
+    st.caption("📍 Mazatlán, Sinaloa")
+
+    st.divider()
+
+    st.subheader("💰 Resultado de la predicción")
 
     if predecir_btn:
         try:
@@ -74,10 +114,8 @@ with tab1:
             if response.status_code == 200:
                 resultado = response.json()
 
-                # 🔥 Precio base del modelo
                 precio_base = resultado["precio"]
 
-                # 🔥 Simulación por ubicación
                 factores_ubicacion = {
                     "Centro": 1.25,
                     "Norte": 1.15,
@@ -86,13 +124,11 @@ with tab1:
                 }
 
                 factor = factores_ubicacion[ubicacion]
-
                 precio = precio_base * factor
 
-                # Guardar en sesión
                 st.session_state.precio = precio
 
-                # 💱 Conversión USD → MXN
+                # 💱 Conversión
                 TASA_USD_MXN = 17.0
                 precio_mxn = precio * TASA_USD_MXN
 
@@ -107,7 +143,6 @@ with tab1:
                 st.info(f"📍 Factor de ubicación aplicado: x{factor}")
                 st.info("💱 Conversión aproximada basada en tasa USD → MXN")
                 st.caption("La conversión es referencial y puede variar según el mercado.")
-
                 st.info("📌 Este resultado es una estimación basada en un modelo de Machine Learning entrenado.")
 
                 st.progress(92)

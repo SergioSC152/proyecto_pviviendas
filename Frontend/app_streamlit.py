@@ -20,7 +20,7 @@ st.markdown("""
     padding: 20px;
     border-radius:20px;
     background: linear-gradient(135deg, #6366F1, #22C55E);
-    color:white;
+gii    color:white;
     box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
 '>
     <img src="data:image/png;base64,{}" width="80">

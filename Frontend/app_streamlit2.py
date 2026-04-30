@@ -1,104 +1,112 @@
 import streamlit as st
 import requests
 
-st.set_page_config(page_title="SMART HOME", layout="wide")
+# CONFIG
+st.set_page_config(
+    page_title="SMART HOME PRICE",
+    page_icon="logo2.png",
+    layout="wide"
+)
 
-# ------------------ ESTILOS ------------------
+# --- HEADER ---
 st.markdown("""
-<style>
-html, body {
-    background-color: #f5f7fa;
-}
-
-.block-container {
-    background-color: white;
+<div style='
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:20px;
     padding: 20px;
-    border-radius: 10px;
-}
+    border-radius:20px;
+    background: linear-gradient(135deg, #6366F1, #22C55E);
+    color:white;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
+'>
+    <img src="data:image/png;base64,{}" width="80">
+    <div>
+        <h1 style='margin:0;'>SMART HOME PRICE</h1>
+        <p style='margin:0;'>Predicción inteligente de precios con IA</p>
+    </div>
+</div>
+""".format(
+    __import__("base64").b64encode(open("logo.png", "rb").read()).decode()
+), unsafe_allow_html=True)
 
-h1, h2, h3 {
-    color: #1f2937;
-}
+st.info("💡 Ingresa las características del inmueble y obtén una estimación basada en Machine Learning.")
 
-.logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #0ea5e9;
-}
-</style>
-""", unsafe_allow_html=True)
+st.divider()
 
-# ------------------ NAVBAR ------------------
-st.markdown('<div class="logo">🏠 SMART HOME</div>', unsafe_allow_html=True)
+# --- SIDEBAR ---
+with st.sidebar:
+    st.image("logo2.png", width=120)
+    st.markdown("## 🏠 SMART HOME")
 
-# ------------------ CONTROL DE PASOS ------------------
-if "step" not in st.session_state:
-    st.session_state.step = 0
+    st.header("⚙️ Configura tu vivienda")
 
-if "precio" not in st.session_state:
+    # 🔥 SIN + -
+    area = int(st.text_input("📐 Área (m²)", "120"))
+
+    # ✅ CON + -
+    cuartos = st.number_input("🛏️ Habitaciones", min_value=1, max_value=20, value=3)
+
+    banos = st.number_input("🚿 Baños", min_value=1, max_value=10, value=2)
+
+    # ✅ NUEVO (CON + -)
+    garaje = st.number_input("🚗 Garajes", min_value=0, max_value=10, value=1)
+
+    calidad = st.selectbox("⭐ Calidad", ["Mala", "Regular", "Buena", "Excelente", "Lujo"])
+
+    # 🔥 SIN + -
+    anio = int(st.text_input("Año de construcción", "2005"))
+
+    ubicacion = st.selectbox("📍 Ubicación", ["Centro", "Norte", "Sur", "Suburbio"])
+
+    st.divider()
+
+    predecir_btn = st.button("🔮 Predecir Precio", use_container_width=True)
+
+# --- ESTADO ---
+if 'precio' not in st.session_state:
     st.session_state.precio = 0
 
-# ------------------ HOME ------------------
-if st.session_state.step == 0:
-    st.title("Bienvenido a SMART HOME")
-    st.write("Sistema de predicción de precios de viviendas con IA")
+st.divider()
 
-    if st.button("📊 Generar Reporte"):
-        st.session_state.step = 1
+# --- TABS ---
+tab1, tab2, tab3 = st.tabs(["📊 Predicción", "📈 Visualización", "🧠 Modelo"])
 
-# ------------------ PASO 1 ------------------
-elif st.session_state.step == 1:
+# ===================== TAB 1 =====================
+with tab1:
+    st.subheader("🗺️ Ubicación del inmueble")
 
-    st.title("📍 Ubicación del inmueble")
+    import pandas as pd
 
-    col1, col2 = st.columns(2)
+    data_mapa = pd.DataFrame({
+        'lat': [23.2494],
+        'lon': [-106.4111]
+    })
 
-    with col1:
-        direccion = st.text_input("Dirección")
-        calle = st.text_input("Calle")
-        numero = st.text_input("Número exterior")
-        cp = st.text_input("Código postal")
+    st.map(data_mapa)
+    st.caption("📍 Mazatlán, Sinaloa")
 
-    with col2:
-        st.info("🗺️ Mapa interactivo próximamente")
+    st.divider()
 
-    if st.button("➡️ Siguiente"):
-        st.session_state.step = 2
+    st.subheader("💰 Resultado de la predicción")
 
-# ------------------ PASO 2 ------------------
-elif st.session_state.step == 2:
-
-    st.title("🏠 Características del inmueble")
-
-    col1, col2 = st.columns(2)
-
-    with col1:
-        area = st.slider("Área (m²)", 50, 500, 120)
-        habitaciones = st.slider("Habitaciones", 1, 5, 3)
-        banos = st.slider("Baños", 1, 3, 2)
-
-    with col2:
-        garaje = st.slider("Garaje", 0, 3, 1)
-        anio = st.slider("Año de construcción", 1950, 2023, 2005)
-        calidad = st.selectbox("Calidad", ["Mala", "Regular", "Buena", "Excelente", "Lujo"])
-        ubicacion = st.selectbox("📍 Zona en Mazatlán", ["Centro", "Norte", "Sur", "Suburbio"])
-
-    if st.button("🔮 Predecir"):
+    if predecir_btn:
         try:
             mapa_calidad = {
-                "Mala": 2,
-                "Regular": 4,
-                "Buena": 6,
-                "Excelente": 8,
-                "Lujo": 10
+                "Mala": 1,
+                "Regular": 2,
+                "Buena": 3,
+                "Excelente": 4,
+                "Lujo": 5
             }
 
             data = {
                 "calidad": mapa_calidad[calidad],
                 "area": area,
-                "habitaciones": habitaciones,
-                "banos": banos,
-                "garaje": garaje,
+                "habitaciones": int(cuartos),
+                "banos": int(banos),
+                "garaje": int(garaje),
                 "anio": anio
             }
 
@@ -107,57 +115,67 @@ elif st.session_state.step == 2:
             if response.status_code == 200:
                 resultado = response.json()
 
-                # 🔥 PRECIO BASE DEL MODELO
                 precio_base = resultado["precio"]
 
-                # 🔥 FACTORES POR ZONA (AQUÍ ESTÁ LO IMPORTANTE)
-                factores = {
+                factores_ubicacion = {
                     "Centro": 1.25,
                     "Norte": 1.15,
                     "Sur": 0.95,
                     "Suburbio": 0.85
                 }
 
-                factor = factores[ubicacion]
-
-                # 🔥 PRECIO AJUSTADO
+                factor = factores_ubicacion[ubicacion]
                 precio = precio_base * factor
 
-                # Guardar resultado
                 st.session_state.precio = precio
-                st.session_state.factor = factor
-                st.session_state.zona = ubicacion
 
-                st.session_state.step = 3
+                # 💱 Conversión
+                TASA_USD_MXN = 17.0
+                precio_mxn = precio * TASA_USD_MXN
+
+                st.balloons()
+
+                st.success(f"""
+                ## 💰 ${precio:,.2f} USD
+                ## 🇲🇽 ${precio_mxn:,.2f} MXN
+                ### 📍 Ubicación: {ubicacion}
+                """)
+
+                st.info(f"📍 Factor de ubicación aplicado: x{factor}")
+                st.info("💱 Conversión aproximada basada en tasa USD → MXN")
+                st.caption("La conversión es referencial.")
+                st.info("📌 Estimación basada en Machine Learning.")
+
+                st.progress(92)
 
             else:
-                st.error("❌ Error en el backend")
+                st.error("❌ Error en el servidor")
 
         except Exception as e:
-            st.error(f"❌ Error: {e}")
+            st.error(f"❌ Error en los datos: {e}")
 
-# ------------------ PASO 3 ------------------
-elif st.session_state.step == 3:
+# ===================== TAB 2 =====================
+with tab2:
+    st.subheader("📊 Distribución de precios")
 
-    st.title("💰 Resultado de la predicción")
+    st.bar_chart([120000, 150000, 170000, 140000, 200000])
 
-    precio = st.session_state.precio
-    factor = st.session_state.factor
-    zona = st.session_state.zona
+    st.write("📈 Datos simulados")
 
-    # 💱 Conversión
-    TASA = 17.0
-    precio_mxn = precio * TASA
+# ===================== TAB 3 =====================
+with tab3:
+    st.subheader("🧠 Información del modelo")
 
-    st.success("Predicción completada")
+    st.code("""
+Modelo: Random Forest
+Variables:
+- Área
+- Habitaciones
+- Baños
+- Garajes
+- Calidad
+- Año de construcción
+""")
 
-    st.markdown(f"## 💵 ${precio:,.2f} USD")
-    st.markdown(f"## 🇲🇽 ${precio_mxn:,.2f} MXN")
-
-    # 🔥 INFO PRO
-    st.info(f"📍 Zona: {zona} | Factor aplicado: x{factor}")
-
-    st.caption("La predicción fue ajustada según el mercado local de Mazatlán")
-
-    if st.button("🔄 Nuevo cálculo"):
-        st.session_state.step = 0
+    with st.expander("🔍 ¿Cómo funciona?"):
+        st.write("El modelo analiza datos históricos.")

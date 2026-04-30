@@ -14,7 +14,7 @@ def entrenar_y_guardar_modelo():
     print("Número de filas del dataset:", data.shape[0])
     print("Número de columnas del dataset:", data.shape[1])
 
-    # 🔥 AGREGAMOS YearBuilt
+    # Variables del modelo (se mantiene igual)
     X = data[[
         "OverallQual",
         "GrLivArea",
@@ -61,7 +61,21 @@ def cargar_modelo():
     return modelo
 
 
-# ACTUALIZAMOS LA FUNCIÓN
+# 🔥 NUEVA FUNCIÓN PARA AJUSTAR CALIDAD (CLAVE)
+def ajustar_por_calidad(precio, calidad):
+
+    factores = {
+        1: 0.95,   # Mala
+        2: 1.0,    # Regular
+        3: 1.05,   # Buena
+        4: 1.08,   # Excelente (ya no exagera)
+        5: 1.12    # Lujo (controlado)
+    }
+
+    return precio * factores.get(calidad, 1)
+
+
+# FUNCIÓN DE PREDICCIÓN ACTUALIZADA
 def predecir_precio(calidad, area, habitaciones, banos, garaje, anio):
 
     modelo = cargar_modelo()
@@ -69,9 +83,14 @@ def predecir_precio(calidad, area, habitaciones, banos, garaje, anio):
     datos = [[calidad, area, habitaciones, banos, garaje, anio]]
     prediccion = modelo.predict(datos)
 
+    precio_base = prediccion[0]
+
+    # 🔥 Ajuste controlado de calidad
+    precio_ajustado = ajustar_por_calidad(precio_base, calidad)
+
     print("Predicción generada correctamente.")
 
-    return int(prediccion[0])
+    return int(precio_ajustado)
 
 
 # Ejecutar entrenamiento si se corre directamente

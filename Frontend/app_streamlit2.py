@@ -21,7 +21,7 @@ st.markdown("""
     color:white;
     box-shadow: 0px 10px 30px rgba(0,0,0,0.4);
 '>
-    <img src="data:image/png;base64,{}" width="80">
+    <img src="data:image/png;base64,{}" width="80">wg
     <div>
         <h1 style='margin:0;'>SMART HOME PRICE</h1>
         <p style='margin:0;'>Predicción inteligente de precios con IA</p>

@@ -1,20 +1,18 @@
 import pandas as pd
 import pickle
 import numpy as np
-
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
-
+from sklearn.metrics import r2_score, mean_absolute_error, mean_squared_error
 
 def entrenar_y_guardar_modelo():
-
     data = pd.read_csv("../data/train.csv")
 
     print("Número de filas del dataset:", data.shape[0])
     print("Número de columnas del dataset:", data.shape[1])
 
-    # Variables del modelo (se mantiene igual)
+    # CORRECCIÓN AQUÍ: Se añadió la definición de X
     X = data[[
         "OverallQual",
         "GrLivArea",
@@ -33,20 +31,41 @@ def entrenar_y_guardar_modelo():
         X, y, test_size=0.2, random_state=42
     )
 
-    # Modelos
+    # Modelo Regresión Lineal
     modelo_lr = LinearRegression()
     modelo_lr.fit(X_train, y_train)
+    y_pred_lr = modelo_lr.predict(X_test)
 
+    r2_lr = r2_score(y_test, y_pred_lr)
+    mae_lr = mean_absolute_error(y_test, y_pred_lr)
+    rmse_lr = np.sqrt(mean_squared_error(y_test, y_pred_lr))
+
+    print("\n=== Regresión Lineal ===")
+    print("R2:", r2_lr)
+
+    # Modelo Random Forest
     modelo_rf = RandomForestRegressor(n_estimators=100, random_state=42)
     modelo_rf.fit(X_train, y_train)
+    y_pred_rf = modelo_rf.predict(X_test)
+
+    r2_rf = r2_score(y_test, y_pred_rf)
+    mae_rf = mean_absolute_error(y_test, y_pred_rf)
+    rmse_rf = np.sqrt(mean_squared_error(y_test, y_pred_rf))
+
+    print("\n=== Random Forest ===")
+    print("R2:", r2_rf)
+
+    # Guardar métricas
+    with open("../models/evaluacion.txt", "w") as f:
+        f.write(f"Regresion Lineal R2: {r2_lr}\nRandom Forest R2: {r2_rf}\n")
 
     # Selección del mejor modelo
-    if modelo_rf.score(X_test, y_test) > modelo_lr.score(X_test, y_test):
+    if r2_rf > r2_lr:
         mejor_modelo = modelo_rf
-        print("Se eligió Random Forest")
+        print("\nSe eligió Random Forest")
     else:
         mejor_modelo = modelo_lr
-        print("Se eligió Regresión Lineal")
+        print("\nSe eligió Regresión Lineal")
 
     # Guardar modelo
     with open("../models/modelo_regresion.pkl", "wb") as archivo:
@@ -54,45 +73,23 @@ def entrenar_y_guardar_modelo():
 
     print("Modelo guardado correctamente.")
 
-
 def cargar_modelo():
     with open("../models/modelo_regresion.pkl", "rb") as archivo:
         modelo = pickle.load(archivo)
     return modelo
 
-
-# 🔥 NUEVA FUNCIÓN PARA AJUSTAR CALIDAD (CLAVE)
 def ajustar_por_calidad(precio, calidad):
-
-    factores = {
-        1: 0.95,   # Mala
-        2: 1.0,    # Regular
-        3: 1.05,   # Buena
-        4: 1.08,   # Excelente (ya no exagera)
-        5: 1.12    # Lujo (controlado)
-    }
-
+    factores = {1: 0.95, 2: 1.0, 3: 1.05, 4: 1.08, 5: 1.12}
     return precio * factores.get(calidad, 1)
 
-
-# FUNCIÓN DE PREDICCIÓN ACTUALIZADA
 def predecir_precio(calidad, area, habitaciones, banos, garaje, anio):
-
     modelo = cargar_modelo()
-
     datos = [[calidad, area, habitaciones, banos, garaje, anio]]
     prediccion = modelo.predict(datos)
-
     precio_base = prediccion[0]
-
-    # 🔥 Ajuste controlado de calidad
     precio_ajustado = ajustar_por_calidad(precio_base, calidad)
-
-    print("Predicción generada correctamente.")
-
     return int(precio_ajustado)
 
-
-# Ejecutar entrenamiento si se corre directamente
+# CORRECCIÓN AQUÍ: Doble guion bajo
 if __name__ == "__main__":
     entrenar_y_guardar_modelo()

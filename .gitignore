@@ -1,0 +1,6 @@
+# Secrets
+Frontend/.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc

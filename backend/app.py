@@ -1,45 +1,120 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from model import predecir_precio
+
+import joblib
+import pandas as pd
+
+# =========================
+# CARGAR MODELO
+# =========================
+
+modelo = joblib.load("modelo.pkl")
+
+encoder_calidad = joblib.load("encoder_calidad.pkl")
+encoder_zona = joblib.load("encoder_zona.pkl")
+encoder_tipo = joblib.load("encoder_tipo.pkl")
+
+# =========================
+# APP FLASK
+# =========================
 
 app = Flask(__name__)
+
 CORS(app)
+
+# =========================
+# RUTA PREDICCIÓN
+# =========================
 
 @app.route("/predecir", methods=["POST"])
 def predecir_api():
 
-    datos = request.json
-
     try:
-        # 🔥 CONVERSIÓN DE TIPOS (CLAVE)
-        calidad = int(datos["calidad"])
+
+        datos = request.json
+
+        # =========================
+        # DATOS FRONTEND
+        # =========================
+
         area = int(datos["area"])
+
         habitaciones = int(datos["habitaciones"])
+
         banos = int(datos["banos"])
+
         garaje = int(datos["garaje"])
+
         anio = int(datos["anio"])
 
-        precio = predecir_precio(
-            calidad,
-            area,
-            habitaciones,
-            banos,
-            garaje,
-            anio
-        )
+        calidad = datos["calidad"]
 
-        return jsonify({"precio": precio})
+        zona = datos["zona"]
 
-    except KeyError as e:
-        return jsonify({"error": f"Falta el dato: {str(e)}"}), 400
+        tipo = datos["tipo"]
 
-    except ValueError:
-        return jsonify({"error": "Datos inválidos: asegúrate de enviar números"}), 400
+        # =========================
+        # ENCODERS
+        # =========================
+
+        calidad_encoded = encoder_calidad.transform([calidad])[0]
+
+        zona_encoded = encoder_zona.transform([zona])[0]
+
+        tipo_encoded = encoder_tipo.transform([tipo])[0]
+
+        # =========================
+        # VARIABLES DERIVADAS
+        # =========================
+
+        edad = 2026 - anio
+
+        habitaciones_por_bano = habitaciones / banos
+
+        area_por_habitacion = area / habitaciones
+
+        # =========================
+        # DATAFRAME
+        # =========================
+
+        nuevo = pd.DataFrame([{
+        "area": area,
+        "habitaciones": habitaciones,
+        "banos": banos,
+        "garaje": garaje,
+        "calidad": calidad_encoded,
+        "zona": zona_encoded,
+        "tipo": tipo_encoded,
+        "anio": anio,
+        "edad": edad,
+        "habitaciones_por_bano": habitaciones_por_bano,
+        "area_por_habitacion": area_por_habitacion
+}])
+        # =========================
+        # PREDICCIÓN IA
+        # =========================
+
+        prediccion = modelo.predict(nuevo)[0]
+
+        return jsonify({
+            "precio": round(prediccion, 2)
+        })
 
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
 
+     print("\n================ ERROR BACKEND ================\n")
+     print(e)
+     print("\n===============================================\n")
+
+     return jsonify({
+        "error": str(e)
+     }), 500
+
+# =========================
+# RUN
+# =========================
 
 if __name__ == "__main__":
+
     app.run(debug=True)
 

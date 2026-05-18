@@ -1,0 +1,3001 @@
+area,habitaciones,banos,garaje,calidad,zona,tipo,anio,precio
+212,3,4,0,Mala,Marina Mazatlan,Departamento,2011,12485900
+247,4,3,2,Lujo,Cerritos,Departamento,2021,12642202
+115,3,3,1,Buena,Villas del Rey,Departamento,2020,4197386
+127,3,2,1,Lujo,Pradera Dorada,Departamento,2003,3723417
+98,2,2,1,Buena,Zona Dorada,Casa,2021,7084345
+291,6,3,2,Mala,Marina Mazatlan,Casa,2007,15156763
+357,5,5,3,Buena,Pradera Dorada,Casa,2003,9528473
+101,2,2,0,Excelente,Marina Mazatlan,Departamento,2006,9716169
+292,6,5,2,Lujo,Pradera Dorada,Departamento,2008,9003795
+184,4,4,1,Buena,Cerritos,Casa,2013,7023447
+101,2,1,2,Buena,Marina Mazatlan,Departamento,2022,9302691
+288,5,3,2,Excelente,Marina Mazatlan,Casa,2013,22829928
+67,1,2,2,Excelente,Marina Mazatlan,Departamento,2009,5455029
+228,3,3,2,Buena,Zona Dorada,Casa,2003,14805458
+97,3,4,1,Buena,Pradera Dorada,Casa,2006,3074379
+342,5,4,3,Excelente,Marina Mazatlan,Casa,2022,28793357
+269,4,2,1,Mala,Villas del Rey,Departamento,2011,4671687
+399,5,3,3,Buena,Cerritos,Casa,1993,12759722
+197,3,4,1,Regular,Cerritos,Casa,2017,8023053
+227,4,4,1,Excelente,Cerritos,Departamento,2019,11688115
+112,2,1,1,Buena,Centro,Casa,2010,3174164
+317,5,3,4,Buena,Centro,Casa,2016,10403984
+388,4,2,3,Lujo,Pradera Dorada,Casa,2005,9285036
+126,2,2,1,Mala,Cerritos,Departamento,2000,3744140
+133,3,3,2,Lujo,Centro,Casa,1997,4904259
+434,4,3,2,Buena,Marina Mazatlan,Casa,2001,20915566
+170,4,4,1,Excelente,Centro,Casa,2026,7245678
+111,3,3,1,Regular,Cerritos,Casa,2014,5745605
+160,4,4,0,Lujo,Zona Dorada,Departamento,2009,18534042
+74,2,1,0,Excelente,Centro,Departamento,1994,2217726
+340,4,3,4,Excelente,Zona Dorada,Casa,2022,30539990
+142,3,4,2,Buena,Cerritos,Departamento,1999,6449159
+102,3,3,0,Buena,Zona Dorada,Departamento,2011,8719086
+172,3,3,1,Lujo,Marina Mazatlan,Departamento,2026,18446580
+102,3,4,1,Regular,Pradera Dorada,Departamento,2001,2568128
+67,1,1,1,Excelente,Pradera Dorada,Casa,2020,2026649
+56,1,1,1,Buena,Marina Mazatlan,Departamento,2002,4263539
+106,2,1,0,Excelente,Villas del Rey,Casa,2012,2223977
+75,2,2,0,Mala,Zona Dorada,Departamento,2026,6394217
+241,3,3,2,Excelente,Zona Dorada,Departamento,2025,27036148
+439,6,3,2,Mala,Centro,Casa,2019,11716896
+389,5,4,4,Lujo,Zona Dorada,Casa,1993,26789668
+234,3,2,2,Regular,Villas del Rey,Casa,1997,3906905
+257,4,2,2,Excelente,Zona Dorada,Departamento,1996,17055061
+101,2,1,1,Mala,Villas del Rey,Casa,2020,2264239
+234,3,4,1,Lujo,Villas del Rey,Departamento,1992,5399739
+262,6,3,1,Buena,Centro,Departamento,2010,7935575
+401,4,3,3,Buena,Centro,Casa,2006,11113568
+173,3,2,1,Mala,Villas del Rey,Casa,2002,3208533
+101,3,4,1,Mala,Centro,Casa,1990,3587145
+69,1,2,0,Excelente,Marina Mazatlan,Departamento,1998,4631139
+386,6,5,3,Lujo,Zona Dorada,Casa,2022,35667609
+100,3,3,0,Lujo,Villas del Rey,Casa,2008,3213209
+138,3,3,2,Buena,Centro,Casa,2000,3760755
+61,2,1,1,Regular,Pradera Dorada,Casa,2014,1828662
+75,1,1,2,Buena,Cerritos,Departamento,2001,2469150
+67,1,2,1,Excelente,Marina Mazatlan,Departamento,1998,5187362
+380,5,3,4,Mala,Zona Dorada,Casa,1997,17552515
+331,6,5,3,Lujo,Centro,Casa,2018,12146665
+245,3,2,1,Regular,Marina Mazatlan,Casa,2001,11627799
+374,4,2,3,Lujo,Zona Dorada,Casa,1991,26671274
+117,3,4,1,Excelente,Centro,Departamento,2026,5374329
+391,6,5,3,Buena,Zona Dorada,Casa,1998,23684817
+300,4,2,2,Buena,Marina Mazatlan,Casa,1991,16838846
+141,3,3,1,Lujo,Pradera Dorada,Casa,2005,4466627
+117,2,1,2,Mala,Centro,Departamento,2026,4356496
+282,6,5,1,Mala,Pradera Dorada,Departamento,2019,6422698
+375,6,4,2,Excelente,Pradera Dorada,Casa,2016,10428790
+251,5,5,0,Lujo,Marina Mazatlan,Departamento,1991,20986214
+238,3,2,2,Regular,Zona Dorada,Casa,2014,15013437
+107,3,4,1,Buena,Cerritos,Casa,2011,5553650
+118,3,2,1,Lujo,Cerritos,Casa,2026,7327555
+219,4,2,0,Buena,Villas del Rey,Departamento,1993,3865188
+296,6,3,2,Mala,Pradera Dorada,Departamento,2025,8371206
+166,3,3,2,Excelente,Cerritos,Casa,2002,8446816
+426,4,3,2,Buena,Marina Mazatlan,Casa,2011,23932631
+56,2,1,0,Lujo,Pradera Dorada,Departamento,2017,2052874
+91,2,1,1,Regular,Centro,Casa,2003,2542964
+173,4,3,1,Mala,Villas del Rey,Departamento,2026,4095506
+189,3,2,2,Mala,Zona Dorada,Departamento,2025,15351045
+345,6,4,4,Mala,Pradera Dorada,Casa,1995,6099108
+78,1,2,1,Regular,Cerritos,Casa,2000,2652773
+50,1,1,1,Regular,Pradera Dorada,Departamento,2003,1422285
+249,4,2,0,Regular,Pradera Dorada,Departamento,2000,4603400
+107,2,1,1,Regular,Pradera Dorada,Departamento,2026,3407729
+305,5,5,2,Lujo,Cerritos,Casa,2002,16623761
+229,3,4,0,Excelente,Pradera Dorada,Departamento,2010,5524034
+172,3,2,1,Regular,Pradera Dorada,Departamento,2025,5397813
+110,2,1,1,Lujo,Centro,Departamento,1991,3346570
+128,3,3,2,Mala,Pradera Dorada,Departamento,2002,3974685
+225,4,4,1,Buena,Villas del Rey,Departamento,2025,6428083
+227,4,3,2,Buena,Villas del Rey,Departamento,2014,5524387
+248,4,2,2,Regular,Marina Mazatlan,Casa,2021,15239457
+270,6,4,2,Excelente,Marina Mazatlan,Departamento,2003,21868498
+236,3,3,0,Lujo,Cerritos,Departamento,2017,11119026
+165,4,2,1,Buena,Marina Mazatlan,Casa,2010,10648045
+136,3,4,1,Excelente,Marina Mazatlan,Casa,2016,10986135
+197,3,2,1,Excelente,Cerritos,Departamento,2015,8659981
+63,2,2,1,Buena,Centro,Casa,2026,2915514
+196,4,4,2,Excelente,Marina Mazatlan,Casa,2022,16764790
+147,3,3,2,Excelente,Cerritos,Casa,2013,6991912
+341,6,3,3,Mala,Pradera Dorada,Casa,2013,7989807
+169,3,3,1,Regular,Villas del Rey,Departamento,2010,3806468
+345,5,5,3,Buena,Marina Mazatlan,Casa,2021,26386106
+209,3,3,1,Excelente,Villas del Rey,Casa,2006,5267648
+416,4,4,4,Regular,Villas del Rey,Casa,2018,8598551
+333,5,4,4,Excelente,Villas del Rey,Casa,2015,9635296
+366,4,3,2,Lujo,Cerritos,Casa,2018,19766917
+352,5,4,3,Buena,Pradera Dorada,Casa,2003,8823249
+202,4,4,2,Excelente,Zona Dorada,Departamento,2006,17833595
+93,2,1,0,Excelente,Marina Mazatlan,Departamento,1991,6112278
+117,3,3,1,Lujo,Marina Mazatlan,Casa,2016,11559874
+365,5,5,3,Regular,Pradera Dorada,Casa,2004,8565891
+289,4,4,0,Excelente,Cerritos,Departamento,2006,11138260
+81,3,2,2,Regular,Marina Mazatlan,Departamento,2009,6795490
+147,3,4,2,Excelente,Pradera Dorada,Departamento,2000,4408564
+328,4,2,4,Lujo,Villas del Rey,Casa,1997,5645245
+248,3,3,0,Mala,Zona Dorada,Departamento,2024,20239566
+221,4,2,2,Lujo,Pradera Dorada,Departamento,2002,6922475
+69,1,1,0,Regular,Villas del Rey,Casa,1998,1117224
+184,4,3,1,Mala,Marina Mazatlan,Departamento,2016,11965885
+233,3,4,1,Regular,Marina Mazatlan,Departamento,2002,16992418
+319,5,4,3,Regular,Centro,Casa,2023,9559264
+69,2,1,1,Mala,Villas del Rey,Departamento,1993,1308866
+68,1,1,1,Mala,Centro,Departamento,2017,1949412
+107,2,1,2,Buena,Marina Mazatlan,Departamento,2002,9104530
+81,3,4,2,Mala,Villas del Rey,Departamento,2007,3587431
+278,4,2,4,Lujo,Zona Dorada,Casa,2023,28387964
+372,4,3,2,Lujo,Centro,Casa,2003,12373530
+224,4,2,0,Mala,Pradera Dorada,Departamento,2011,4685511
+220,4,4,1,Lujo,Pradera Dorada,Departamento,2002,6515637
+153,4,2,1,Regular,Pradera Dorada,Departamento,2001,3042561
+96,3,4,1,Lujo,Villas del Rey,Departamento,2015,3792011
+113,3,3,1,Regular,Pradera Dorada,Casa,2009,3104478
+436,5,4,4,Regular,Zona Dorada,Casa,2001,23109678
+434,5,5,4,Buena,Pradera Dorada,Casa,1993,8085992
+263,5,4,0,Buena,Villas del Rey,Departamento,2010,7054683
+180,3,3,1,Mala,Villas del Rey,Casa,2007,3976337
+148,2,1,0,Excelente,Cerritos,Departamento,2000,4701285
+117,2,2,0,Regular,Marina Mazatlan,Departamento,2018,8638506
+288,5,4,3,Regular,Villas del Rey,Casa,1990,5313004
+243,4,3,2,Excelente,Pradera Dorada,Departamento,1993,5269517
+221,3,4,2,Lujo,Zona Dorada,Casa,2014,20277966
+276,6,3,0,Buena,Cerritos,Departamento,2010,12451682
+445,4,3,2,Buena,Cerritos,Casa,1996,14405223
+126,2,2,1,Buena,Pradera Dorada,Departamento,2005,3367658
+235,4,4,1,Mala,Zona Dorada,Casa,1991,11894095
+147,3,3,1,Regular,Pradera Dorada,Departamento,2005,3865040
+295,6,4,0,Regular,Marina Mazatlan,Departamento,1991,17722055
+185,4,3,1,Regular,Marina Mazatlan,Casa,2014,12645497
+53,1,2,2,Mala,Pradera Dorada,Departamento,1999,1628773
+278,4,2,2,Regular,Villas del Rey,Departamento,2018,5789992
+209,4,2,2,Excelente,Pradera Dorada,Departamento,2003,5700354
+284,6,3,2,Lujo,Villas del Rey,Casa,1992,6379452
+177,3,3,1,Buena,Pradera Dorada,Departamento,2010,4844428
+166,4,2,1,Regular,Centro,Departamento,2001,3975377
+71,2,2,0,Lujo,Centro,Casa,2020,3012274
+225,4,2,1,Buena,Villas del Rey,Departamento,2025,5030835
+116,3,4,1,Mala,Marina Mazatlan,Departamento,2019,9634034
+120,3,4,1,Regular,Centro,Departamento,1992,3460271
+296,6,4,4,Mala,Cerritos,Casa,1994,8909217
+84,3,4,1,Buena,Marina Mazatlan,Casa,2017,7423876
+47,2,2,0,Buena,Marina Mazatlan,Departamento,2007,3912781
+95,2,2,2,Regular,Pradera Dorada,Departamento,2023,3352456
+104,3,3,1,Excelente,Pradera Dorada,Departamento,1991,3016353
+314,6,4,2,Mala,Cerritos,Casa,2001,9181951
+216,3,4,2,Mala,Cerritos,Casa,2006,7985957
+66,1,2,1,Buena,Cerritos,Departamento,2001,2490229
+122,2,2,2,Regular,Cerritos,Casa,2000,3899866
+438,6,4,2,Lujo,Pradera Dorada,Casa,2019,12183124
+278,4,2,3,Mala,Centro,Casa,2017,6480422
+435,4,3,2,Mala,Marina Mazatlan,Casa,1993,17753149
+103,2,1,1,Excelente,Zona Dorada,Casa,2000,6057003
+210,4,4,2,Mala,Marina Mazatlan,Departamento,1992,9984766
+94,2,1,1,Excelente,Cerritos,Departamento,2001,3828426
+90,2,2,1,Lujo,Pradera Dorada,Casa,2020,3177875
+278,6,4,2,Excelente,Marina Mazatlan,Departamento,1998,19953021
+80,1,1,0,Lujo,Zona Dorada,Departamento,2022,8048462
+214,3,2,0,Mala,Villas del Rey,Departamento,2009,4277482
+105,2,1,0,Regular,Zona Dorada,Casa,1998,4992473
+178,3,4,2,Buena,Villas del Rey,Casa,2018,5055308
+298,5,4,0,Excelente,Pradera Dorada,Departamento,2010,8447099
+400,4,2,3,Excelente,Cerritos,Casa,2015,17750091
+142,2,2,1,Lujo,Centro,Departamento,2026,6755589
+124,2,1,0,Buena,Centro,Departamento,2009,3669603
+352,4,2,2,Excelente,Pradera Dorada,Casa,1991,6493194
+439,6,5,4,Mala,Cerritos,Casa,1993,12320166
+264,6,5,4,Mala,Villas del Rey,Casa,2004,5733888
+334,6,5,2,Buena,Marina Mazatlan,Casa,1999,19274553
+99,3,3,2,Lujo,Pradera Dorada,Departamento,2005,4240552
+391,4,2,2,Buena,Cerritos,Casa,1995,12643800
+162,3,4,2,Lujo,Zona Dorada,Casa,2005,15141931
+69,2,2,2,Excelente,Pradera Dorada,Departamento,2012,2558680
+126,3,3,0,Regular,Zona Dorada,Departamento,1990,8631060
+151,4,4,1,Excelente,Centro,Casa,1992,4837809
+152,3,4,0,Lujo,Marina Mazatlan,Departamento,1999,11591677
+224,4,4,2,Excelente,Zona Dorada,Casa,2024,18871201
+290,6,4,2,Excelente,Zona Dorada,Casa,2000,19109509
+92,3,2,1,Buena,Zona Dorada,Casa,2009,7030265
+81,2,2,2,Buena,Marina Mazatlan,Departamento,2018,8145053
+306,4,2,3,Lujo,Pradera Dorada,Casa,2007,8132645
+113,3,3,0,Excelente,Marina Mazatlan,Departamento,2006,10512160
+409,5,5,4,Regular,Centro,Casa,2013,10816827
+287,4,3,3,Mala,Pradera Dorada,Casa,2010,5119733
+278,6,3,2,Lujo,Marina Mazatlan,Departamento,2021,29581350
+229,4,4,2,Excelente,Pradera Dorada,Casa,2009,7705540
+89,3,2,0,Buena,Zona Dorada,Casa,2019,6786305
+450,4,3,4,Buena,Centro,Casa,2019,14378141
+124,3,3,2,Mala,Villas del Rey,Casa,2002,2607984
+184,3,2,1,Excelente,Cerritos,Casa,2006,8925778
+182,4,4,2,Regular,Cerritos,Casa,2013,7361967
+164,3,2,1,Regular,Cerritos,Departamento,1992,4919772
+133,2,2,1,Lujo,Zona Dorada,Casa,2026,12582261
+337,5,5,4,Excelente,Centro,Casa,2016,13756783
+273,4,3,2,Buena,Pradera Dorada,Departamento,2002,6631993
+399,5,4,2,Excelente,Pradera Dorada,Casa,2024,11334455
+161,3,2,1,Lujo,Villas del Rey,Departamento,2021,4874455
+243,4,3,1,Lujo,Zona Dorada,Departamento,2011,25926812
+233,3,2,1,Regular,Zona Dorada,Departamento,2007,16860416
+322,6,5,3,Excelente,Marina Mazatlan,Casa,2017,25398652
+196,4,3,2,Mala,Centro,Departamento,2022,5576861
+74,2,1,0,Mala,Villas del Rey,Casa,2014,1392672
+382,5,4,4,Regular,Villas del Rey,Casa,2019,7824841
+439,6,5,3,Mala,Marina Mazatlan,Casa,2014,25271128
+409,5,4,2,Lujo,Cerritos,Casa,2016,20059358
+45,2,1,2,Lujo,Cerritos,Departamento,2010,2653991
+86,2,2,2,Buena,Zona Dorada,Departamento,2001,5572439
+50,1,2,2,Regular,Pradera Dorada,Departamento,1992,1212810
+211,4,3,2,Regular,Cerritos,Casa,2008,7568759
+368,5,4,3,Buena,Centro,Casa,2023,13529191
+258,5,4,1,Mala,Centro,Departamento,1999,5915155
+106,2,1,0,Regular,Cerritos,Departamento,1995,3138355
+415,4,4,4,Lujo,Pradera Dorada,Casa,1991,8411688
+160,3,3,1,Mala,Zona Dorada,Departamento,2016,12377484
+148,2,2,2,Lujo,Centro,Casa,2003,5479633
+368,5,3,2,Regular,Centro,Casa,2004,10456998
+59,1,2,2,Lujo,Cerritos,Departamento,1995,2848505
+102,2,1,1,Buena,Villas del Rey,Casa,2025,2693013
+254,4,4,2,Buena,Zona Dorada,Departamento,2017,21883072
+238,4,2,1,Regular,Pradera Dorada,Departamento,2016,6325708
+137,2,2,2,Excelente,Zona Dorada,Casa,2000,8734338
+84,3,2,2,Mala,Centro,Departamento,1997,2785704
+364,6,3,4,Regular,Zona Dorada,Casa,2005,23792741
+219,4,4,1,Lujo,Marina Mazatlan,Casa,2020,18319029
+285,5,4,2,Excelente,Zona Dorada,Casa,2002,21515299
+235,4,4,2,Lujo,Pradera Dorada,Casa,2023,8568168
+415,6,5,3,Excelente,Villas del Rey,Casa,2013,10211071
+251,4,4,2,Buena,Zona Dorada,Departamento,1992,18246190
+266,5,5,0,Lujo,Centro,Departamento,1993,7608320
+100,3,2,1,Regular,Zona Dorada,Casa,1998,5688769
+248,4,2,2,Excelente,Marina Mazatlan,Departamento,2025,26570799
+91,2,1,1,Excelente,Villas del Rey,Departamento,2020,2317398
+287,4,2,3,Lujo,Marina Mazatlan,Casa,2017,26662118
+86,3,3,0,Buena,Centro,Departamento,2022,3429217
+372,6,4,2,Lujo,Zona Dorada,Casa,2010,30355087
+99,2,2,0,Buena,Villas del Rey,Casa,2022,2392398
+79,1,1,2,Regular,Centro,Departamento,2018,2496633
+161,4,2,1,Excelente,Marina Mazatlan,Casa,2020,13736641
+92,2,2,1,Lujo,Pradera Dorada,Departamento,2013,3295649
+254,5,4,3,Lujo,Centro,Casa,2026,10111855
+145,2,2,0,Lujo,Centro,Departamento,1992,4194721
+66,2,1,2,Lujo,Pradera Dorada,Departamento,1991,1854852
+85,3,3,0,Excelente,Cerritos,Casa,2025,5372269
+129,2,1,1,Buena,Villas del Rey,Casa,1990,2022587
+70,2,1,0,Mala,Marina Mazatlan,Casa,2015,4390070
+82,2,1,1,Buena,Zona Dorada,Departamento,1993,5353840
+123,3,2,1,Buena,Pradera Dorada,Casa,2001,2588364
+182,4,3,1,Excelente,Villas del Rey,Departamento,2007,5205561
+374,4,2,4,Lujo,Centro,Casa,2013,13242779
+226,4,2,1,Mala,Centro,Departamento,2022,6670625
+215,4,4,2,Regular,Marina Mazatlan,Casa,1990,10514595
+262,4,4,2,Buena,Zona Dorada,Departamento,1997,16477681
+181,3,2,2,Excelente,Villas del Rey,Casa,2023,4901081
+174,4,2,1,Mala,Pradera Dorada,Departamento,2009,4485769
+188,4,3,0,Buena,Marina Mazatlan,Departamento,2026,17526195
+65,2,2,1,Buena,Cerritos,Casa,2005,2927859
+211,4,2,2,Mala,Zona Dorada,Casa,2006,13082422
+247,3,4,2,Mala,Pradera Dorada,Departamento,2018,5842739
+440,6,5,4,Lujo,Villas del Rey,Casa,2018,11927828
+282,6,5,2,Lujo,Villas del Rey,Casa,1997,5562155
+418,4,2,4,Regular,Pradera Dorada,Casa,2000,6434089
+163,4,3,0,Lujo,Villas del Rey,Departamento,1992,4014324
+135,2,1,0,Regular,Zona Dorada,Departamento,1996,8409442
+121,3,4,1,Excelente,Centro,Departamento,2008,4838977
+71,1,1,1,Excelente,Centro,Casa,2016,2665955
+195,3,3,0,Excelente,Pradera Dorada,Departamento,2010,5248972
+256,5,3,2,Lujo,Cerritos,Casa,2022,13674244
+121,3,4,1,Regular,Zona Dorada,Departamento,1997,8576387
+263,6,3,1,Buena,Cerritos,Departamento,2014,11169942
+406,6,5,2,Regular,Pradera Dorada,Casa,1992,7045167
+49,2,1,2,Mala,Villas del Rey,Departamento,1992,1287132
+294,4,4,2,Regular,Cerritos,Casa,2022,12137832
+175,4,3,2,Buena,Cerritos,Casa,2014,7919055
+121,3,2,2,Mala,Marina Mazatlan,Casa,1998,6175224
+108,2,1,0,Lujo,Zona Dorada,Casa,1995,6838823
+82,2,2,0,Excelente,Zona Dorada,Casa,1992,5808183
+88,2,1,1,Excelente,Cerritos,Departamento,2001,3324711
+88,2,2,1,Lujo,Villas del Rey,Casa,1990,1917444
+236,3,2,0,Excelente,Zona Dorada,Departamento,2018,21698237
+66,2,2,1,Regular,Pradera Dorada,Departamento,2009,1918920
+295,5,5,1,Excelente,Marina Mazatlan,Departamento,1993,20146027
+119,2,2,0,Buena,Centro,Departamento,2022,3823572
+209,4,4,2,Excelente,Cerritos,Casa,1997,8254707
+170,3,2,1,Regular,Zona Dorada,Casa,2019,11971861
+249,4,2,0,Lujo,Cerritos,Departamento,1999,10006404
+175,3,3,1,Buena,Villas del Rey,Casa,2023,5479131
+221,4,3,2,Mala,Centro,Casa,2025,7019011
+432,6,4,3,Mala,Marina Mazatlan,Casa,2024,29168915
+236,3,4,0,Lujo,Centro,Departamento,2023,8769217
+135,2,2,1,Lujo,Marina Mazatlan,Casa,2009,12268465
+193,4,4,1,Regular,Pradera Dorada,Casa,1998,4758928
+264,6,5,0,Mala,Villas del Rey,Departamento,1993,4694508
+354,5,4,2,Buena,Marina Mazatlan,Casa,2001,18315406
+108,2,2,1,Regular,Villas del Rey,Casa,2008,2375535
+322,4,2,4,Lujo,Zona Dorada,Casa,2012,26922813
+218,3,3,1,Lujo,Centro,Departamento,1998,6856255
+137,3,3,2,Regular,Zona Dorada,Departamento,2015,9628187
+190,4,4,2,Lujo,Centro,Departamento,2011,6913987
+60,2,1,0,Regular,Centro,Departamento,2017,2460866
+107,3,2,2,Excelente,Centro,Departamento,1998,3153649
+184,4,2,0,Buena,Marina Mazatlan,Departamento,1998,10254400
+92,2,2,0,Excelente,Cerritos,Casa,2003,4331193
+61,1,2,0,Mala,Marina Mazatlan,Departamento,2006,3906818
+255,6,4,2,Mala,Centro,Departamento,2004,7909783
+138,3,4,1,Excelente,Villas del Rey,Casa,1990,3888058
+52,2,1,0,Lujo,Zona Dorada,Departamento,2021,5538129
+307,5,3,4,Buena,Zona Dorada,Casa,1992,18981536
+161,3,2,1,Lujo,Pradera Dorada,Casa,1990,3290445
+123,3,3,2,Regular,Marina Mazatlan,Departamento,2006,10110962
+231,4,3,0,Mala,Pradera Dorada,Departamento,1992,3424931
+252,6,4,4,Buena,Cerritos,Casa,2019,13686720
+166,4,4,2,Mala,Zona Dorada,Casa,2026,12914771
+178,3,2,2,Mala,Centro,Casa,1999,3400218
+209,4,2,0,Lujo,Villas del Rey,Departamento,1993,4713718
+174,4,4,0,Buena,Zona Dorada,Departamento,1992,11702420
+124,3,3,2,Excelente,Centro,Departamento,1996,3986747
+406,4,4,4,Regular,Villas del Rey,Casa,2008,8404620
+416,5,5,4,Buena,Centro,Casa,2007,13167572
+362,4,2,2,Regular,Marina Mazatlan,Casa,2009,21864684
+176,3,3,2,Buena,Villas del Rey,Casa,2012,4204931
+367,6,5,4,Excelente,Zona Dorada,Casa,2014,27805541
+97,3,2,2,Mala,Marina Mazatlan,Departamento,1996,5918483
+93,3,2,2,Lujo,Cerritos,Departamento,2019,5881354
+229,4,3,1,Mala,Cerritos,Departamento,1991,7290863
+132,3,2,0,Lujo,Pradera Dorada,Departamento,1999,3420881
+153,3,3,1,Excelente,Centro,Casa,2004,5999682
+132,2,2,1,Excelente,Centro,Departamento,1993,4267094
+182,3,2,1,Mala,Zona Dorada,Departamento,2000,9736670
+312,4,3,2,Buena,Cerritos,Casa,2016,13562407
+252,5,5,3,Regular,Marina Mazatlan,Casa,2021,16889944
+201,4,2,2,Lujo,Zona Dorada,Casa,2005,17935045
+245,3,2,0,Regular,Villas del Rey,Departamento,2004,4733390
+288,6,4,3,Mala,Pradera Dorada,Casa,2002,7179786
+237,4,3,1,Excelente,Villas del Rey,Departamento,2009,6103839
+385,4,4,2,Lujo,Zona Dorada,Casa,2024,37342989
+60,1,2,2,Excelente,Marina Mazatlan,Departamento,1990,4945326
+197,3,3,0,Lujo,Pradera Dorada,Departamento,2017,7147920
+81,2,2,0,Regular,Marina Mazatlan,Casa,1998,4429142
+292,5,5,4,Regular,Pradera Dorada,Casa,2003,7730997
+69,1,1,1,Lujo,Zona Dorada,Casa,2011,5557448
+280,6,5,2,Regular,Pradera Dorada,Departamento,1996,5835621
+230,3,4,1,Excelente,Pradera Dorada,Casa,1993,5357681
+208,4,4,2,Regular,Zona Dorada,Casa,2010,15084516
+289,4,4,0,Buena,Villas del Rey,Departamento,2022,6303799
+197,4,4,1,Buena,Marina Mazatlan,Departamento,2015,14740170
+87,3,3,1,Lujo,Pradera Dorada,Casa,1994,2566881
+195,3,2,1,Buena,Marina Mazatlan,Casa,2014,11827245
+319,4,3,3,Buena,Cerritos,Casa,2024,15794173
+192,3,2,2,Mala,Zona Dorada,Casa,2003,10990965
+199,3,4,0,Excelente,Marina Mazatlan,Departamento,2005,18751683
+101,2,1,1,Buena,Pradera Dorada,Casa,1992,2058855
+188,3,2,1,Excelente,Centro,Casa,2021,6563660
+249,3,3,1,Regular,Cerritos,Casa,2024,11207067
+122,3,2,0,Excelente,Centro,Departamento,2003,3790070
+73,1,1,1,Regular,Cerritos,Casa,1999,2250051
+125,3,4,2,Buena,Zona Dorada,Casa,2015,9450386
+199,3,3,2,Mala,Cerritos,Casa,2015,6098244
+411,5,4,2,Excelente,Villas del Rey,Casa,2012,8905835
+350,6,4,3,Buena,Zona Dorada,Casa,2021,27158101
+110,2,1,2,Mala,Marina Mazatlan,Departamento,2003,7519324
+373,6,5,4,Buena,Marina Mazatlan,Casa,2025,32840990
+434,6,5,3,Regular,Pradera Dorada,Casa,1990,7843923
+117,3,3,0,Regular,Cerritos,Departamento,1992,4696011
+308,6,3,2,Excelente,Villas del Rey,Casa,1994,6074369
+163,3,4,0,Excelente,Cerritos,Departamento,2023,9704797
+75,1,2,0,Lujo,Marina Mazatlan,Departamento,2019,8176723
+235,4,2,0,Mala,Marina Mazatlan,Departamento,2002,15753392
+184,4,4,1,Mala,Villas del Rey,Casa,2010,3651407
+315,4,4,2,Regular,Villas del Rey,Casa,2004,7244099
+449,5,5,4,Buena,Centro,Casa,2022,15702439
+253,4,2,4,Lujo,Zona Dorada,Casa,2001,17984898
+254,5,3,0,Lujo,Cerritos,Departamento,1995,9684612
+121,2,2,2,Mala,Cerritos,Casa,1990,3650738
+131,2,2,0,Buena,Marina Mazatlan,Departamento,2025,12742140
+322,4,2,3,Regular,Centro,Casa,2017,9509537
+89,2,1,0,Buena,Marina Mazatlan,Departamento,2009,6785814
+200,3,2,0,Buena,Marina Mazatlan,Departamento,2023,16944575
+81,3,2,1,Lujo,Marina Mazatlan,Casa,2020,8219310
+204,3,3,2,Lujo,Villas del Rey,Casa,2001,4918987
+280,6,5,4,Lujo,Zona Dorada,Casa,2006,25055279
+409,5,4,2,Buena,Cerritos,Casa,2001,13889740
+57,1,1,0,Regular,Pradera Dorada,Departamento,2014,1505961
+301,4,4,3,Lujo,Villas del Rey,Casa,1996,6421665
+251,4,3,2,Lujo,Zona Dorada,Casa,1998,16667613
+67,2,2,1,Lujo,Centro,Departamento,2008,2770576
+123,2,2,1,Lujo,Villas del Rey,Departamento,2001,2762103
+178,4,4,0,Excelente,Zona Dorada,Departamento,2021,16854922
+243,4,2,2,Excelente,Marina Mazatlan,Departamento,1993,18516878
+250,4,2,2,Regular,Villas del Rey,Casa,2015,4884160
+118,2,1,1,Regular,Cerritos,Departamento,1999,3992250
+102,3,4,1,Excelente,Marina Mazatlan,Departamento,2009,10221093
+77,1,2,0,Lujo,Zona Dorada,Departamento,2015,8135643
+144,3,3,0,Mala,Cerritos,Departamento,2019,5631843
+167,3,3,2,Lujo,Villas del Rey,Departamento,2018,4932965
+198,4,2,2,Regular,Villas del Rey,Departamento,1999,3948057
+195,4,4,2,Mala,Villas del Rey,Casa,2004,4283214
+139,3,2,1,Excelente,Zona Dorada,Departamento,2024,15061111
+255,6,3,1,Excelente,Cerritos,Departamento,1992,9034653
+249,4,2,2,Mala,Pradera Dorada,Departamento,2001,3754926
+105,2,1,1,Buena,Marina Mazatlan,Casa,2019,7736534
+260,4,4,3,Lujo,Cerritos,Casa,2019,13677580
+47,2,2,2,Regular,Cerritos,Departamento,2012,2292163
+93,2,1,0,Buena,Marina Mazatlan,Casa,2003,6260017
+118,2,1,1,Lujo,Marina Mazatlan,Casa,2018,10616472
+372,5,3,2,Buena,Centro,Casa,2000,9235824
+158,3,2,1,Regular,Zona Dorada,Departamento,2007,11257814
+76,2,1,0,Mala,Zona Dorada,Casa,2005,4351289
+218,3,2,1,Regular,Marina Mazatlan,Departamento,1996,12792690
+240,4,2,2,Mala,Centro,Casa,1998,4486603
+431,6,3,3,Mala,Cerritos,Casa,2023,16516293
+293,5,3,2,Regular,Marina Mazatlan,Departamento,2021,21753476
+344,4,4,4,Lujo,Pradera Dorada,Casa,2006,9666717
+127,2,2,1,Lujo,Centro,Casa,2003,4817821
+244,3,4,2,Excelente,Zona Dorada,Departamento,2009,20259011
+121,2,2,1,Lujo,Pradera Dorada,Casa,2003,3694864
+285,6,5,1,Lujo,Cerritos,Departamento,2011,14864850
+293,4,2,3,Buena,Marina Mazatlan,Casa,1994,16779604
+290,5,4,1,Buena,Villas del Rey,Departamento,2007,7571649
+124,3,4,2,Lujo,Zona Dorada,Departamento,2014,12115978
+410,6,5,4,Lujo,Marina Mazatlan,Casa,1995,23903103
+277,4,4,4,Lujo,Cerritos,Casa,2015,15618522
+51,2,1,2,Regular,Cerritos,Departamento,1992,2275647
+79,1,1,2,Excelente,Centro,Departamento,2004,2997213
+336,4,2,2,Regular,Pradera Dorada,Casa,2023,7671234
+261,4,2,2,Excelente,Pradera Dorada,Casa,1995,5214676
+108,2,2,0,Regular,Marina Mazatlan,Casa,2020,7768696
+266,6,5,1,Excelente,Marina Mazatlan,Departamento,2018,22268103
+221,3,4,1,Excelente,Cerritos,Departamento,1999,8491753
+443,6,5,2,Buena,Cerritos,Casa,2016,20325329
+271,6,3,0,Regular,Villas del Rey,Departamento,2006,6022003
+246,4,2,1,Lujo,Zona Dorada,Casa,2020,22588170
+250,4,3,1,Buena,Zona Dorada,Casa,2017,19920586
+280,4,2,2,Excelente,Pradera Dorada,Casa,2019,7750679
+224,3,3,1,Buena,Marina Mazatlan,Departamento,1996,14504256
+94,3,4,1,Buena,Marina Mazatlan,Departamento,2012,8822074
+270,5,3,2,Mala,Zona Dorada,Departamento,2017,18999047
+169,3,2,1,Mala,Centro,Departamento,2023,5333120
+138,3,3,2,Mala,Centro,Departamento,2012,4061470
+88,3,4,1,Lujo,Zona Dorada,Casa,2009,8620519
+138,2,2,1,Excelente,Cerritos,Casa,2009,5982029
+87,2,2,1,Excelente,Zona Dorada,Departamento,2018,9231654
+259,6,3,4,Buena,Pradera Dorada,Casa,1992,5285230
+336,6,3,4,Mala,Zona Dorada,Casa,2016,19795646
+205,3,4,0,Buena,Marina Mazatlan,Departamento,2011,13972464
+153,4,3,1,Buena,Zona Dorada,Casa,2015,12395835
+165,4,3,2,Mala,Pradera Dorada,Casa,1992,3911499
+424,4,4,3,Regular,Pradera Dorada,Casa,2024,11117600
+393,4,2,4,Lujo,Zona Dorada,Casa,2001,25377768
+119,3,3,1,Lujo,Pradera Dorada,Casa,2012,3606495
+287,4,3,0,Mala,Cerritos,Departamento,2006,8757195
+131,2,1,2,Lujo,Pradera Dorada,Departamento,1990,3132313
+391,4,4,3,Mala,Pradera Dorada,Casa,1992,5927268
+265,4,4,2,Regular,Centro,Casa,1998,6083266
+252,5,5,1,Excelente,Villas del Rey,Departamento,2017,7803878
+215,4,2,1,Buena,Cerritos,Departamento,2016,9999537
+179,4,4,2,Lujo,Villas del Rey,Casa,1992,4763149
+283,5,5,1,Excelente,Villas del Rey,Departamento,2003,8144955
+110,2,2,0,Regular,Villas del Rey,Casa,2019,3037604
+183,4,2,1,Excelente,Villas del Rey,Departamento,2001,4343926
+125,2,1,0,Buena,Pradera Dorada,Departamento,2013,3272887
+234,4,4,2,Mala,Centro,Departamento,1998,5745322
+246,4,4,2,Lujo,Pradera Dorada,Casa,2012,7457007
+71,2,1,0,Regular,Centro,Departamento,2000,1716502
+399,6,3,4,Buena,Cerritos,Casa,2008,16152930
+76,1,2,1,Mala,Zona Dorada,Departamento,2008,5529674
+271,4,4,0,Buena,Centro,Departamento,2013,8124627
+438,4,3,4,Regular,Cerritos,Casa,2006,13987515
+226,3,4,0,Regular,Zona Dorada,Departamento,1993,12888571
+222,4,4,1,Mala,Centro,Departamento,1996,5053401
+121,2,1,2,Mala,Marina Mazatlan,Casa,2021,7468786
+292,4,2,2,Mala,Villas del Rey,Departamento,2022,5845984
+146,2,2,0,Buena,Cerritos,Departamento,2022,6441553
+68,1,1,0,Buena,Pradera Dorada,Casa,1996,1382736
+273,4,2,3,Buena,Marina Mazatlan,Casa,1994,13828323
+284,5,4,0,Mala,Centro,Departamento,1995,6376825
+294,6,4,0,Lujo,Centro,Departamento,2002,10699412
+393,4,3,3,Regular,Centro,Casa,2013,10380227
+151,4,4,2,Lujo,Zona Dorada,Departamento,2018,17757833
+209,3,4,0,Buena,Villas del Rey,Departamento,2005,5028190
+184,4,4,0,Buena,Villas del Rey,Departamento,2019,5672078
+106,3,3,0,Buena,Centro,Casa,2023,5469461
+392,6,5,2,Mala,Centro,Casa,2015,9952497
+131,3,4,0,Excelente,Pradera Dorada,Departamento,2009,4343249
+67,1,1,2,Excelente,Villas del Rey,Departamento,2020,2033671
+160,4,2,1,Regular,Marina Mazatlan,Casa,1990,7917783
+102,2,2,0,Lujo,Cerritos,Departamento,2026,6292959
+307,4,3,2,Regular,Villas del Rey,Casa,2014,5250270
+200,3,2,1,Regular,Centro,Departamento,2000,4198342
+220,4,4,0,Excelente,Marina Mazatlan,Departamento,2009,18604546
+265,4,4,3,Excelente,Cerritos,Casa,1992,10572631
+280,4,3,2,Excelente,Cerritos,Departamento,2000,10291790
+246,4,2,2,Buena,Cerritos,Departamento,2012,9039951
+243,4,4,2,Buena,Villas del Rey,Departamento,2002,5523285
+294,6,3,4,Lujo,Marina Mazatlan,Casa,2010,23021437
+214,3,4,2,Mala,Marina Mazatlan,Departamento,2004,15521948
+245,4,4,1,Mala,Marina Mazatlan,Casa,1994,10107591
+424,4,4,2,Mala,Pradera Dorada,Casa,2003,7418187
+279,5,5,0,Mala,Pradera Dorada,Departamento,2017,6836676
+441,5,3,2,Regular,Pradera Dorada,Casa,2003,7812825
+133,2,2,2,Lujo,Marina Mazatlan,Departamento,2019,12528417
+48,2,1,0,Excelente,Zona Dorada,Departamento,1997,4177162
+248,3,4,2,Lujo,Centro,Casa,2022,9846977
+408,5,3,2,Mala,Marina Mazatlan,Casa,2009,20352982
+173,3,3,0,Lujo,Cerritos,Departamento,2006,7960808
+54,2,2,0,Buena,Zona Dorada,Departamento,2012,4860283
+287,5,5,2,Excelente,Centro,Casa,1995,8289449
+53,1,2,0,Buena,Villas del Rey,Departamento,2015,1491993
+182,3,2,2,Mala,Pradera Dorada,Casa,1998,3203753
+60,2,1,0,Regular,Cerritos,Casa,1990,2081995
+224,4,3,2,Buena,Centro,Casa,2005,6567301
+330,5,3,4,Lujo,Villas del Rey,Casa,1994,6791548
+102,2,2,1,Lujo,Zona Dorada,Departamento,2009,10030377
+201,3,4,2,Mala,Pradera Dorada,Departamento,1996,3795721
+285,5,4,2,Regular,Marina Mazatlan,Departamento,2023,26524967
+137,3,2,2,Mala,Centro,Casa,2022,4268623
+247,4,2,0,Regular,Pradera Dorada,Departamento,1999,4215972
+220,3,3,1,Mala,Villas del Rey,Departamento,2017,4881223
+242,4,3,2,Lujo,Marina Mazatlan,Departamento,1992,17501027
+440,4,4,2,Lujo,Marina Mazatlan,Casa,2015,34202241
+301,6,4,2,Mala,Centro,Casa,1993,6613953
+284,5,3,2,Buena,Cerritos,Departamento,1995,9438355
+239,4,4,1,Buena,Cerritos,Departamento,1995,8240830
+194,4,3,1,Mala,Centro,Casa,2006,5882439
+60,2,2,0,Excelente,Villas del Rey,Casa,1996,1607793
+419,6,4,2,Regular,Zona Dorada,Casa,2021,25990083
+206,4,4,2,Lujo,Villas del Rey,Departamento,2004,7224595
+278,4,4,0,Lujo,Marina Mazatlan,Departamento,2018,25581318
+263,4,2,1,Lujo,Pradera Dorada,Departamento,2010,6847891
+374,4,4,3,Lujo,Zona Dorada,Casa,2015,29750310
+51,1,2,0,Mala,Villas del Rey,Departamento,2010,1130431
+177,4,3,2,Excelente,Zona Dorada,Departamento,2004,15496017
+197,4,2,1,Excelente,Marina Mazatlan,Casa,2009,15831852
+53,2,2,2,Mala,Centro,Departamento,1990,1921701
+201,4,2,1,Mala,Cerritos,Casa,2005,7065462
+193,4,3,1,Lujo,Cerritos,Casa,2026,11941455
+274,4,4,4,Lujo,Cerritos,Casa,1990,11027937
+112,3,2,2,Regular,Zona Dorada,Departamento,2019,10902437
+121,2,1,0,Excelente,Villas del Rey,Departamento,2001,2398938
+410,4,2,4,Lujo,Centro,Casa,1992,11488076
+317,6,5,4,Mala,Zona Dorada,Casa,2014,19963948
+292,4,2,1,Regular,Centro,Departamento,1991,6245167
+111,3,2,0,Lujo,Centro,Departamento,1991,3925631
+90,2,1,0,Mala,Centro,Casa,1999,1797151
+402,4,2,2,Excelente,Cerritos,Casa,1995,13310001
+224,4,2,1,Excelente,Marina Mazatlan,Departamento,2016,22198695
+106,2,1,1,Lujo,Pradera Dorada,Casa,2021,2887124
+247,4,2,2,Excelente,Villas del Rey,Casa,2004,6499567
+272,5,4,2,Excelente,Centro,Casa,1994,6184845
+143,2,2,1,Lujo,Marina Mazatlan,Casa,2007,11552355
+336,6,3,4,Buena,Villas del Rey,Casa,2011,8327092
+157,4,3,1,Lujo,Pradera Dorada,Departamento,2005,4374804
+201,4,3,2,Regular,Centro,Departamento,1990,5215941
+368,6,4,4,Mala,Cerritos,Casa,2005,12447421
+251,5,5,1,Excelente,Centro,Departamento,2016,9109324
+193,3,4,1,Regular,Centro,Departamento,1990,6078353
+197,4,4,2,Regular,Cerritos,Departamento,2001,6909964
+275,5,3,2,Lujo,Zona Dorada,Casa,1992,18538616
+175,4,3,1,Regular,Centro,Casa,2020,5845299
+260,5,3,4,Excelente,Pradera Dorada,Casa,2017,8504947
+173,3,4,1,Buena,Centro,Departamento,2005,5778620
+282,5,4,1,Buena,Marina Mazatlan,Departamento,1999,17809204
+68,1,2,2,Lujo,Cerritos,Departamento,1990,3445186
+220,4,2,2,Regular,Villas del Rey,Casa,2000,3766036
+256,4,2,1,Excelente,Zona Dorada,Departamento,1999,19809636
+271,4,4,1,Regular,Villas del Rey,Departamento,2019,5504082
+126,2,1,1,Excelente,Villas del Rey,Casa,1994,2196291
+251,5,3,2,Excelente,Zona Dorada,Casa,1993,16974368
+271,5,5,1,Lujo,Zona Dorada,Departamento,2008,25139675
+254,5,5,4,Excelente,Zona Dorada,Casa,2024,23421010
+137,3,3,0,Regular,Cerritos,Departamento,1990,4259836
+251,5,3,1,Buena,Pradera Dorada,Departamento,1996,4385058
+227,4,3,1,Mala,Zona Dorada,Departamento,2026,17786351
+377,6,5,3,Lujo,Villas del Rey,Casa,2007,11011739
+50,2,1,0,Buena,Cerritos,Departamento,2017,2365128
+252,5,5,0,Buena,Centro,Departamento,2019,8260369
+425,5,3,2,Buena,Villas del Rey,Casa,1990,5895664
+80,2,1,0,Buena,Centro,Departamento,2015,2219401
+236,4,2,0,Regular,Marina Mazatlan,Departamento,2021,18853867
+237,4,4,2,Regular,Marina Mazatlan,Casa,2021,18400339
+271,4,2,2,Buena,Pradera Dorada,Departamento,1998,5753642
+293,5,5,1,Mala,Centro,Departamento,2008,7612472
+138,2,1,2,Lujo,Cerritos,Casa,2003,7151546
+72,1,1,0,Buena,Marina Mazatlan,Departamento,2013,5407003
+300,4,4,2,Regular,Zona Dorada,Casa,2015,19977307
+130,3,3,0,Regular,Zona Dorada,Departamento,2003,9482158
+190,4,2,2,Lujo,Marina Mazatlan,Departamento,1998,14662937
+63,2,1,0,Mala,Marina Mazatlan,Casa,1990,2604669
+165,3,2,1,Excelente,Centro,Casa,1997,4664138
+269,6,4,3,Mala,Zona Dorada,Casa,2012,17605769
+153,3,2,0,Mala,Villas del Rey,Departamento,2017,3747696
+413,6,5,4,Buena,Cerritos,Casa,2026,19954624
+234,3,4,0,Mala,Marina Mazatlan,Departamento,1994,12271609
+226,3,4,2,Regular,Marina Mazatlan,Departamento,2019,16764628
+122,3,2,2,Lujo,Villas del Rey,Departamento,1993,3481166
+136,3,3,1,Buena,Centro,Departamento,2025,6631902
+335,6,5,3,Mala,Pradera Dorada,Casa,2007,7165406
+47,2,1,1,Lujo,Villas del Rey,Departamento,1995,1790252
+310,5,5,3,Buena,Cerritos,Casa,2024,14052506
+281,4,3,2,Lujo,Pradera Dorada,Departamento,1992,6560098
+89,3,3,0,Regular,Zona Dorada,Casa,2013,5999192
+438,6,3,2,Regular,Pradera Dorada,Casa,1998,8499079
+166,3,3,1,Mala,Zona Dorada,Departamento,2000,9005163
+336,5,4,3,Mala,Zona Dorada,Casa,2017,22035118
+143,3,4,2,Excelente,Cerritos,Departamento,2019,7798408
+83,2,1,0,Lujo,Centro,Casa,2016,3275361
+159,4,2,1,Buena,Villas del Rey,Casa,2000,3252313
+234,3,3,1,Buena,Cerritos,Departamento,2001,7506320
+233,3,2,1,Buena,Cerritos,Departamento,2003,8554510
+48,1,1,0,Regular,Villas del Rey,Departamento,1991,808761
+136,3,4,1,Mala,Zona Dorada,Departamento,2013,11028230
+279,4,4,3,Regular,Zona Dorada,Casa,1995,14110590
+252,5,5,1,Regular,Centro,Departamento,2003,7034058
+445,5,3,4,Lujo,Villas del Rey,Casa,2016,11784164
+103,3,2,1,Excelente,Cerritos,Departamento,2023,5502630
+138,2,1,1,Regular,Cerritos,Departamento,2011,5049316
+68,2,1,0,Mala,Centro,Casa,2002,2190453
+104,2,1,1,Regular,Villas del Rey,Casa,2019,2387517
+410,4,4,3,Lujo,Zona Dorada,Casa,2010,37526040
+285,4,3,2,Buena,Cerritos,Casa,2021,12984899
+296,4,3,1,Excelente,Marina Mazatlan,Departamento,2004,22428180
+358,6,4,2,Mala,Marina Mazatlan,Casa,2006,19616760
+141,3,4,0,Mala,Zona Dorada,Departamento,1991,8242298
+186,4,4,2,Regular,Cerritos,Casa,2016,8246438
+404,6,3,2,Regular,Cerritos,Casa,2022,16147918
+287,5,5,0,Regular,Marina Mazatlan,Departamento,2014,22628951
+153,3,2,1,Lujo,Centro,Departamento,2002,6453004
+331,4,2,2,Lujo,Cerritos,Casa,1991,10870496
+396,4,2,4,Excelente,Cerritos,Casa,2012,15989502
+176,3,3,1,Regular,Centro,Departamento,2023,5659998
+66,1,1,0,Mala,Cerritos,Casa,2006,2119910
+332,6,3,4,Mala,Cerritos,Casa,1990,10522824
+204,3,2,0,Excelente,Marina Mazatlan,Departamento,1997,13552275
+106,2,2,1,Mala,Centro,Departamento,2014,3354540
+180,4,2,1,Mala,Centro,Casa,1990,4231061
+96,2,1,0,Buena,Marina Mazatlan,Casa,2006,6752127
+361,6,4,2,Buena,Centro,Casa,2007,11381171
+373,4,4,3,Lujo,Pradera Dorada,Casa,1995,8898532
+232,4,3,1,Mala,Villas del Rey,Departamento,2005,4464594
+280,6,4,2,Excelente,Zona Dorada,Departamento,2011,25385632
+188,4,3,0,Regular,Zona Dorada,Departamento,2024,16415604
+243,4,2,1,Mala,Cerritos,Casa,2005,7272650
+294,4,4,3,Buena,Centro,Casa,2018,8830129
+140,3,2,1,Mala,Marina Mazatlan,Casa,2016,8730899
+223,3,3,0,Excelente,Zona Dorada,Departamento,1992,17091316
+88,3,2,2,Regular,Villas del Rey,Departamento,2003,2878807
+131,3,3,1,Buena,Pradera Dorada,Departamento,2023,4178304
+85,2,2,1,Excelente,Centro,Departamento,1997,2498221
+386,6,5,4,Buena,Marina Mazatlan,Casa,2001,20508745
+69,2,2,2,Excelente,Pradera Dorada,Departamento,2003,2761443
+169,4,3,2,Lujo,Pradera Dorada,Casa,2013,5002518
+297,4,2,0,Regular,Zona Dorada,Departamento,2009,21627130
+194,4,3,1,Lujo,Marina Mazatlan,Casa,2022,17396285
+156,3,4,1,Mala,Zona Dorada,Casa,1999,7923991
+288,6,5,0,Lujo,Pradera Dorada,Departamento,1994,6633202
+94,2,1,0,Mala,Zona Dorada,Departamento,2019,6774205
+288,5,4,0,Excelente,Marina Mazatlan,Departamento,2002,26897689
+391,4,4,2,Mala,Villas del Rey,Casa,1994,4886757
+82,3,3,0,Buena,Villas del Rey,Casa,2010,2701447
+232,3,2,2,Excelente,Zona Dorada,Departamento,1992,17628363
+345,4,3,4,Excelente,Cerritos,Casa,1995,12021655
+305,5,4,2,Mala,Zona Dorada,Casa,2001,14809201
+390,5,4,4,Mala,Villas del Rey,Casa,2013,6304335
+257,6,4,3,Lujo,Cerritos,Casa,1991,9744200
+90,2,2,2,Mala,Villas del Rey,Departamento,2022,3133327
+90,3,2,2,Mala,Zona Dorada,Departamento,2012,6179136
+189,3,2,0,Excelente,Zona Dorada,Departamento,2026,20718270
+109,2,2,0,Lujo,Zona Dorada,Casa,2026,11325935
+88,3,4,0,Buena,Cerritos,Departamento,1998,3926979
+265,4,2,2,Mala,Cerritos,Departamento,2021,11007192
+200,3,4,2,Lujo,Marina Mazatlan,Departamento,2023,21486234
+170,3,4,1,Regular,Pradera Dorada,Casa,2017,4861687
+303,5,4,4,Excelente,Centro,Casa,2000,7801313
+168,4,3,1,Buena,Centro,Casa,2022,5351747
+160,3,3,1,Regular,Villas del Rey,Departamento,2002,3611459
+224,3,2,1,Buena,Marina Mazatlan,Departamento,2014,16244939
+269,6,5,0,Lujo,Zona Dorada,Departamento,2018,32516670
+200,4,4,2,Buena,Centro,Casa,1995,4941494
+195,3,2,1,Buena,Zona Dorada,Casa,2016,14073085
+196,3,3,1,Mala,Marina Mazatlan,Casa,2010,10672265
+269,5,3,3,Lujo,Villas del Rey,Casa,2005,7064818
+406,5,5,3,Excelente,Cerritos,Casa,2006,16172169
+372,4,4,3,Excelente,Pradera Dorada,Casa,2013,9256024
+181,4,2,0,Regular,Cerritos,Departamento,2024,7468187
+119,3,3,1,Buena,Cerritos,Casa,1996,4531857
+114,3,3,1,Lujo,Centro,Casa,2014,5009625
+433,4,2,3,Regular,Marina Mazatlan,Casa,2004,23707977
+177,4,4,1,Regular,Centro,Casa,1990,4671167
+64,1,2,1,Regular,Cerritos,Departamento,2024,3949877
+360,4,3,2,Regular,Zona Dorada,Casa,2005,23200918
+277,5,3,2,Lujo,Zona Dorada,Departamento,1992,20066866
+263,5,4,2,Lujo,Villas del Rey,Casa,1999,6450528
+87,2,2,0,Excelente,Zona Dorada,Casa,2025,7614650
+172,3,4,2,Lujo,Pradera Dorada,Departamento,2016,5738265
+235,3,2,0,Excelente,Marina Mazatlan,Departamento,2018,22686719
+215,4,3,2,Regular,Zona Dorada,Departamento,2010,15617896
+249,3,4,2,Regular,Centro,Casa,2005,7539926
+125,2,1,2,Excelente,Marina Mazatlan,Casa,2005,9636416
+145,3,3,0,Excelente,Marina Mazatlan,Departamento,2026,14491177
+320,4,4,4,Excelente,Villas del Rey,Casa,1992,6629799
+254,4,2,0,Lujo,Marina Mazatlan,Departamento,2010,22264081
+252,4,4,0,Lujo,Marina Mazatlan,Departamento,2020,26166586
+300,6,5,1,Buena,Villas del Rey,Departamento,1991,6075309
+351,6,5,2,Mala,Centro,Casa,2005,8142585
+182,4,2,1,Excelente,Villas del Rey,Departamento,2012,4730688
+96,3,4,2,Buena,Cerritos,Departamento,2022,5914843
+136,2,1,2,Regular,Villas del Rey,Casa,2016,2839738
+225,3,4,1,Buena,Centro,Departamento,2020,7998195
+403,6,3,2,Mala,Zona Dorada,Casa,2004,21118775
+215,4,4,0,Mala,Centro,Departamento,2018,7029752
+242,3,2,0,Lujo,Villas del Rey,Departamento,1998,4750739
+373,5,4,4,Regular,Pradera Dorada,Casa,2001,6840383
+61,2,1,0,Lujo,Pradera Dorada,Casa,1996,1850389
+297,6,4,3,Lujo,Marina Mazatlan,Casa,2006,25522610
+128,2,1,1,Buena,Cerritos,Departamento,2006,4894111
+76,2,1,1,Lujo,Marina Mazatlan,Casa,2017,6294223
+82,2,1,1,Excelente,Villas del Rey,Casa,2007,2264231
+384,4,3,2,Regular,Marina Mazatlan,Casa,1999,20046427
+112,2,1,0,Excelente,Zona Dorada,Departamento,1992,7836483
+206,4,3,1,Excelente,Villas del Rey,Departamento,2024,5258867
+331,5,5,4,Excelente,Cerritos,Casa,1994,10943029
+288,6,4,1,Mala,Cerritos,Departamento,1999,7678584
+411,6,3,2,Buena,Zona Dorada,Casa,1995,20953639
+413,5,3,3,Lujo,Pradera Dorada,Casa,2018,10715808
+142,3,3,0,Excelente,Villas del Rey,Departamento,2003,4366185
+64,2,1,0,Excelente,Centro,Casa,1992,2243710
+218,4,3,0,Regular,Zona Dorada,Departamento,1998,13458637
+433,6,4,4,Buena,Zona Dorada,Casa,2016,33970664
+105,3,2,0,Mala,Cerritos,Departamento,2018,4359827
+288,6,5,2,Buena,Centro,Departamento,2011,8724572
+331,4,4,4,Lujo,Cerritos,Casa,2023,20588396
+133,2,1,1,Lujo,Villas del Rey,Departamento,2022,3212896
+414,4,2,4,Excelente,Villas del Rey,Casa,2005,7994792
+157,3,2,2,Mala,Villas del Rey,Casa,1999,2426832
+63,2,2,2,Mala,Centro,Departamento,2001,2398219
+73,2,1,2,Buena,Pradera Dorada,Departamento,2020,2824214
+274,6,4,1,Regular,Marina Mazatlan,Departamento,2023,22105697
+400,5,3,3,Regular,Pradera Dorada,Casa,2020,9163587
+80,2,1,2,Excelente,Marina Mazatlan,Departamento,1993,5763477
+197,4,3,2,Regular,Villas del Rey,Departamento,1990,3517088
+403,4,4,4,Buena,Zona Dorada,Casa,1993,21159362
+430,6,5,2,Excelente,Pradera Dorada,Casa,1994,8497680
+295,6,4,3,Lujo,Centro,Casa,2012,9583744
+200,4,2,1,Excelente,Marina Mazatlan,Casa,1995,11040959
+126,3,3,0,Excelente,Marina Mazatlan,Departamento,2011,10493081
+263,5,4,2,Buena,Centro,Casa,2024,10506872
+275,6,5,1,Excelente,Zona Dorada,Departamento,1999,22965590
+183,4,4,2,Excelente,Marina Mazatlan,Casa,2007,14109222
+392,4,3,2,Excelente,Cerritos,Casa,2009,16576111
+134,3,3,1,Buena,Centro,Casa,2014,4853727
+228,4,4,0,Mala,Pradera Dorada,Departamento,2002,4673079
+257,5,3,4,Excelente,Centro,Casa,2014,8407667
+280,4,4,2,Lujo,Centro,Departamento,2000,8773187
+298,6,4,0,Buena,Centro,Departamento,1993,6594936
+83,3,3,1,Excelente,Cerritos,Departamento,2001,3875111
+280,4,4,4,Lujo,Pradera Dorada,Casa,2026,9845449
+246,4,3,1,Excelente,Marina Mazatlan,Departamento,1999,15785922
+77,2,1,0,Excelente,Zona Dorada,Casa,2018,6635170
+132,3,3,2,Excelente,Marina Mazatlan,Departamento,2003,11193203
+200,3,3,2,Lujo,Zona Dorada,Departamento,2001,15827278
+157,4,2,0,Excelente,Villas del Rey,Departamento,2002,3914293
+176,3,3,0,Lujo,Villas del Rey,Departamento,2014,4620918
+190,3,4,1,Buena,Zona Dorada,Casa,1994,11977473
+146,2,2,1,Mala,Marina Mazatlan,Casa,1998,6578395
+214,4,4,2,Excelente,Pradera Dorada,Departamento,1999,4788456
+285,6,5,2,Mala,Centro,Departamento,2014,7735121
+214,4,3,2,Buena,Pradera Dorada,Departamento,2014,6151585
+61,1,1,1,Mala,Centro,Casa,2023,2156654
+447,6,3,2,Excelente,Villas del Rey,Casa,2004,10482539
+390,4,2,2,Excelente,Marina Mazatlan,Casa,2017,30270325
+332,6,5,4,Lujo,Pradera Dorada,Casa,2006,12124425
+245,4,3,2,Buena,Marina Mazatlan,Casa,1997,13098290
+130,3,3,0,Mala,Villas del Rey,Departamento,2025,4025969
+64,2,2,2,Buena,Marina Mazatlan,Departamento,1997,4298072
+91,2,1,1,Mala,Pradera Dorada,Casa,2000,1788189
+171,3,3,2,Regular,Zona Dorada,Departamento,2007,12479221
+109,3,2,0,Excelente,Marina Mazatlan,Casa,1991,7020807
+225,3,2,1,Buena,Centro,Casa,2026,8002327
+112,2,1,0,Excelente,Zona Dorada,Departamento,2020,11879409
+61,1,1,0,Buena,Centro,Casa,2015,1867451
+194,4,4,2,Regular,Marina Mazatlan,Departamento,1990,13706923
+121,3,2,1,Regular,Pradera Dorada,Departamento,2022,3314420
+236,3,4,2,Mala,Pradera Dorada,Casa,2013,5235577
+271,4,4,0,Excelente,Pradera Dorada,Departamento,2008,7535206
+286,4,4,2,Regular,Marina Mazatlan,Departamento,1999,15946293
+207,3,2,2,Lujo,Marina Mazatlan,Casa,1999,14916719
+53,1,1,2,Mala,Villas del Rey,Departamento,2007,1486752
+322,5,4,4,Buena,Marina Mazatlan,Casa,2008,23373520
+115,3,3,1,Lujo,Centro,Departamento,2013,5266342
+155,3,2,2,Buena,Pradera Dorada,Casa,1995,3919824
+211,4,4,1,Mala,Zona Dorada,Departamento,1998,11799490
+89,2,1,1,Excelente,Cerritos,Casa,2004,3565549
+243,4,4,2,Mala,Marina Mazatlan,Departamento,2001,12678998
+160,4,3,1,Buena,Marina Mazatlan,Casa,2007,11635464
+163,3,3,2,Excelente,Centro,Departamento,2013,5781349
+222,3,2,0,Mala,Pradera Dorada,Departamento,2005,4125793
+170,4,2,0,Mala,Pradera Dorada,Departamento,2012,4283201
+249,3,2,0,Mala,Centro,Departamento,2025,7646601
+363,4,2,2,Lujo,Villas del Rey,Casa,2021,8522872
+228,3,2,1,Excelente,Marina Mazatlan,Casa,2023,17040283
+162,4,3,2,Mala,Cerritos,Departamento,1991,5102606
+82,3,3,1,Lujo,Cerritos,Departamento,1990,3661696
+148,3,4,1,Buena,Cerritos,Departamento,2002,6702624
+66,1,1,1,Lujo,Villas del Rey,Casa,2019,1824825
+399,4,3,4,Excelente,Centro,Casa,2014,11480477
+185,4,4,2,Regular,Zona Dorada,Departamento,1993,12294378
+97,2,1,0,Regular,Villas del Rey,Casa,2018,2156061
+336,6,4,2,Buena,Pradera Dorada,Casa,2015,7616039
+171,3,4,0,Lujo,Pradera Dorada,Departamento,1990,5048272
+298,5,5,2,Regular,Villas del Rey,Departamento,2022,6679175
+198,4,2,2,Excelente,Centro,Departamento,2008,7641515
+287,4,3,1,Excelente,Cerritos,Departamento,1992,9955499
+196,3,3,1,Regular,Cerritos,Casa,2010,7131937
+152,4,3,1,Lujo,Centro,Casa,1998,4803467
+222,3,4,1,Regular,Marina Mazatlan,Casa,1991,11357559
+131,2,1,2,Mala,Cerritos,Departamento,2008,4179053
+107,3,4,1,Regular,Centro,Departamento,2004,3797035
+381,4,4,3,Excelente,Marina Mazatlan,Casa,2022,27295817
+274,5,3,2,Regular,Centro,Departamento,2026,8405001
+323,5,4,3,Buena,Pradera Dorada,Casa,1992,5390244
+217,3,4,1,Mala,Centro,Casa,1995,5146856
+192,3,2,1,Excelente,Centro,Departamento,1996,5039716
+227,4,3,2,Mala,Villas del Rey,Casa,2002,5376977
+79,2,2,0,Buena,Marina Mazatlan,Departamento,2005,6437394
+230,4,2,1,Mala,Pradera Dorada,Departamento,2020,4667458
+367,5,5,2,Excelente,Pradera Dorada,Casa,2015,10204704
+73,1,2,0,Mala,Pradera Dorada,Departamento,2026,2344997
+446,6,5,3,Mala,Marina Mazatlan,Casa,1992,19145961
+229,4,3,1,Excelente,Zona Dorada,Departamento,2009,22123839
+125,3,3,2,Mala,Villas del Rey,Casa,2001,2990173
+399,5,4,4,Mala,Zona Dorada,Casa,1992,18613673
+287,5,3,0,Buena,Marina Mazatlan,Departamento,1996,17066460
+412,4,2,4,Excelente,Marina Mazatlan,Casa,2003,28134482
+188,4,4,2,Mala,Zona Dorada,Departamento,1991,11415900
+123,2,1,2,Excelente,Pradera Dorada,Casa,2011,3227039
+421,4,3,3,Excelente,Villas del Rey,Casa,2001,7171738
+267,6,3,1,Regular,Pradera Dorada,Departamento,2011,5932365
+167,3,4,0,Mala,Pradera Dorada,Departamento,2000,3955283
+201,4,4,2,Excelente,Cerritos,Departamento,2006,9848937
+213,3,2,0,Buena,Marina Mazatlan,Departamento,1994,12233379
+127,2,2,2,Mala,Pradera Dorada,Casa,1997,2893795
+381,4,3,4,Mala,Pradera Dorada,Casa,1992,6256515
+188,4,4,1,Mala,Pradera Dorada,Casa,1991,3772456
+172,4,4,1,Buena,Marina Mazatlan,Departamento,1996,10414895
+446,6,3,2,Buena,Marina Mazatlan,Casa,1997,21293679
+297,5,3,2,Mala,Centro,Departamento,2005,6980353
+78,1,1,0,Lujo,Marina Mazatlan,Departamento,2006,6582660
+188,3,3,1,Excelente,Zona Dorada,Departamento,2010,17364354
+299,4,3,3,Lujo,Zona Dorada,Casa,1991,20766852
+158,3,3,1,Regular,Zona Dorada,Casa,2022,12252289
+179,3,4,2,Mala,Pradera Dorada,Casa,2006,4822247
+65,1,2,0,Buena,Pradera Dorada,Casa,2006,1877409
+103,2,1,2,Excelente,Zona Dorada,Departamento,2001,8128956
+109,2,1,0,Excelente,Centro,Casa,1995,3178142
+91,2,2,1,Lujo,Marina Mazatlan,Departamento,2011,9000999
+143,3,3,1,Regular,Cerritos,Casa,1993,4960277
+185,3,4,1,Regular,Zona Dorada,Departamento,1996,11807151
+103,3,3,1,Lujo,Marina Mazatlan,Casa,1992,7295079
+255,5,3,4,Mala,Centro,Casa,2016,8207010
+288,5,3,0,Buena,Cerritos,Departamento,2012,11258716
+47,1,1,0,Mala,Pradera Dorada,Departamento,2003,1051479
+189,3,4,0,Lujo,Centro,Departamento,2012,8266000
+273,5,4,2,Mala,Zona Dorada,Casa,2001,12942753
+140,3,4,1,Mala,Villas del Rey,Casa,2004,3551505
+182,3,4,1,Lujo,Pradera Dorada,Departamento,2008,6108010
+170,3,3,1,Mala,Cerritos,Departamento,2018,7050751
+186,3,2,0,Mala,Marina Mazatlan,Departamento,2025,13415713
+278,6,3,2,Buena,Pradera Dorada,Departamento,1999,6556525
+104,3,4,1,Mala,Centro,Casa,2014,4418106
+226,3,4,0,Lujo,Zona Dorada,Departamento,1996,17757246
+125,2,1,0,Mala,Pradera Dorada,Departamento,1990,2256168
+256,4,2,1,Lujo,Marina Mazatlan,Departamento,2007,23866190
+88,3,2,2,Buena,Marina Mazatlan,Departamento,1992,6445046
+259,4,2,2,Mala,Cerritos,Departamento,1998,7432376
+344,4,2,4,Lujo,Cerritos,Casa,2008,15023689
+139,2,2,2,Excelente,Zona Dorada,Casa,2019,11615530
+136,2,1,1,Buena,Zona Dorada,Departamento,1996,9441240
+330,6,4,4,Lujo,Cerritos,Casa,1993,12600275
+444,6,4,4,Buena,Villas del Rey,Casa,2001,7743995
+232,4,4,0,Lujo,Centro,Departamento,2021,8438037
+295,5,3,4,Excelente,Pradera Dorada,Casa,2010,6789011
+127,2,2,1,Mala,Zona Dorada,Casa,1996,6740460
+246,4,4,2,Buena,Villas del Rey,Departamento,1999,5225328
+267,6,3,4,Mala,Cerritos,Casa,1995,8675679
+62,2,2,2,Lujo,Marina Mazatlan,Departamento,2007,6371040
+309,5,3,2,Regular,Centro,Casa,2014,9111144
+177,4,3,2,Mala,Marina Mazatlan,Departamento,2019,12737267
+117,3,2,1,Excelente,Centro,Departamento,2017,5033765
+357,4,3,2,Buena,Cerritos,Casa,2008,12069807
+310,5,5,3,Buena,Villas del Rey,Casa,2013,7586641
+198,3,4,1,Mala,Villas del Rey,Casa,1991,4042907
+395,5,4,4,Buena,Zona Dorada,Casa,2016,30147053
+90,3,3,1,Lujo,Villas del Rey,Casa,2020,3931565
+175,4,3,2,Lujo,Marina Mazatlan,Departamento,2010,16419291
+322,6,3,3,Mala,Centro,Casa,1992,7015024
+432,5,5,3,Excelente,Zona Dorada,Casa,2012,32500683
+222,3,4,2,Mala,Cerritos,Casa,2023,10571429
+433,5,5,2,Excelente,Zona Dorada,Casa,1992,26247596
+100,3,3,0,Regular,Centro,Departamento,2006,3689675
+196,4,2,1,Excelente,Zona Dorada,Casa,1996,12679378
+427,5,5,2,Mala,Centro,Casa,2004,9941828
+72,1,1,1,Excelente,Marina Mazatlan,Casa,1996,4390439
+271,6,5,2,Mala,Centro,Casa,2026,9222422
+122,3,4,0,Mala,Zona Dorada,Departamento,1993,7105823
+85,2,2,0,Excelente,Pradera Dorada,Departamento,2021,2778534
+363,4,2,2,Excelente,Marina Mazatlan,Casa,2021,27328607
+90,3,2,1,Excelente,Villas del Rey,Departamento,2021,3276478
+309,4,4,3,Lujo,Villas del Rey,Casa,1991,6433064
+51,2,2,2,Lujo,Marina Mazatlan,Departamento,1998,5273973
+228,3,4,2,Excelente,Centro,Departamento,2025,8797266
+383,6,3,3,Regular,Marina Mazatlan,Casa,2021,26460692
+94,2,1,0,Buena,Pradera Dorada,Casa,2013,2386960
+386,5,3,2,Lujo,Cerritos,Casa,1998,15655211
+177,3,2,1,Buena,Pradera Dorada,Departamento,1993,3695737
+110,2,1,0,Mala,Pradera Dorada,Casa,2026,2547497
+110,2,1,0,Excelente,Cerritos,Departamento,2017,5250311
+378,4,4,4,Mala,Marina Mazatlan,Casa,1991,16488528
+414,4,4,2,Buena,Villas del Rey,Casa,1997,7221339
+194,4,2,2,Lujo,Marina Mazatlan,Departamento,1991,15278153
+95,2,1,0,Mala,Cerritos,Departamento,2021,3361855
+92,3,2,2,Mala,Cerritos,Departamento,1999,2883665
+346,4,3,3,Excelente,Zona Dorada,Casa,2024,30949976
+301,5,5,2,Mala,Cerritos,Casa,2009,10363203
+172,4,3,2,Regular,Cerritos,Departamento,2002,7967514
+174,3,2,2,Lujo,Villas del Rey,Casa,2011,4084962
+264,6,5,2,Regular,Centro,Casa,2000,7917580
+371,4,3,3,Buena,Villas del Rey,Casa,2020,7616011
+403,4,2,2,Regular,Centro,Casa,1991,8215954
+237,4,3,2,Excelente,Zona Dorada,Departamento,2005,21557397
+196,3,3,2,Lujo,Cerritos,Casa,2007,8663441
+276,4,2,0,Lujo,Marina Mazatlan,Departamento,2008,27706282
+82,2,1,0,Mala,Pradera Dorada,Departamento,1995,1413078
+79,1,2,1,Regular,Marina Mazatlan,Departamento,2007,5444492
+317,4,4,3,Regular,Marina Mazatlan,Casa,2009,18393539
+291,5,4,1,Mala,Zona Dorada,Departamento,2012,18766939
+121,2,2,0,Excelente,Zona Dorada,Departamento,2000,9839396
+139,3,2,2,Regular,Centro,Departamento,2018,4480375
+225,4,2,1,Lujo,Villas del Rey,Casa,1992,4236177
+136,3,3,1,Buena,Pradera Dorada,Departamento,2004,4382931
+193,4,2,1,Mala,Centro,Departamento,1998,3917787
+233,4,2,2,Excelente,Zona Dorada,Departamento,1995,15771291
+228,4,4,2,Mala,Villas del Rey,Casa,2015,4937614
+233,4,3,0,Regular,Pradera Dorada,Departamento,2018,5638813
+197,3,3,1,Excelente,Cerritos,Departamento,1996,6868521
+242,3,3,2,Mala,Zona Dorada,Departamento,2009,15403347
+70,1,2,0,Mala,Cerritos,Departamento,1990,2365135
+120,2,1,1,Regular,Marina Mazatlan,Departamento,2010,8422080
+122,2,1,1,Buena,Pradera Dorada,Casa,2009,2549345
+93,3,3,2,Mala,Centro,Departamento,2023,4054410
+252,4,4,2,Excelente,Zona Dorada,Casa,2007,21861399
+398,5,4,4,Buena,Centro,Casa,1999,9843510
+290,5,3,1,Buena,Pradera Dorada,Departamento,2014,7149433
+438,5,3,3,Buena,Centro,Casa,1997,10055587
+90,3,4,0,Lujo,Villas del Rey,Departamento,2004,3096286
+217,4,3,2,Excelente,Centro,Departamento,1990,6203015
+362,4,3,3,Buena,Cerritos,Casa,2007,12687054
+335,4,2,2,Lujo,Centro,Casa,2017,12490217
+71,2,1,0,Excelente,Cerritos,Departamento,2020,3634361
+176,4,2,2,Excelente,Centro,Casa,1996,4952157
+172,4,4,1,Mala,Centro,Casa,2026,5498415
+146,2,1,1,Regular,Pradera Dorada,Casa,2007,3250882
+448,4,2,4,Buena,Cerritos,Casa,1991,12716244
+260,6,5,4,Mala,Zona Dorada,Casa,2021,16395140
+131,2,2,1,Buena,Centro,Departamento,1992,3435382
+393,6,5,2,Regular,Cerritos,Casa,2001,10528128
+139,2,2,2,Regular,Zona Dorada,Departamento,2005,11969269
+165,3,2,2,Mala,Pradera Dorada,Departamento,2014,3538958
+207,3,2,1,Mala,Marina Mazatlan,Departamento,2007,11821030
+282,6,4,2,Regular,Villas del Rey,Departamento,2013,7142425
+302,4,2,3,Excelente,Cerritos,Casa,2018,12911754
+191,4,2,2,Mala,Centro,Casa,2001,4533186
+130,3,4,1,Lujo,Cerritos,Departamento,1990,5551991
+276,4,4,2,Buena,Villas del Rey,Departamento,1995,5172448
+266,5,3,0,Excelente,Zona Dorada,Departamento,2014,23724387
+298,6,4,2,Buena,Villas del Rey,Casa,1993,5727883
+332,6,3,3,Excelente,Cerritos,Casa,1994,10811211
+352,5,3,3,Lujo,Zona Dorada,Casa,1998,22421863
+109,3,3,2,Excelente,Villas del Rey,Departamento,2014,3862058
+433,5,3,3,Regular,Villas del Rey,Casa,2024,8527371
+297,5,3,2,Mala,Zona Dorada,Departamento,2020,20208541
+317,5,5,2,Excelente,Marina Mazatlan,Casa,1991,21209111
+219,4,3,1,Buena,Centro,Departamento,1999,6060199
+333,4,3,3,Mala,Marina Mazatlan,Casa,2009,19476048
+242,3,2,1,Lujo,Cerritos,Casa,2011,10110660
+151,3,2,1,Mala,Zona Dorada,Departamento,1991,8287397
+60,2,1,0,Lujo,Zona Dorada,Casa,2008,4747298
+150,3,2,0,Excelente,Zona Dorada,Departamento,2016,14874256
+133,2,1,2,Mala,Pradera Dorada,Departamento,2007,2881086
+439,5,5,3,Lujo,Marina Mazatlan,Casa,2009,38542310
+289,4,2,3,Mala,Cerritos,Casa,2017,9059901
+302,5,5,4,Excelente,Villas del Rey,Casa,2024,8227704
+236,3,4,2,Lujo,Pradera Dorada,Departamento,2020,8037794
+87,2,1,0,Regular,Centro,Departamento,2023,2891754
+170,3,3,1,Excelente,Villas del Rey,Casa,2008,4877103
+152,3,2,2,Mala,Pradera Dorada,Departamento,1995,2828813
+265,4,4,2,Mala,Zona Dorada,Casa,2022,15437207
+170,4,3,2,Excelente,Zona Dorada,Departamento,1991,13561879
+165,3,4,1,Regular,Zona Dorada,Departamento,1996,10985664
+114,3,2,1,Excelente,Cerritos,Departamento,2018,6222381
+291,4,4,0,Regular,Villas del Rey,Departamento,2009,6121492
+236,3,3,2,Lujo,Cerritos,Departamento,2010,12746521
+265,6,3,0,Lujo,Villas del Rey,Departamento,1997,6661665
+176,3,4,2,Mala,Centro,Departamento,1997,3843273
+247,3,2,1,Regular,Zona Dorada,Departamento,2016,19324902
+205,4,4,0,Buena,Cerritos,Departamento,2003,10104760
+433,6,5,4,Buena,Cerritos,Casa,1993,15869471
+193,4,4,2,Regular,Cerritos,Casa,2012,7528545
+246,4,2,0,Buena,Zona Dorada,Departamento,1994,16792144
+194,4,2,2,Lujo,Villas del Rey,Departamento,2014,5976820
+331,6,5,3,Mala,Villas del Rey,Casa,1995,5117501
+419,5,4,2,Regular,Cerritos,Casa,2019,14969316
+278,5,4,3,Mala,Centro,Casa,1993,6699101
+312,4,3,2,Buena,Centro,Casa,1993,7551613
+179,3,3,0,Buena,Pradera Dorada,Departamento,1995,3166273
+290,6,4,2,Excelente,Cerritos,Departamento,2017,15044887
+293,6,3,1,Excelente,Cerritos,Departamento,1999,11282181
+298,5,5,0,Mala,Marina Mazatlan,Departamento,2014,19261488
+240,4,2,2,Mala,Marina Mazatlan,Casa,1998,10821516
+169,3,3,2,Buena,Cerritos,Departamento,2020,8204355
+145,3,3,2,Regular,Centro,Casa,2015,4535397
+387,4,4,2,Regular,Cerritos,Casa,2015,13305027
+182,4,2,2,Buena,Cerritos,Casa,2014,8498769
+136,3,2,2,Mala,Cerritos,Departamento,1992,4467858
+105,2,1,2,Buena,Cerritos,Departamento,1995,3598522
+223,4,3,0,Mala,Marina Mazatlan,Departamento,2013,13354005
+157,4,3,1,Mala,Marina Mazatlan,Departamento,2015,10496068
+292,5,3,0,Regular,Marina Mazatlan,Departamento,2021,20293549
+128,2,2,2,Mala,Zona Dorada,Departamento,1990,6756248
+179,3,4,0,Excelente,Villas del Rey,Departamento,2009,4924365
+104,3,2,0,Lujo,Pradera Dorada,Departamento,2008,3267133
+103,3,2,1,Regular,Centro,Casa,2004,3219873
+288,6,4,2,Regular,Zona Dorada,Departamento,2003,21912665
+381,6,3,2,Lujo,Marina Mazatlan,Casa,2015,27689566
+196,4,2,2,Mala,Zona Dorada,Casa,2008,12271550
+272,4,4,4,Buena,Zona Dorada,Casa,2005,20832864
+380,4,3,2,Lujo,Pradera Dorada,Casa,2023,12143956
+341,5,4,4,Mala,Villas del Rey,Casa,2026,8518425
+133,2,2,1,Excelente,Zona Dorada,Casa,2003,10670517
+299,6,3,2,Regular,Centro,Casa,2017,10058132
+416,6,5,4,Mala,Zona Dorada,Casa,2005,24067212
+449,4,4,2,Excelente,Zona Dorada,Casa,2000,27373390
+124,2,1,1,Lujo,Centro,Casa,2004,4657149
+294,6,5,0,Excelente,Centro,Departamento,2017,9517982
+133,3,3,2,Mala,Marina Mazatlan,Casa,1999,5904851
+73,1,1,2,Excelente,Centro,Departamento,2002,2303655
+86,3,3,2,Lujo,Centro,Departamento,2009,4227288
+279,4,3,0,Lujo,Villas del Rey,Departamento,2015,7069880
+171,3,2,0,Regular,Zona Dorada,Departamento,2016,14738000
+329,6,4,2,Mala,Marina Mazatlan,Casa,2011,17342350
+168,3,2,1,Regular,Villas del Rey,Casa,1990,2986911
+272,5,4,4,Lujo,Marina Mazatlan,Casa,2022,22150481
+331,5,5,3,Regular,Pradera Dorada,Casa,1991,6731505
+62,2,2,2,Regular,Villas del Rey,Departamento,1992,1852978
+248,4,2,0,Mala,Zona Dorada,Departamento,2019,18246208
+219,3,2,1,Lujo,Marina Mazatlan,Departamento,2021,22862433
+329,4,2,4,Excelente,Villas del Rey,Casa,2013,8346281
+376,4,2,4,Excelente,Zona Dorada,Casa,2024,33468428
+58,2,2,0,Lujo,Villas del Rey,Departamento,2003,2075784
+255,4,4,4,Regular,Villas del Rey,Casa,2023,7245248
+81,2,1,0,Regular,Cerritos,Casa,2018,3110939
+169,3,2,1,Buena,Zona Dorada,Casa,2004,13035463
+245,4,3,2,Lujo,Pradera Dorada,Casa,2009,7458880
+155,4,4,0,Regular,Pradera Dorada,Departamento,2004,4467311
+331,4,3,4,Excelente,Cerritos,Casa,1991,10627235
+78,1,1,0,Buena,Cerritos,Departamento,2010,3469668
+225,3,2,2,Buena,Centro,Casa,2006,6171200
+132,3,2,1,Excelente,Pradera Dorada,Departamento,2009,3884338
+254,4,2,2,Lujo,Centro,Departamento,2013,9000739
+91,3,3,0,Lujo,Pradera Dorada,Departamento,2024,4214870
+153,4,4,1,Buena,Marina Mazatlan,Departamento,2020,14508884
+431,4,3,3,Mala,Cerritos,Casa,1999,10521969
+267,6,3,2,Buena,Zona Dorada,Casa,1991,14803728
+87,3,2,0,Excelente,Pradera Dorada,Casa,2002,2871053
+386,5,5,3,Mala,Zona Dorada,Casa,1993,16486411
+235,3,4,2,Lujo,Marina Mazatlan,Departamento,2000,19221584
+274,4,2,0,Regular,Villas del Rey,Departamento,2017,5948056
+258,6,4,0,Buena,Cerritos,Departamento,2016,10829590
+372,6,3,4,Regular,Cerritos,Casa,2007,13050797
+94,2,2,2,Buena,Pradera Dorada,Departamento,2021,2721897
+90,2,1,2,Buena,Pradera Dorada,Departamento,2017,2753085
+129,3,2,0,Mala,Centro,Departamento,2023,3856053
+46,1,1,2,Buena,Marina Mazatlan,Departamento,1998,3175463
+185,4,4,1,Buena,Pradera Dorada,Casa,2017,5496386
+63,1,2,1,Buena,Zona Dorada,Casa,2010,4658405
+244,4,3,1,Buena,Villas del Rey,Casa,1999,3892850
+134,2,2,0,Excelente,Villas del Rey,Departamento,2014,3202691
+151,3,3,2,Lujo,Cerritos,Casa,2014,7066958
+239,4,3,0,Regular,Marina Mazatlan,Departamento,1995,13806646
+164,4,4,0,Regular,Villas del Rey,Departamento,2005,4207599
+67,1,2,2,Excelente,Zona Dorada,Departamento,2011,7060443
+122,3,2,0,Lujo,Pradera Dorada,Departamento,2000,3274854
+116,3,2,0,Lujo,Centro,Departamento,1998,3889120
+189,4,4,0,Mala,Cerritos,Departamento,2016,7542968
+224,3,4,2,Mala,Villas del Rey,Casa,2025,5298464
+336,4,2,3,Regular,Marina Mazatlan,Casa,2001,16390205
+136,2,1,0,Mala,Cerritos,Departamento,1995,3527050
+204,3,2,1,Mala,Marina Mazatlan,Casa,2024,12394050
+448,4,4,4,Excelente,Centro,Casa,2015,13948039
+239,4,3,0,Lujo,Centro,Departamento,2012,8157423
+250,4,4,2,Mala,Zona Dorada,Casa,2010,14922980
+271,6,3,1,Excelente,Villas del Rey,Departamento,2009,6838417
+388,6,5,4,Buena,Villas del Rey,Casa,2015,9065953
+225,3,2,2,Mala,Zona Dorada,Departamento,2000,12997655
+108,2,2,0,Lujo,Cerritos,Departamento,2011,5837949
+277,4,4,4,Mala,Pradera Dorada,Casa,1991,4979856
+155,3,2,1,Buena,Pradera Dorada,Departamento,2006,3750351
+161,3,4,0,Buena,Marina Mazatlan,Departamento,2010,12575495
+235,4,4,2,Mala,Marina Mazatlan,Departamento,2017,16868883
+257,4,3,4,Mala,Zona Dorada,Casa,2002,14935303
+214,3,2,2,Buena,Zona Dorada,Departamento,2001,14769592
+152,4,4,1,Buena,Centro,Departamento,2007,5503385
+410,4,3,3,Mala,Zona Dorada,Casa,2026,29255706
+184,4,4,2,Regular,Zona Dorada,Casa,1993,9865773
+173,3,4,0,Excelente,Marina Mazatlan,Departamento,2011,16571911
+137,2,1,0,Regular,Villas del Rey,Departamento,2018,2795233
+256,6,5,2,Excelente,Pradera Dorada,Casa,2008,8142533
+100,2,1,1,Regular,Marina Mazatlan,Departamento,2008,7941048
+291,6,4,4,Buena,Centro,Casa,1996,7575862
+103,2,1,1,Buena,Villas del Rey,Departamento,2000,1861678
+299,4,3,4,Mala,Marina Mazatlan,Casa,2010,17204270
+80,2,2,1,Buena,Marina Mazatlan,Casa,1998,4934357
+110,3,2,1,Lujo,Centro,Departamento,2021,4617986
+376,5,3,2,Mala,Centro,Casa,2014,9345673
+141,2,1,1,Buena,Centro,Departamento,2016,4086374
+130,2,2,0,Mala,Cerritos,Departamento,1996,3778494
+137,3,4,2,Buena,Marina Mazatlan,Casa,2023,13124962
+62,1,2,1,Excelente,Marina Mazatlan,Casa,2023,6629772
+113,3,4,1,Mala,Zona Dorada,Departamento,2013,9862972
+83,2,1,1,Excelente,Centro,Departamento,1999,2534117
+331,6,5,3,Excelente,Pradera Dorada,Casa,2001,7592640
+79,2,1,1,Regular,Centro,Departamento,2006,2505227
+429,5,5,4,Lujo,Zona Dorada,Casa,2017,40152227
+210,3,3,0,Buena,Centro,Departamento,2013,7120649
+182,3,4,0,Buena,Centro,Departamento,2021,5737495
+78,1,1,1,Excelente,Pradera Dorada,Departamento,2017,2397882
+136,3,3,1,Regular,Villas del Rey,Casa,1990,2523820
+191,3,2,2,Excelente,Centro,Casa,2025,7857309
+205,4,4,2,Mala,Marina Mazatlan,Casa,2012,11896760
+300,5,5,3,Buena,Pradera Dorada,Casa,1992,6118917
+255,4,2,2,Lujo,Zona Dorada,Departamento,2018,29619600
+385,5,4,2,Lujo,Cerritos,Casa,2006,19213274
+249,3,4,1,Buena,Pradera Dorada,Departamento,2020,6955078
+107,2,2,2,Lujo,Zona Dorada,Departamento,2026,14577658
+266,6,4,2,Excelente,Villas del Rey,Departamento,2002,6499246
+105,3,4,0,Buena,Centro,Casa,1998,3073785
+90,2,2,1,Buena,Villas del Rey,Departamento,1998,2367541
+309,6,3,4,Mala,Zona Dorada,Casa,2002,18233724
+333,6,5,3,Excelente,Cerritos,Casa,2018,15937943
+148,3,4,1,Excelente,Villas del Rey,Departamento,1990,3694205
+80,1,1,2,Regular,Zona Dorada,Departamento,2015,6034499
+128,2,1,1,Lujo,Centro,Departamento,1996,3739485
+440,6,4,2,Mala,Cerritos,Casa,2025,14976818
+226,4,3,1,Regular,Marina Mazatlan,Casa,2009,13836307
+187,3,2,0,Mala,Centro,Departamento,1992,3475435
+165,3,4,2,Lujo,Centro,Casa,2000,5314360
+320,6,5,3,Mala,Pradera Dorada,Casa,1999,6157298
+218,4,3,0,Mala,Villas del Rey,Departamento,2010,4709497
+102,2,2,1,Mala,Villas del Rey,Departamento,2000,1778896
+116,3,3,0,Excelente,Centro,Casa,2003,3930616
+83,3,2,1,Buena,Villas del Rey,Casa,2020,2794898
+91,3,4,0,Excelente,Cerritos,Departamento,2001,4200623
+253,5,3,0,Lujo,Marina Mazatlan,Departamento,2012,24151659
+288,6,4,2,Buena,Marina Mazatlan,Casa,2011,20831256
+49,1,1,0,Regular,Zona Dorada,Departamento,1998,3461947
+254,5,4,2,Mala,Villas del Rey,Casa,2003,5382034
+104,2,1,1,Lujo,Cerritos,Departamento,2003,5622413
+242,4,4,2,Lujo,Pradera Dorada,Departamento,2015,7002469
+158,4,3,1,Mala,Zona Dorada,Casa,1996,7855410
+243,4,3,2,Excelente,Cerritos,Departamento,2012,10536474
+50,1,1,0,Lujo,Villas del Rey,Departamento,2011,1726591
+136,2,2,1,Regular,Pradera Dorada,Casa,2009,2893621
+378,4,2,3,Excelente,Centro,Casa,2020,12284558
+96,2,1,0,Regular,Centro,Departamento,1995,2468894
+255,5,3,0,Buena,Cerritos,Departamento,1999,8987351
+61,2,1,0,Lujo,Marina Mazatlan,Casa,2018,5557796
+114,2,2,1,Excelente,Villas del Rey,Casa,2010,3400748
+307,6,3,2,Lujo,Villas del Rey,Casa,2001,6468473
+166,3,2,1,Excelente,Centro,Casa,2022,6681233
+371,4,3,3,Buena,Pradera Dorada,Casa,1990,6339939
+179,3,2,1,Mala,Marina Mazatlan,Departamento,2008,12284736
+299,6,3,0,Excelente,Pradera Dorada,Departamento,2002,8651463
+131,3,4,1,Regular,Cerritos,Departamento,2000,4766993
+352,5,4,2,Lujo,Zona Dorada,Casa,2021,35230196
+54,2,1,2,Lujo,Pradera Dorada,Departamento,2001,1688452
+203,4,2,2,Regular,Villas del Rey,Departamento,2016,5167818
+168,4,4,0,Lujo,Pradera Dorada,Departamento,1994,4172488
+138,3,2,1,Buena,Villas del Rey,Casa,2025,3857635
+119,2,1,0,Lujo,Marina Mazatlan,Departamento,2000,8895450
+257,6,5,0,Mala,Villas del Rey,Departamento,2017,6349447
+180,3,2,1,Excelente,Marina Mazatlan,Casa,1993,10124097
+437,5,3,4,Mala,Zona Dorada,Casa,1997,20298789
+247,3,2,2,Buena,Cerritos,Casa,2003,8646985
+193,3,3,2,Regular,Zona Dorada,Departamento,1990,11702190
+109,3,4,0,Lujo,Zona Dorada,Casa,2001,8442283
+101,2,2,0,Buena,Villas del Rey,Departamento,2009,2670214
+257,4,3,0,Mala,Villas del Rey,Departamento,2018,4623627
+288,6,4,0,Lujo,Zona Dorada,Departamento,2016,33317815
+150,3,3,1,Buena,Cerritos,Casa,2023,8530064
+229,3,4,1,Excelente,Cerritos,Casa,2020,12192118
+87,3,4,1,Excelente,Marina Mazatlan,Casa,1994,6015489
+146,2,1,2,Mala,Villas del Rey,Departamento,1993,2227012
+61,1,1,0,Buena,Zona Dorada,Departamento,1991,3837274
+205,3,4,0,Mala,Villas del Rey,Departamento,1999,3548814
+149,3,3,1,Excelente,Villas del Rey,Casa,2005,4396812
+209,4,2,1,Lujo,Zona Dorada,Casa,2011,17058728
+161,4,4,1,Lujo,Pradera Dorada,Casa,2017,5351426
+208,3,3,2,Buena,Zona Dorada,Departamento,1996,13000228
+130,3,4,2,Excelente,Pradera Dorada,Casa,2018,4739676
+254,5,3,4,Mala,Marina Mazatlan,Casa,2013,15195560
+415,4,4,4,Buena,Cerritos,Casa,1993,12606041
+126,3,3,0,Excelente,Villas del Rey,Departamento,2000,3348272
+79,1,1,0,Lujo,Pradera Dorada,Departamento,2024,2231782
+399,5,4,2,Excelente,Pradera Dorada,Casa,2004,9488334
+280,6,4,4,Mala,Villas del Rey,Casa,1992,5224272
+425,4,2,2,Buena,Cerritos,Casa,1990,11360077
+280,5,3,0,Buena,Marina Mazatlan,Departamento,2016,23532512
+167,3,2,1,Mala,Cerritos,Casa,2010,5286954
+121,2,2,2,Lujo,Villas del Rey,Departamento,1995,3101301
+137,2,1,1,Regular,Cerritos,Departamento,1997,4645145
+60,2,2,0,Mala,Centro,Casa,1992,1648868
+358,4,3,3,Mala,Villas del Rey,Casa,2012,5696784
+96,2,1,0,Lujo,Centro,Departamento,2023,4382436
+175,4,4,0,Mala,Cerritos,Departamento,1992,5157348
+255,6,3,0,Buena,Cerritos,Departamento,2001,9390200
+372,6,3,3,Lujo,Marina Mazatlan,Casa,2019,31402477
+410,5,4,2,Regular,Pradera Dorada,Casa,2005,8254894
+188,3,3,1,Excelente,Pradera Dorada,Casa,2019,4703983
+285,5,5,2,Regular,Cerritos,Departamento,2009,11632247
+414,5,3,4,Excelente,Centro,Casa,2012,13400904
+176,3,3,0,Regular,Centro,Departamento,2002,4920243
+284,6,5,1,Regular,Cerritos,Departamento,2008,10968436
+288,4,4,2,Mala,Pradera Dorada,Casa,1991,5397312
+217,4,2,1,Lujo,Marina Mazatlan,Casa,2009,17728786
+263,4,2,2,Regular,Villas del Rey,Departamento,2010,5194469
+259,6,4,3,Regular,Villas del Rey,Casa,2012,6292223
+274,6,5,2,Buena,Marina Mazatlan,Departamento,2021,22091539
+67,2,1,1,Excelente,Zona Dorada,Departamento,2025,7550324
+438,5,3,2,Lujo,Zona Dorada,Casa,2007,36645773
+177,4,3,2,Excelente,Zona Dorada,Departamento,2026,19575276
+171,4,2,1,Mala,Pradera Dorada,Departamento,1990,3626767
+306,5,3,4,Mala,Villas del Rey,Casa,2005,5907089
+214,4,2,2,Buena,Zona Dorada,Casa,2018,16499882
+189,4,2,2,Excelente,Centro,Departamento,1993,5828220
+262,6,3,2,Mala,Pradera Dorada,Departamento,1999,5420627
+134,2,2,2,Regular,Cerritos,Casa,1997,3816668
+272,6,4,0,Mala,Marina Mazatlan,Departamento,2023,20326579
+261,6,4,2,Lujo,Villas del Rey,Casa,2023,8286341
+214,3,4,2,Regular,Pradera Dorada,Casa,1999,4647177
+377,5,5,4,Regular,Marina Mazatlan,Casa,2005,21495379
+142,3,2,2,Regular,Centro,Casa,2013,3934056
+340,4,2,4,Lujo,Villas del Rey,Casa,2026,9283390
+214,3,2,1,Lujo,Zona Dorada,Casa,1991,15962160
+211,3,3,0,Mala,Zona Dorada,Departamento,1992,10814449
+273,5,5,2,Mala,Pradera Dorada,Departamento,1994,5630527
+137,3,2,0,Lujo,Cerritos,Departamento,1992,6079956
+352,5,4,4,Excelente,Pradera Dorada,Casa,2008,9365008
+295,4,3,1,Buena,Villas del Rey,Departamento,1996,4574613
+73,1,2,1,Lujo,Marina Mazatlan,Casa,1992,5387448
+190,4,4,2,Excelente,Marina Mazatlan,Departamento,2015,17374064
+391,4,4,3,Excelente,Cerritos,Casa,2005,14933588
+224,4,2,1,Buena,Zona Dorada,Departamento,2002,17422256
+99,2,1,1,Buena,Zona Dorada,Departamento,2003,7954717
+281,4,4,1,Regular,Centro,Departamento,2007,8079906
+218,3,4,1,Lujo,Marina Mazatlan,Departamento,1997,16997496
+296,6,3,0,Mala,Marina Mazatlan,Departamento,2020,18597218
+237,4,4,1,Lujo,Villas del Rey,Departamento,1993,5388824
+410,4,2,3,Lujo,Centro,Casa,2024,16050457
+393,5,4,3,Regular,Centro,Casa,1997,8890210
+124,2,1,1,Buena,Villas del Rey,Departamento,2011,2433956
+180,4,3,2,Regular,Marina Mazatlan,Departamento,1992,12403999
+218,4,3,2,Buena,Pradera Dorada,Casa,2006,5221882
+77,2,2,1,Mala,Pradera Dorada,Departamento,2005,2455449
+415,6,3,4,Buena,Villas del Rey,Casa,2017,8789062
+410,4,3,4,Regular,Marina Mazatlan,Casa,2019,27270879
+95,3,4,2,Mala,Marina Mazatlan,Departamento,1996,5513351
+143,3,4,2,Excelente,Marina Mazatlan,Casa,2020,12048693
+167,4,2,2,Mala,Zona Dorada,Departamento,2022,13311675
+371,4,2,2,Excelente,Zona Dorada,Casa,2004,28134990
+284,6,5,2,Mala,Marina Mazatlan,Casa,2026,18567339
+183,4,2,1,Mala,Cerritos,Casa,2021,6015195
+121,2,2,1,Regular,Zona Dorada,Casa,1993,6999049
+141,2,2,1,Lujo,Cerritos,Casa,1993,6112302
+284,6,3,2,Buena,Zona Dorada,Casa,2004,19743439
+252,4,4,3,Buena,Pradera Dorada,Casa,1998,4720609
+171,3,3,1,Lujo,Cerritos,Casa,2003,9118908
+418,4,3,4,Lujo,Pradera Dorada,Casa,1991,9217210
+285,5,5,1,Lujo,Marina Mazatlan,Departamento,1991,22427434
+114,3,2,0,Buena,Zona Dorada,Casa,2000,6951083
+49,1,2,2,Lujo,Cerritos,Departamento,2018,3010805
+315,4,4,4,Lujo,Marina Mazatlan,Casa,1992,23562173
+198,3,3,1,Regular,Pradera Dorada,Departamento,2020,4477013
+298,5,5,3,Excelente,Pradera Dorada,Casa,2015,10258729
+282,4,3,2,Excelente,Zona Dorada,Casa,2023,24545832
+403,5,3,2,Mala,Cerritos,Casa,2007,12551947
+166,4,3,2,Regular,Pradera Dorada,Casa,2010,4459804
+194,4,3,1,Excelente,Pradera Dorada,Casa,2017,5616644
+372,6,4,2,Mala,Zona Dorada,Casa,2026,25234108
+244,4,4,0,Regular,Marina Mazatlan,Departamento,2013,16801948
+243,3,4,0,Regular,Cerritos,Departamento,2010,9408628
+426,6,4,2,Regular,Cerritos,Casa,2016,16760472
+191,3,2,0,Lujo,Zona Dorada,Departamento,2008,19745442
+272,4,2,1,Excelente,Villas del Rey,Departamento,2026,6929750
+222,3,3,2,Buena,Cerritos,Casa,2008,9876302
+140,2,1,1,Regular,Villas del Rey,Casa,2023,3013047
+285,4,3,2,Excelente,Marina Mazatlan,Casa,2006,19293500
+84,3,3,0,Buena,Villas del Rey,Departamento,2004,2463289
+406,6,5,3,Lujo,Cerritos,Casa,2018,21762290
+167,3,4,2,Buena,Marina Mazatlan,Departamento,1993,10016928
+152,4,4,2,Excelente,Pradera Dorada,Casa,2009,5986122
+65,1,2,1,Excelente,Centro,Departamento,2025,2922748
+267,6,3,1,Buena,Villas del Rey,Departamento,2002,6759302
+295,6,5,3,Lujo,Centro,Casa,2025,13253667
+307,4,3,4,Excelente,Villas del Rey,Casa,1990,6196529
+204,3,4,1,Mala,Zona Dorada,Departamento,1990,11785314
+119,2,1,0,Lujo,Marina Mazatlan,Departamento,2001,9428240
+193,3,2,1,Buena,Pradera Dorada,Casa,2024,5685548
+280,5,3,0,Mala,Villas del Rey,Departamento,1996,4441134
+294,5,3,2,Lujo,Zona Dorada,Casa,1990,19157475
+77,1,1,2,Lujo,Pradera Dorada,Departamento,1992,1870941
+115,2,1,1,Lujo,Centro,Casa,1998,3341554
+119,2,1,1,Lujo,Zona Dorada,Departamento,2015,12295248
+198,3,3,1,Mala,Villas del Rey,Departamento,2007,4248580
+450,5,3,4,Mala,Villas del Rey,Casa,2002,6919471
+230,3,4,1,Lujo,Pradera Dorada,Casa,2012,6768359
+300,6,4,3,Excelente,Cerritos,Casa,1999,11454179
+85,2,2,2,Buena,Centro,Departamento,2011,2946864
+266,5,4,3,Excelente,Cerritos,Casa,2001,9627991
+291,5,3,2,Excelente,Zona Dorada,Departamento,2024,31160521
+350,4,2,2,Lujo,Villas del Rey,Casa,2011,8378706
+288,4,4,2,Regular,Marina Mazatlan,Departamento,2010,21203175
+274,6,3,0,Regular,Villas del Rey,Departamento,2019,6433152
+155,4,2,2,Excelente,Cerritos,Departamento,2001,6911203
+94,2,2,1,Excelente,Pradera Dorada,Departamento,2013,2791353
+68,2,2,0,Buena,Villas del Rey,Casa,2009,2172210
+182,3,4,1,Mala,Pradera Dorada,Casa,1998,3294716
+191,4,4,0,Regular,Pradera Dorada,Departamento,2009,4441928
+68,1,2,1,Buena,Centro,Casa,2021,2687501
+292,6,4,3,Mala,Marina Mazatlan,Casa,2018,17332462
+201,4,2,1,Excelente,Zona Dorada,Departamento,1998,15746284
+101,3,3,1,Lujo,Pradera Dorada,Departamento,2007,3902976
+320,6,3,4,Excelente,Cerritos,Casa,1992,12537198
+103,3,3,0,Lujo,Centro,Casa,1990,3855087
+263,6,4,2,Mala,Cerritos,Departamento,2021,11698317
+162,3,4,2,Buena,Pradera Dorada,Departamento,2013,3808960
+246,4,2,1,Regular,Centro,Departamento,1991,5137255
+165,4,2,2,Excelente,Pradera Dorada,Casa,1998,3492310
+134,2,2,1,Mala,Centro,Casa,2006,3225847
+91,3,2,1,Lujo,Pradera Dorada,Departamento,2012,3643676
+231,3,2,2,Lujo,Zona Dorada,Casa,2019,21800834
+252,6,3,0,Excelente,Pradera Dorada,Departamento,2015,7020509
+215,4,2,2,Regular,Marina Mazatlan,Departamento,1995,13079395
+265,6,4,3,Mala,Marina Mazatlan,Casa,2012,14899600
+190,4,4,1,Mala,Pradera Dorada,Departamento,2006,4537380
+206,4,3,2,Excelente,Villas del Rey,Casa,1998,5164607
+163,3,4,2,Buena,Cerritos,Departamento,2014,7479774
+222,4,4,1,Regular,Zona Dorada,Departamento,2006,17438456
+258,5,5,2,Regular,Centro,Departamento,2014,8988491
+186,3,3,2,Lujo,Centro,Casa,1991,5564893
+174,4,4,2,Regular,Marina Mazatlan,Departamento,1990,11165694
+295,5,3,1,Excelente,Centro,Departamento,2001,8415791
+116,3,2,0,Regular,Marina Mazatlan,Casa,1997,5788603
+146,2,1,2,Regular,Pradera Dorada,Departamento,2023,3665087
+108,3,4,1,Buena,Marina Mazatlan,Casa,2026,8823285
+194,4,2,2,Buena,Centro,Casa,1995,4715666
+110,3,2,1,Mala,Villas del Rey,Casa,2026,3169001
+198,4,4,2,Regular,Pradera Dorada,Departamento,2018,5121299
+56,2,1,0,Regular,Villas del Rey,Departamento,2021,1700685
+153,3,3,0,Excelente,Cerritos,Departamento,1996,5743084
+436,4,2,2,Excelente,Pradera Dorada,Casa,2013,10100244
+215,3,3,2,Mala,Zona Dorada,Departamento,1995,12583550
+218,4,2,0,Regular,Zona Dorada,Departamento,2017,16497410
+120,3,3,1,Lujo,Villas del Rey,Departamento,2008,3718933
+231,4,2,1,Excelente,Centro,Casa,2018,8385555
+407,4,2,4,Mala,Marina Mazatlan,Casa,2002,20659228
+157,4,2,2,Mala,Cerritos,Departamento,2000,5277848
+158,4,3,2,Mala,Pradera Dorada,Casa,2002,4098251
+270,5,5,1,Buena,Marina Mazatlan,Departamento,2012,22416402
+161,4,2,2,Lujo,Zona Dorada,Casa,2014,12978116
+224,3,4,1,Excelente,Cerritos,Departamento,2024,11686056
+184,4,4,1,Excelente,Pradera Dorada,Casa,2015,5968267
+136,3,4,1,Mala,Cerritos,Casa,2002,5484381
+196,4,3,1,Lujo,Centro,Departamento,1994,6544913
+428,6,5,3,Mala,Pradera Dorada,Casa,2002,9178152
+284,6,3,0,Excelente,Zona Dorada,Departamento,2004,23941771
+226,3,2,1,Excelente,Cerritos,Casa,2020,9331430
+270,5,5,1,Buena,Villas del Rey,Departamento,1994,4995514
+146,2,1,2,Mala,Cerritos,Departamento,2000,3727619
+209,3,4,1,Lujo,Cerritos,Casa,2024,12869702
+159,3,4,2,Mala,Zona Dorada,Casa,2020,12452274
+180,3,2,1,Regular,Zona Dorada,Casa,1991,10205570
+125,2,2,1,Buena,Marina Mazatlan,Casa,2013,8723584
+193,4,4,1,Buena,Zona Dorada,Casa,1999,12085908
+200,4,4,1,Lujo,Villas del Rey,Departamento,2011,6044624
+61,1,1,0,Lujo,Cerritos,Departamento,2015,2794510
+121,2,1,1,Mala,Centro,Departamento,2006,2992968
+287,4,3,0,Regular,Centro,Departamento,2021,7793362
+230,3,4,2,Regular,Pradera Dorada,Casa,2026,5519976
+301,6,4,2,Buena,Zona Dorada,Casa,1996,19247859
+93,2,2,0,Buena,Cerritos,Casa,2024,4390199
+336,6,5,2,Excelente,Cerritos,Casa,1991,12481280
+435,5,5,3,Buena,Villas del Rey,Casa,2011,9691252
+287,6,5,2,Buena,Pradera Dorada,Casa,2003,7601831
+129,2,1,1,Lujo,Cerritos,Departamento,2011,6250841
+270,5,5,3,Regular,Cerritos,Casa,2015,11268315
+258,5,3,3,Mala,Pradera Dorada,Casa,2006,6484436
+232,3,2,1,Lujo,Pradera Dorada,Casa,2008,5867104
+392,5,3,3,Lujo,Pradera Dorada,Casa,2009,10376234
+58,2,1,1,Buena,Centro,Departamento,2022,2845670
+217,3,3,1,Mala,Pradera Dorada,Departamento,1991,3569602
+130,3,2,2,Regular,Centro,Casa,1994,3396342
+64,1,2,1,Regular,Cerritos,Casa,1990,2313800
+262,5,3,1,Excelente,Zona Dorada,Departamento,2000,21000316
+437,4,4,4,Excelente,Villas del Rey,Casa,2013,9243473
+84,2,1,0,Buena,Marina Mazatlan,Casa,2014,5637442
+225,4,3,2,Lujo,Centro,Departamento,2013,9540779
+243,3,3,2,Buena,Marina Mazatlan,Departamento,1995,14246831
+56,1,1,1,Lujo,Cerritos,Departamento,2024,3715355
+206,3,3,1,Mala,Centro,Departamento,2020,6274820
+98,2,1,0,Excelente,Pradera Dorada,Casa,2020,2904648
+122,3,2,1,Lujo,Marina Mazatlan,Departamento,2024,12450715
+238,4,2,1,Lujo,Centro,Casa,2024,9235101
+252,5,5,0,Buena,Marina Mazatlan,Departamento,2008,19360293
+75,2,1,2,Lujo,Cerritos,Departamento,1994,3484715
+312,5,3,2,Lujo,Zona Dorada,Casa,2000,21220263
+402,4,3,4,Excelente,Marina Mazatlan,Casa,2025,35160613
+187,4,4,2,Buena,Cerritos,Casa,2002,7519578
+161,3,3,2,Regular,Cerritos,Departamento,2020,6683819
+163,4,3,0,Lujo,Cerritos,Departamento,2018,9255060
+93,3,4,0,Excelente,Zona Dorada,Departamento,2003,8816797
+251,4,4,1,Buena,Cerritos,Departamento,2026,12394416
+132,3,4,1,Excelente,Pradera Dorada,Casa,2020,4126456
+81,2,2,0,Lujo,Pradera Dorada,Departamento,2016,2976453
+199,4,2,1,Lujo,Cerritos,Casa,2008,8651515
+205,3,3,0,Mala,Pradera Dorada,Departamento,2021,4598176
+290,4,4,3,Regular,Centro,Casa,1994,6781748
+129,2,1,2,Buena,Villas del Rey,Casa,1998,2579718
+203,4,3,1,Excelente,Villas del Rey,Departamento,2009,5809430
+431,5,3,2,Regular,Centro,Casa,2020,12320367
+150,3,2,1,Regular,Zona Dorada,Casa,2008,10091881
+430,4,4,4,Mala,Centro,Casa,2017,11674214
+86,2,2,1,Mala,Marina Mazatlan,Casa,2004,5187561
+299,6,3,1,Buena,Villas del Rey,Departamento,2000,5626138
+338,5,4,4,Regular,Zona Dorada,Casa,2021,25155378
+86,2,2,2,Mala,Zona Dorada,Departamento,2016,6883074
+190,3,2,0,Lujo,Cerritos,Departamento,2013,8858932
+108,3,3,2,Lujo,Centro,Departamento,2025,6674599
+168,4,3,0,Buena,Marina Mazatlan,Departamento,1999,10237528
+63,2,2,0,Excelente,Zona Dorada,Departamento,2023,6952962
+321,5,5,2,Excelente,Villas del Rey,Casa,2026,9497700
+91,2,1,2,Mala,Marina Mazatlan,Departamento,2022,6237122
+113,3,3,1,Mala,Pradera Dorada,Departamento,2015,3864354
+257,5,5,0,Lujo,Centro,Departamento,2024,13045585
+195,4,2,2,Regular,Zona Dorada,Casa,1994,10194213
+129,3,2,2,Mala,Marina Mazatlan,Casa,1996,5878354
+232,4,3,1,Mala,Centro,Departamento,2002,6107862
+203,3,2,2,Buena,Pradera Dorada,Departamento,2006,5355066
+237,3,2,2,Mala,Pradera Dorada,Casa,2008,4653418
+140,2,2,0,Excelente,Marina Mazatlan,Departamento,2006,10588890
+234,4,2,1,Excelente,Cerritos,Departamento,1999,8311712
+109,2,1,1,Excelente,Centro,Departamento,2010,3877013
+323,6,4,3,Lujo,Cerritos,Casa,1994,13411773
+150,3,2,1,Lujo,Zona Dorada,Departamento,2022,17437333
+366,4,3,4,Buena,Pradera Dorada,Casa,2025,9153855
+265,6,4,0,Mala,Cerritos,Departamento,1991,7509673
+165,3,3,1,Mala,Zona Dorada,Departamento,1992,9087328
+261,4,2,1,Regular,Cerritos,Departamento,2003,10127672
+140,2,2,0,Buena,Marina Mazatlan,Departamento,1996,9295180
+318,6,5,4,Excelente,Pradera Dorada,Casa,2009,7673258
+116,2,2,2,Excelente,Pradera Dorada,Departamento,1994,3022779
+107,3,4,1,Excelente,Pradera Dorada,Departamento,1992,3465354
+114,3,4,0,Lujo,Villas del Rey,Casa,2020,4782575
+129,3,3,0,Mala,Zona Dorada,Departamento,2012,9610480
+97,2,1,0,Mala,Villas del Rey,Casa,2016,1907582
+150,2,1,2,Regular,Cerritos,Casa,2017,5639789
+126,3,3,0,Mala,Marina Mazatlan,Departamento,1990,7429904
+210,4,2,1,Regular,Villas del Rey,Departamento,2005,4147416
+198,3,4,2,Mala,Pradera Dorada,Departamento,2004,5352190
+193,4,3,0,Excelente,Centro,Departamento,2010,6631043
+97,2,1,0,Regular,Centro,Departamento,2019,2988808
+376,4,4,3,Regular,Marina Mazatlan,Casa,1992,18731826
+232,3,2,1,Lujo,Zona Dorada,Casa,2026,21157725
+314,6,3,4,Lujo,Zona Dorada,Casa,1991,21549504
+72,2,1,2,Lujo,Zona Dorada,Departamento,2025,9354027
+192,4,2,2,Regular,Cerritos,Departamento,1994,6807860
+254,4,2,1,Lujo,Centro,Departamento,2008,8648141
+208,3,4,0,Lujo,Centro,Departamento,2013,6927799
+149,2,2,2,Lujo,Centro,Casa,1994,4734431
+62,1,2,0,Mala,Pradera Dorada,Departamento,2025,1597625
+267,5,4,0,Mala,Pradera Dorada,Departamento,2002,6306732
+160,4,4,1,Excelente,Villas del Rey,Departamento,2021,5716844
+93,3,2,1,Lujo,Cerritos,Casa,1997,4000185
+351,5,3,2,Regular,Marina Mazatlan,Casa,2013,19662355
+62,1,2,0,Regular,Marina Mazatlan,Casa,1999,3755563
+400,5,5,4,Regular,Zona Dorada,Casa,2014,25250188
+161,4,4,0,Regular,Marina Mazatlan,Departamento,1992,9849382
+125,2,2,2,Mala,Marina Mazatlan,Departamento,1996,7017403
+378,5,3,2,Excelente,Zona Dorada,Casa,2022,30294437
+222,4,3,2,Regular,Zona Dorada,Departamento,2024,19930012
+389,6,4,3,Buena,Marina Mazatlan,Casa,2026,29434384
+247,3,2,2,Mala,Zona Dorada,Casa,2004,13525711
+116,2,2,1,Mala,Centro,Departamento,2015,3144457
+199,3,2,2,Mala,Zona Dorada,Casa,2009,10391177
+209,4,3,1,Buena,Zona Dorada,Departamento,1990,13896285
+178,3,4,1,Lujo,Pradera Dorada,Casa,2004,5383381
+439,4,2,4,Lujo,Centro,Casa,2017,16368403
+211,3,2,0,Buena,Marina Mazatlan,Departamento,2005,14829095
+128,3,4,1,Lujo,Centro,Departamento,2016,5702628
+134,3,3,1,Buena,Pradera Dorada,Departamento,2023,4949912
+207,3,2,2,Buena,Villas del Rey,Casa,1991,4126192
+225,4,4,1,Mala,Villas del Rey,Departamento,2020,5342756
+74,2,1,1,Buena,Zona Dorada,Casa,1991,4147996
+212,3,4,1,Buena,Villas del Rey,Casa,2016,5257245
+419,5,5,3,Excelente,Cerritos,Casa,2009,17108874
+293,6,3,2,Excelente,Villas del Rey,Departamento,2022,7214535
+162,4,4,1,Mala,Cerritos,Casa,2023,6414320
+207,3,3,1,Mala,Villas del Rey,Departamento,2013,4173825
+96,2,2,0,Buena,Marina Mazatlan,Departamento,2002,7888354
+289,4,3,4,Excelente,Centro,Casa,2013,10341935
+77,2,1,1,Excelente,Centro,Departamento,2015,3008900
+147,3,3,1,Mala,Villas del Rey,Departamento,2010,3040663
+91,3,3,0,Mala,Villas del Rey,Casa,2020,2690570
+290,5,3,2,Lujo,Villas del Rey,Departamento,2003,8208971
+129,3,2,2,Lujo,Marina Mazatlan,Departamento,2018,13250658
+250,4,2,2,Buena,Cerritos,Casa,1992,8194554
+54,1,1,1,Buena,Pradera Dorada,Departamento,2009,1582405
+449,5,3,3,Lujo,Cerritos,Casa,2002,19026066
+167,3,4,2,Regular,Villas del Rey,Casa,1995,2714076
+173,3,2,1,Buena,Marina Mazatlan,Departamento,2016,14370043
+239,4,4,2,Regular,Centro,Casa,2011,7906203
+363,6,5,2,Lujo,Zona Dorada,Casa,2022,36536664
+246,3,4,2,Lujo,Centro,Casa,1996,7151611
+228,3,2,2,Excelente,Zona Dorada,Departamento,1995,15550627
+273,4,4,2,Regular,Cerritos,Departamento,2020,10238085
+113,2,2,1,Buena,Zona Dorada,Casa,1993,7332267
+156,3,2,0,Buena,Centro,Departamento,1996,3311492
+60,2,2,2,Regular,Villas del Rey,Departamento,2015,1831300
+407,5,5,3,Lujo,Pradera Dorada,Casa,2026,13549381
+219,3,2,0,Mala,Villas del Rey,Departamento,2021,4690218
+230,4,3,2,Lujo,Zona Dorada,Departamento,2018,26313201
+296,5,4,1,Excelente,Pradera Dorada,Departamento,2015,7534764
+149,2,2,2,Mala,Marina Mazatlan,Departamento,2022,11735805
+209,3,2,2,Excelente,Marina Mazatlan,Casa,1999,12503261
+152,4,2,2,Regular,Zona Dorada,Casa,2016,10751339
+121,3,2,2,Lujo,Centro,Departamento,2017,5477726
+169,3,3,1,Regular,Pradera Dorada,Casa,1997,3625875
+379,6,4,3,Lujo,Centro,Casa,2000,10111534
+99,2,1,2,Buena,Marina Mazatlan,Departamento,2015,8410207
+148,2,2,2,Buena,Cerritos,Departamento,2019,6602354
+117,2,1,0,Excelente,Pradera Dorada,Casa,2015,2666484
+272,6,5,1,Regular,Marina Mazatlan,Departamento,1999,16115407
+142,2,2,1,Buena,Centro,Casa,2005,4734185
+159,4,4,2,Regular,Centro,Casa,1996,4729795
+289,4,3,1,Regular,Marina Mazatlan,Departamento,1993,15820260
+69,2,1,0,Mala,Cerritos,Casa,2017,2696452
+428,4,3,4,Lujo,Zona Dorada,Casa,2005,37520249
+151,3,3,2,Regular,Marina Mazatlan,Casa,1993,8201389
+174,3,3,0,Lujo,Pradera Dorada,Departamento,1998,4428676
+172,3,4,2,Regular,Villas del Rey,Casa,2004,4437911
+298,5,4,2,Excelente,Centro,Casa,1997,7891767
+84,3,3,1,Buena,Villas del Rey,Casa,1999,2141018
+267,5,4,2,Regular,Villas del Rey,Casa,2011,5667608
+167,3,4,1,Mala,Marina Mazatlan,Casa,2018,10975122
+184,4,4,2,Mala,Zona Dorada,Casa,1993,8385159
+418,5,5,4,Regular,Cerritos,Casa,2021,18071381
+297,5,5,3,Buena,Pradera Dorada,Casa,1993,6646650
+183,3,3,0,Mala,Zona Dorada,Departamento,2024,15493632
+170,3,4,1,Buena,Cerritos,Casa,1996,5793377
+159,4,2,1,Regular,Zona Dorada,Departamento,1997,9006053
+124,2,2,2,Regular,Cerritos,Casa,2020,5729615
+60,1,2,2,Mala,Zona Dorada,Departamento,2004,4538308
+240,3,4,1,Lujo,Cerritos,Casa,2016,13545291
+154,3,4,1,Regular,Zona Dorada,Casa,1999,8896578
+410,5,4,2,Buena,Centro,Casa,1994,10374120
+208,3,4,1,Mala,Zona Dorada,Departamento,2010,15174158
+266,4,4,1,Lujo,Cerritos,Departamento,2005,14122549
+326,5,5,3,Lujo,Marina Mazatlan,Casa,1998,19994488
+241,4,3,1,Excelente,Cerritos,Departamento,2003,11036805
+161,4,2,2,Mala,Marina Mazatlan,Casa,2013,9503892
+208,3,2,0,Buena,Marina Mazatlan,Departamento,1997,11591148
+91,2,2,1,Mala,Pradera Dorada,Casa,2023,2845090
+294,6,4,4,Lujo,Cerritos,Casa,1993,10940635
+329,5,5,3,Lujo,Cerritos,Casa,1995,12449003
+344,6,5,3,Regular,Villas del Rey,Casa,2005,8005180
+188,4,4,2,Excelente,Centro,Casa,2023,8499568
+95,2,2,2,Mala,Pradera Dorada,Departamento,1990,1942412
+203,3,3,1,Mala,Pradera Dorada,Casa,2013,4186197
+185,3,2,2,Regular,Centro,Departamento,2000,4304355
+123,3,4,2,Regular,Cerritos,Casa,2003,5540885
+115,3,4,0,Regular,Cerritos,Departamento,2022,5076986
+181,3,2,2,Lujo,Cerritos,Departamento,2016,9453766
+55,2,2,1,Excelente,Pradera Dorada,Departamento,2002,2021649
+74,1,1,1,Regular,Cerritos,Departamento,2013,3271202
+172,4,3,1,Buena,Villas del Rey,Casa,2012,4026270
+366,6,4,3,Lujo,Zona Dorada,Casa,2020,32869001
+97,2,1,0,Buena,Zona Dorada,Departamento,1998,6478102
+433,4,3,4,Mala,Zona Dorada,Casa,1997,18261446
+226,4,2,1,Lujo,Marina Mazatlan,Casa,2011,18129786
+114,2,2,1,Regular,Cerritos,Casa,2005,4194427
+384,6,3,3,Lujo,Cerritos,Casa,1995,16154646
+357,4,2,4,Excelente,Villas del Rey,Casa,2005,7467077
+282,5,3,1,Lujo,Centro,Departamento,2013,9753109
+269,4,3,0,Mala,Pradera Dorada,Departamento,2021,6055491
+197,3,4,2,Regular,Marina Mazatlan,Departamento,1997,12444504
+248,4,4,0,Lujo,Centro,Departamento,2025,10786730
+309,4,2,4,Mala,Pradera Dorada,Casa,2006,5704497
+104,3,3,2,Regular,Cerritos,Departamento,1999,3856380
+227,3,4,0,Buena,Pradera Dorada,Departamento,2012,6176089
+157,4,4,1,Lujo,Zona Dorada,Departamento,2013,17947862
+243,3,4,1,Lujo,Pradera Dorada,Departamento,1998,5691035
+51,2,2,0,Excelente,Pradera Dorada,Departamento,1998,1678218
+184,4,2,1,Regular,Pradera Dorada,Casa,2007,4639771
+291,5,3,2,Lujo,Marina Mazatlan,Casa,2012,22742607
+421,4,2,3,Regular,Pradera Dorada,Casa,2026,9623269
+269,6,3,2,Buena,Pradera Dorada,Departamento,1994,5602696
+448,4,2,2,Excelente,Pradera Dorada,Casa,2010,9467575
+82,2,1,2,Regular,Marina Mazatlan,Departamento,1995,5191857
+278,5,3,3,Lujo,Zona Dorada,Casa,2004,26550854
+230,3,2,2,Excelente,Zona Dorada,Departamento,2003,18910100
+406,6,4,4,Buena,Marina Mazatlan,Casa,2022,27168684
+349,6,4,2,Lujo,Villas del Rey,Casa,1999,7089597
+210,3,2,2,Lujo,Zona Dorada,Departamento,1997,17916265
+73,2,2,0,Excelente,Centro,Casa,1997,2296909
+178,3,4,2,Regular,Marina Mazatlan,Departamento,2006,14214288
+338,6,4,4,Buena,Cerritos,Casa,2013,13181337
+106,2,1,0,Mala,Zona Dorada,Departamento,2003,7091929
+200,3,2,1,Buena,Cerritos,Casa,2000,6535725
+341,5,5,4,Mala,Cerritos,Casa,2022,13446168
+187,4,3,1,Mala,Villas del Rey,Casa,2016,4328585
+129,3,4,2,Mala,Pradera Dorada,Departamento,2023,4550403
+376,4,4,4,Regular,Pradera Dorada,Casa,2018,9485751
+67,2,2,1,Lujo,Pradera Dorada,Departamento,2017,2824736
+73,1,2,1,Regular,Zona Dorada,Casa,2022,5150616
+179,4,2,2,Lujo,Marina Mazatlan,Departamento,2024,21580842
+183,4,2,2,Buena,Marina Mazatlan,Casa,1999,9616339
+129,3,3,1,Buena,Cerritos,Casa,1994,5014460
+256,4,3,0,Lujo,Marina Mazatlan,Departamento,2021,24491761
+244,4,2,2,Buena,Centro,Departamento,2017,8217100
+363,6,4,4,Excelente,Zona Dorada,Casa,1991,23683510
+268,5,4,4,Mala,Villas del Rey,Casa,2004,6927697
+293,6,3,3,Mala,Centro,Casa,1998,6468803
+198,4,3,0,Buena,Pradera Dorada,Departamento,2013,4860235
+377,6,3,2,Regular,Cerritos,Casa,2016,15336574
+354,6,3,3,Buena,Villas del Rey,Casa,1990,5980513
+154,4,2,1,Buena,Zona Dorada,Departamento,2024,15398788
+61,2,1,1,Mala,Villas del Rey,Casa,2018,1638098
+299,4,3,1,Buena,Villas del Rey,Departamento,1992,5314639
+128,3,2,2,Buena,Centro,Departamento,2010,4252690
+88,2,1,1,Regular,Centro,Departamento,2019,2720078
+57,1,1,0,Regular,Villas del Rey,Departamento,2000,1209059
+244,4,3,1,Lujo,Pradera Dorada,Departamento,2003,6750189
+263,4,2,2,Mala,Centro,Departamento,2023,8782626
+111,3,2,0,Excelente,Pradera Dorada,Departamento,2019,4138844
+119,2,1,0,Regular,Villas del Rey,Casa,2021,2350592
+362,5,5,2,Excelente,Cerritos,Casa,2001,12306216
+105,3,4,1,Lujo,Marina Mazatlan,Departamento,2025,12762000
+256,6,5,2,Lujo,Villas del Rey,Departamento,2025,10967911
+361,6,5,3,Regular,Villas del Rey,Casa,2001,5884278
+106,2,1,2,Buena,Zona Dorada,Departamento,1993,6892135
+417,5,5,2,Regular,Pradera Dorada,Casa,2019,10119725
+237,3,4,2,Lujo,Pradera Dorada,Departamento,2025,7742632
+206,3,2,1,Mala,Marina Mazatlan,Casa,2004,11183200
+270,5,4,0,Buena,Zona Dorada,Departamento,2023,24137598
+70,2,1,1,Excelente,Zona Dorada,Casa,2009,6252546
+98,2,1,0,Excelente,Zona Dorada,Departamento,2008,9036751
+208,3,4,2,Mala,Pradera Dorada,Departamento,2006,5451683
+69,2,1,1,Regular,Pradera Dorada,Departamento,2017,1747264
+312,5,5,4,Lujo,Cerritos,Casa,2004,15481839
+137,3,3,0,Lujo,Marina Mazatlan,Departamento,2010,12229784
+302,5,5,3,Regular,Pradera Dorada,Casa,2006,7060198
+137,3,2,1,Regular,Villas del Rey,Departamento,2022,3440924
+263,4,2,0,Regular,Zona Dorada,Departamento,2007,19129178
+299,4,4,0,Buena,Cerritos,Departamento,2017,13075670
+392,4,3,2,Buena,Centro,Casa,2021,10310219
+381,5,3,4,Regular,Pradera Dorada,Casa,1995,6503262
+343,4,3,3,Regular,Pradera Dorada,Casa,2020,7104150
+245,4,3,0,Mala,Cerritos,Departamento,1990,6382368
+122,2,2,2,Mala,Pradera Dorada,Departamento,2006,2967455
+168,3,3,1,Buena,Marina Mazatlan,Casa,2001,8492873
+225,4,2,1,Regular,Zona Dorada,Departamento,2024,17899120
+230,3,3,2,Regular,Centro,Casa,2006,6273685
+363,5,4,2,Mala,Zona Dorada,Casa,2022,25030433
+285,5,3,4,Mala,Zona Dorada,Casa,2006,15561618
+372,6,4,4,Mala,Villas del Rey,Casa,2014,5596973
+200,3,4,1,Lujo,Centro,Casa,2013,7946239
+254,4,3,3,Mala,Marina Mazatlan,Casa,2020,15045174
+304,5,4,4,Excelente,Zona Dorada,Casa,2015,25715876
+135,2,1,1,Excelente,Zona Dorada,Departamento,2001,10485548
+166,4,3,2,Regular,Centro,Departamento,1992,4405580
+87,2,1,1,Buena,Centro,Departamento,1996,2313989
+389,6,3,2,Regular,Villas del Rey,Casa,2020,7910009
+317,4,4,3,Regular,Cerritos,Casa,2012,13283450
+411,6,3,4,Excelente,Villas del Rey,Casa,1999,6814065
+287,4,3,1,Buena,Zona Dorada,Departamento,2022,26031912
+118,2,2,0,Excelente,Cerritos,Departamento,2004,5258723
+213,3,2,1,Mala,Cerritos,Departamento,2008,7171783
+249,4,2,2,Mala,Pradera Dorada,Casa,2010,5032631
+154,3,4,1,Lujo,Centro,Departamento,2005,6338654
+147,2,1,2,Lujo,Villas del Rey,Departamento,1999,3415258
+175,3,3,0,Regular,Marina Mazatlan,Departamento,2018,12788978
+306,4,4,3,Buena,Cerritos,Casa,1998,10211094
+241,4,3,2,Lujo,Zona Dorada,Departamento,1991,21521538
+62,1,1,1,Buena,Pradera Dorada,Departamento,1995,1412309
+196,3,2,2,Mala,Pradera Dorada,Casa,2013,3957021
+372,5,4,4,Regular,Zona Dorada,Casa,2000,18817391
+352,4,3,4,Mala,Zona Dorada,Casa,1998,15730293
+246,4,2,2,Regular,Cerritos,Casa,2007,8526518
+255,6,5,1,Excelente,Cerritos,Departamento,1996,9970246
+201,3,2,1,Regular,Zona Dorada,Departamento,1999,11383763
+331,5,4,2,Mala,Pradera Dorada,Casa,1998,5650056
+47,1,1,0,Excelente,Marina Mazatlan,Departamento,2013,4171098
+262,5,3,2,Excelente,Marina Mazatlan,Casa,2001,14875084
+401,6,4,3,Buena,Villas del Rey,Casa,1996,7360121
+180,4,3,0,Mala,Villas del Rey,Departamento,2006,2973795
+165,3,2,2,Buena,Pradera Dorada,Departamento,1999,3726635
+131,3,3,1,Lujo,Zona Dorada,Departamento,2026,16695551
+176,3,3,1,Mala,Pradera Dorada,Casa,1999,3679888
+229,3,2,1,Mala,Pradera Dorada,Departamento,2020,5150524
+92,3,4,0,Regular,Marina Mazatlan,Departamento,1993,6021054
+186,3,3,0,Regular,Villas del Rey,Departamento,2000,3093706
+94,2,1,1,Mala,Villas del Rey,Casa,2017,1877703
+358,5,4,3,Mala,Marina Mazatlan,Casa,2026,20572246
+179,3,4,2,Regular,Pradera Dorada,Casa,2013,5219184
+82,3,4,1,Excelente,Centro,Departamento,2011,4102574
+283,4,3,2,Lujo,Villas del Rey,Casa,2019,7919943
+444,4,3,3,Buena,Marina Mazatlan,Casa,1997,23832789
+195,3,2,2,Buena,Cerritos,Casa,1997,6208474
+253,5,5,1,Mala,Marina Mazatlan,Departamento,2014,16904368
+188,3,2,1,Buena,Villas del Rey,Casa,2003,4051427
+167,3,3,2,Regular,Centro,Casa,2019,5704114
+124,3,3,1,Lujo,Zona Dorada,Departamento,2004,13133575
+281,4,3,3,Buena,Zona Dorada,Casa,2009,18589054
+195,3,4,0,Lujo,Marina Mazatlan,Departamento,2017,18715896
+410,6,3,3,Lujo,Pradera Dorada,Casa,2020,12426345
+61,2,2,0,Lujo,Marina Mazatlan,Casa,2021,5808951
+160,4,4,2,Lujo,Pradera Dorada,Departamento,1996,4870945
+255,5,4,3,Mala,Villas del Rey,Casa,1990,4015267
+217,3,3,2,Regular,Marina Mazatlan,Casa,2005,13041612
+399,4,3,4,Mala,Zona Dorada,Casa,2022,22142157
+247,3,2,2,Buena,Cerritos,Casa,2014,9963158
+112,2,1,0,Buena,Cerritos,Departamento,2003,4301052
+178,3,3,0,Excelente,Marina Mazatlan,Departamento,2025,18921225
+185,4,2,0,Regular,Centro,Departamento,1997,4340872
+153,4,2,1,Buena,Zona Dorada,Departamento,2003,11551277
+289,4,3,1,Lujo,Cerritos,Departamento,2019,15563280
+286,5,4,2,Buena,Pradera Dorada,Departamento,2011,8092662
+210,3,2,2,Buena,Centro,Casa,2014,6837958
+86,3,3,0,Excelente,Cerritos,Departamento,1992,3902298
+131,2,1,2,Lujo,Zona Dorada,Casa,2001,9827264
+156,3,4,1,Lujo,Centro,Departamento,2017,6387392
+214,4,3,1,Regular,Zona Dorada,Casa,2022,14748848
+250,3,2,2,Buena,Villas del Rey,Casa,2020,4963708
+441,6,4,2,Excelente,Zona Dorada,Casa,2001,26952659
+238,4,4,2,Regular,Cerritos,Casa,2005,9056651
+243,3,3,0,Regular,Cerritos,Departamento,2020,9016332
+249,3,2,0,Buena,Pradera Dorada,Departamento,2007,5354512
+231,4,3,1,Excelente,Centro,Casa,2024,9941552
+291,6,3,1,Lujo,Villas del Rey,Departamento,1990,6097907
+242,3,3,2,Lujo,Villas del Rey,Casa,1995,5339343
+115,3,2,2,Regular,Villas del Rey,Departamento,2002,2887527
+179,4,3,2,Mala,Zona Dorada,Departamento,2023,13740417
+368,5,3,4,Mala,Marina Mazatlan,Casa,1995,15617124
+93,3,2,1,Buena,Zona Dorada,Casa,2003,7106300
+193,4,4,1,Regular,Pradera Dorada,Casa,2024,6015157
+167,4,3,1,Excelente,Centro,Casa,2006,5796691
+135,2,2,0,Buena,Villas del Rey,Departamento,2018,3157667
+139,3,4,0,Buena,Marina Mazatlan,Departamento,1994,8949680
+193,4,3,2,Regular,Zona Dorada,Departamento,2009,14127663
+284,6,4,0,Excelente,Marina Mazatlan,Departamento,1991,21392304
+194,4,3,2,Excelente,Cerritos,Departamento,2003,8740262
+88,2,1,0,Excelente,Marina Mazatlan,Casa,2015,6674279
+213,3,4,1,Buena,Cerritos,Departamento,1992,7954655
+257,5,5,2,Mala,Zona Dorada,Casa,2009,14734099
+388,4,3,2,Buena,Zona Dorada,Casa,1996,21768071
+251,5,5,0,Buena,Cerritos,Departamento,2007,10200114
+185,3,2,1,Lujo,Villas del Rey,Departamento,2019,5611358
+209,3,2,1,Buena,Centro,Departamento,1991,5131758
+129,2,1,1,Mala,Pradera Dorada,Casa,2021,2377474
+345,5,4,3,Regular,Marina Mazatlan,Casa,2015,22777554
+184,3,3,1,Regular,Zona Dorada,Casa,2020,12380997
+191,4,4,2,Lujo,Zona Dorada,Departamento,2006,21675362
+80,2,1,0,Buena,Centro,Departamento,2011,2733240
+333,6,5,4,Buena,Centro,Casa,2004,10318595
+316,6,3,4,Mala,Pradera Dorada,Casa,2022,7101489
+59,2,1,2,Regular,Zona Dorada,Departamento,2026,5647285
+315,6,4,2,Mala,Cerritos,Casa,2006,10492993
+385,4,4,2,Excelente,Pradera Dorada,Casa,2026,9844588
+115,2,2,1,Excelente,Villas del Rey,Departamento,2015,2943600
+182,4,2,2,Regular,Marina Mazatlan,Departamento,2024,16061112
+68,2,1,1,Lujo,Centro,Casa,2020,2937521
+62,1,2,0,Regular,Marina Mazatlan,Casa,2005,4132275
+285,5,5,3,Lujo,Pradera Dorada,Casa,2010,9742090
+135,2,1,1,Buena,Villas del Rey,Departamento,2001,2388530
+297,5,4,2,Lujo,Cerritos,Casa,2024,18271154
+368,5,3,3,Buena,Pradera Dorada,Casa,1990,7319336
+423,6,4,3,Buena,Villas del Rey,Casa,2010,10158217
+152,3,2,1,Mala,Villas del Rey,Casa,1999,2701808
+45,1,1,0,Excelente,Centro,Departamento,2008,1836226
+258,6,5,0,Mala,Zona Dorada,Departamento,2015,18041370
+362,4,3,2,Regular,Zona Dorada,Casa,1993,19275063
+355,4,4,4,Mala,Marina Mazatlan,Casa,2017,19714384
+253,5,5,2,Buena,Marina Mazatlan,Departamento,2020,21470994
+198,4,2,1,Lujo,Centro,Departamento,1992,6737447
+145,3,4,2,Buena,Centro,Departamento,1997,4650049
+104,3,4,1,Mala,Pradera Dorada,Casa,2005,4020735
+51,1,1,1,Mala,Pradera Dorada,Departamento,2020,1228601
+298,4,2,2,Lujo,Villas del Rey,Casa,1990,6209734
+278,4,4,1,Regular,Cerritos,Departamento,2016,12479368
+126,2,1,0,Regular,Pradera Dorada,Departamento,2012,2723722
+92,2,2,1,Lujo,Villas del Rey,Departamento,2005,3250604
+431,6,3,3,Regular,Cerritos,Casa,1994,12317082
+184,3,3,1,Lujo,Villas del Rey,Casa,2007,5656547
+274,6,5,0,Regular,Centro,Departamento,1994,7488365
+183,3,2,1,Buena,Villas del Rey,Casa,1996,2809124
+75,2,1,2,Lujo,Zona Dorada,Departamento,2007,7591593
+238,4,3,2,Regular,Villas del Rey,Casa,2021,5883063
+148,3,4,2,Lujo,Centro,Casa,1990,5586469
+272,4,4,2,Buena,Cerritos,Casa,2008,12239446
+191,4,4,2,Buena,Pradera Dorada,Departamento,1992,4292683
+153,4,2,2,Buena,Pradera Dorada,Casa,2006,3581898
+90,2,2,1,Excelente,Pradera Dorada,Departamento,1993,2106480
+340,4,3,4,Buena,Marina Mazatlan,Casa,2005,20438114
+171,4,4,2,Mala,Pradera Dorada,Casa,2006,5274747
+243,3,2,2,Regular,Marina Mazatlan,Departamento,2022,16393152
+86,2,2,1,Regular,Centro,Departamento,1996,2358615
+115,3,4,1,Lujo,Centro,Departamento,2017,5198772
+254,5,3,2,Regular,Zona Dorada,Casa,1999,12589889
+105,3,3,1,Regular,Pradera Dorada,Casa,2000,2931024
+351,5,5,4,Lujo,Villas del Rey,Casa,2024,11177517
+87,2,2,0,Regular,Zona Dorada,Casa,1993,5378587
+264,4,3,2,Buena,Marina Mazatlan,Casa,1997,15597575
+137,3,2,1,Excelente,Centro,Casa,2002,5154342
+48,1,1,1,Excelente,Zona Dorada,Departamento,2000,3831477
+92,3,4,0,Mala,Pradera Dorada,Departamento,2019,3856825
+222,4,4,0,Regular,Zona Dorada,Departamento,2026,19671441
+177,3,4,2,Lujo,Villas del Rey,Casa,2013,4707024
+140,3,3,2,Mala,Pradera Dorada,Casa,2006,3408739
+162,4,4,2,Buena,Marina Mazatlan,Departamento,2021,13191941
+380,5,4,2,Mala,Zona Dorada,Casa,1996,19803879
+416,6,3,4,Lujo,Villas del Rey,Casa,2024,11355379
+363,4,3,4,Regular,Villas del Rey,Casa,2025,8349540
+51,1,1,2,Buena,Centro,Departamento,2018,2510286
+209,4,2,1,Regular,Villas del Rey,Departamento,2020,5187273
+86,2,2,1,Mala,Pradera Dorada,Departamento,1998,1594025
+158,4,3,1,Excelente,Marina Mazatlan,Departamento,2001,11993076
+87,3,4,2,Excelente,Villas del Rey,Departamento,2017,4279121
+114,3,2,2,Mala,Centro,Departamento,2017,3914152
+287,6,5,0,Regular,Cerritos,Departamento,2023,13877884
+404,5,5,4,Buena,Cerritos,Casa,2011,14079549
+191,4,2,1,Buena,Zona Dorada,Casa,2018,13091798
+383,6,3,2,Excelente,Cerritos,Casa,2013,15757993
+68,2,1,0,Excelente,Pradera Dorada,Casa,2005,1943288
+234,3,4,2,Regular,Centro,Departamento,2015,7592741
+234,3,4,0,Lujo,Centro,Departamento,2002,9181746
+372,4,3,3,Mala,Pradera Dorada,Casa,2018,7997500
+357,5,4,2,Excelente,Zona Dorada,Casa,2017,29005861
+204,3,3,2,Mala,Zona Dorada,Departamento,2000,10836269
+151,4,4,2,Lujo,Villas del Rey,Casa,2006,4965381
+83,2,1,2,Regular,Centro,Departamento,1991,2104155
+274,5,3,1,Buena,Villas del Rey,Departamento,1990,4997947
+169,4,4,1,Regular,Marina Mazatlan,Departamento,2001,10524183
+441,6,3,3,Regular,Marina Mazatlan,Casa,1999,22228390
+341,6,5,3,Lujo,Cerritos,Casa,2010,16018234
+133,3,3,1,Buena,Zona Dorada,Departamento,2002,10679917
+242,3,2,2,Buena,Marina Mazatlan,Departamento,2009,19314096
+312,6,3,3,Lujo,Pradera Dorada,Casa,2003,7791894
+127,3,3,1,Lujo,Villas del Rey,Casa,2018,4073669
+253,5,4,2,Excelente,Pradera Dorada,Departamento,2021,7366856
+379,4,3,4,Excelente,Pradera Dorada,Casa,1990,6650839
+389,4,4,4,Excelente,Centro,Casa,1993,10975408
+273,6,3,0,Excelente,Zona Dorada,Departamento,1995,21783179
+80,1,1,2,Mala,Zona Dorada,Departamento,2000,4280824
+75,2,2,0,Buena,Pradera Dorada,Casa,1991,1849126
+103,2,2,2,Buena,Centro,Departamento,2007,4036366
+176,4,2,2,Lujo,Zona Dorada,Casa,2013,15835039
+202,4,3,2,Regular,Pradera Dorada,Casa,2025,7163955
+225,4,3,2,Mala,Villas del Rey,Casa,2017,4828565
+121,2,2,1,Regular,Marina Mazatlan,Casa,2008,7941747
+91,2,1,0,Excelente,Pradera Dorada,Departamento,2016,2393945
+148,3,3,1,Regular,Cerritos,Departamento,1994,4916783
+254,4,4,1,Mala,Cerritos,Departamento,2001,7107816
+170,4,4,0,Regular,Villas del Rey,Departamento,2021,4658331
+240,3,4,2,Excelente,Zona Dorada,Casa,2006,17693027
+286,5,3,1,Lujo,Pradera Dorada,Departamento,2004,7223924
+274,4,4,2,Regular,Villas del Rey,Casa,2025,6851988
+266,4,2,4,Lujo,Zona Dorada,Casa,2008,24037938
+304,4,2,2,Lujo,Pradera Dorada,Casa,2010,7621737
+145,3,2,1,Lujo,Zona Dorada,Casa,2023,15426590
+296,5,4,2,Mala,Marina Mazatlan,Casa,2012,17222150
+387,4,3,2,Regular,Zona Dorada,Casa,2023,28383180
+389,4,4,3,Excelente,Cerritos,Casa,2023,21658790
+281,4,4,3,Mala,Villas del Rey,Casa,2007,4929368
+229,3,2,2,Mala,Zona Dorada,Departamento,1990,12687204
+97,2,1,2,Lujo,Cerritos,Departamento,2023,6451705
+370,4,3,2,Lujo,Zona Dorada,Casa,1990,22700307
+102,2,1,0,Mala,Marina Mazatlan,Casa,1995,4139689
+59,1,1,1,Excelente,Marina Mazatlan,Departamento,2021,5418564
+222,4,2,2,Regular,Zona Dorada,Casa,2024,15329492
+143,2,1,2,Lujo,Pradera Dorada,Departamento,1990,3622041
+155,3,2,1,Regular,Pradera Dorada,Casa,1992,3572285
+187,3,3,1,Regular,Cerritos,Departamento,2015,7714523
+208,4,4,2,Lujo,Zona Dorada,Departamento,2016,21991622
+91,2,1,2,Lujo,Centro,Departamento,2024,4691721
+88,2,1,2,Buena,Marina Mazatlan,Departamento,2018,6945932
+161,4,4,2,Excelente,Villas del Rey,Casa,2025,5364325
+74,2,2,1,Buena,Zona Dorada,Departamento,2009,6025729
+355,5,4,3,Lujo,Zona Dorada,Casa,2020,32455232
+98,3,3,0,Buena,Pradera Dorada,Casa,1994,2122754
+74,1,2,0,Buena,Centro,Casa,2013,2216385
+140,3,4,1,Excelente,Centro,Departamento,2015,6219347
+115,2,2,0,Buena,Zona Dorada,Departamento,1999,7347441
+377,6,3,2,Regular,Cerritos,Casa,2016,14000918
+227,4,4,1,Regular,Villas del Rey,Departamento,1990,4175569
+53,2,2,0,Regular,Centro,Departamento,2013,2435829
+62,2,1,2,Lujo,Villas del Rey,Departamento,1996,1695703
+260,6,3,1,Regular,Villas del Rey,Departamento,2011,5502260
+408,4,2,2,Regular,Zona Dorada,Casa,1999,18634659
+95,3,3,0,Regular,Centro,Casa,1996,2831977
+113,2,1,0,Lujo,Centro,Departamento,2016,4164641
+78,1,1,0,Mala,Cerritos,Departamento,2026,3180084
+422,6,4,3,Mala,Villas del Rey,Casa,1997,6637651
+398,6,4,2,Mala,Pradera Dorada,Casa,1994,5619378
+254,4,3,1,Mala,Cerritos,Departamento,2020,9711925
+128,3,3,2,Buena,Cerritos,Departamento,2019,6527265
+294,6,5,2,Excelente,Villas del Rey,Departamento,1998,7196730
+255,6,5,2,Excelente,Cerritos,Casa,2014,11053278
+404,4,4,4,Excelente,Cerritos,Casa,2020,19673566
+296,6,5,2,Lujo,Pradera Dorada,Departamento,2015,9097474
+421,5,5,3,Excelente,Cerritos,Casa,1990,15232085
+295,6,3,2,Lujo,Zona Dorada,Departamento,2010,32164477
+163,3,2,1,Buena,Cerritos,Departamento,1999,5689483
+296,6,5,1,Lujo,Zona Dorada,Departamento,2022,30941042
+398,5,5,3,Mala,Marina Mazatlan,Casa,1990,17392448
+81,2,2,2,Excelente,Marina Mazatlan,Departamento,2000,5616550
+284,6,4,0,Regular,Pradera Dorada,Departamento,1990,6907316
+240,3,3,1,Regular,Villas del Rey,Departamento,1998,4079619
+448,4,4,3,Excelente,Villas del Rey,Casa,2004,9592417
+264,6,3,2,Regular,Pradera Dorada,Departamento,2000,5153670
+190,3,4,0,Excelente,Marina Mazatlan,Departamento,2026,20251250
+256,5,4,1,Buena,Cerritos,Departamento,2016,12290116
+233,4,2,2,Lujo,Centro,Departamento,1994,6697299
+47,2,1,1,Buena,Marina Mazatlan,Departamento,2024,4828094
+168,4,3,1,Lujo,Cerritos,Casa,2007,8347696
+237,4,2,2,Lujo,Cerritos,Casa,2004,11435355
+262,6,3,1,Lujo,Villas del Rey,Departamento,2023,7940385
+300,4,4,3,Mala,Villas del Rey,Casa,1999,5039976
+96,3,4,0,Buena,Marina Mazatlan,Departamento,2005,8442198
+53,1,1,0,Regular,Cerritos,Departamento,2019,2271766
+218,3,4,1,Mala,Zona Dorada,Departamento,2007,16061814
+56,1,2,0,Lujo,Pradera Dorada,Departamento,2000,1789899
+212,3,4,0,Lujo,Villas del Rey,Departamento,2026,6330361
+275,4,2,4,Mala,Zona Dorada,Casa,2000,13812307
+300,5,4,3,Excelente,Villas del Rey,Casa,2017,7197002
+202,3,4,2,Buena,Pradera Dorada,Departamento,2003,5618636
+290,6,4,0,Mala,Cerritos,Departamento,1992,8128855
+288,4,4,2,Mala,Pradera Dorada,Casa,2021,7482332
+286,6,4,2,Mala,Centro,Departamento,1991,6650132
+421,6,5,4,Regular,Centro,Casa,2014,12493190
+79,2,2,0,Excelente,Zona Dorada,Casa,2011,5862264
+176,3,2,1,Regular,Pradera Dorada,Departamento,1992,3616064
+235,3,2,0,Regular,Villas del Rey,Departamento,2014,4616778
+130,2,2,2,Regular,Pradera Dorada,Casa,2002,3563343
+299,4,4,2,Regular,Marina Mazatlan,Casa,2004,17785618
+62,2,1,2,Regular,Cerritos,Departamento,1998,2599128
+71,2,1,2,Excelente,Zona Dorada,Departamento,2011,6408676
+180,3,2,2,Mala,Pradera Dorada,Casa,2020,4196571
+195,3,2,0,Regular,Cerritos,Departamento,2025,9286707
+382,4,3,4,Mala,Zona Dorada,Casa,2015,22875076
+255,6,4,1,Mala,Pradera Dorada,Departamento,1992,4984071
+88,2,2,0,Regular,Cerritos,Casa,2002,3621107
+65,2,1,0,Excelente,Pradera Dorada,Departamento,2010,2087759
+214,4,4,0,Regular,Zona Dorada,Departamento,1990,13166441
+111,2,2,2,Mala,Centro,Departamento,2023,3825074
+448,6,4,4,Lujo,Pradera Dorada,Casa,2007,12580513
+262,4,2,2,Lujo,Centro,Casa,2004,8886321
+69,1,2,0,Buena,Centro,Casa,2018,2369728
+163,3,4,2,Mala,Zona Dorada,Departamento,1992,9276008
+134,2,1,0,Buena,Zona Dorada,Departamento,2009,10904334
+379,4,2,4,Mala,Marina Mazatlan,Casa,1998,16496653
+289,5,3,1,Mala,Pradera Dorada,Departamento,2024,7206356
+343,5,5,2,Excelente,Villas del Rey,Casa,2011,9159956
+62,2,2,0,Lujo,Cerritos,Departamento,2025,4486056
+108,3,4,2,Excelente,Zona Dorada,Departamento,1992,10204179
+87,2,2,1,Regular,Cerritos,Departamento,1991,3480522
+85,2,1,1,Excelente,Marina Mazatlan,Departamento,2026,9106959
+306,5,3,3,Buena,Cerritos,Casa,2012,13023839
+154,3,2,1,Lujo,Villas del Rey,Casa,2003,4229555
+47,1,1,2,Excelente,Cerritos,Departamento,1991,2214350
+257,5,3,0,Regular,Villas del Rey,Departamento,1998,4417563
+63,1,2,1,Lujo,Cerritos,Departamento,2015,3891882
+77,1,2,2,Regular,Villas del Rey,Departamento,2013,1971204
+363,6,3,4,Excelente,Pradera Dorada,Casa,2014,9664491
+152,4,3,1,Mala,Villas del Rey,Casa,2026,4123439
+79,2,2,0,Excelente,Zona Dorada,Departamento,1993,6216942
+225,3,4,2,Lujo,Centro,Departamento,1990,7130966
+159,3,2,1,Regular,Villas del Rey,Departamento,1992,2635465
+115,3,4,1,Buena,Zona Dorada,Departamento,2013,11360276
+305,6,3,4,Excelente,Marina Mazatlan,Casa,1992,17923256
+213,4,2,0,Lujo,Cerritos,Departamento,2004,10591110
+75,1,1,1,Mala,Cerritos,Casa,2017,2908841
+185,3,2,1,Mala,Centro,Casa,2011,4241175
+129,2,2,2,Buena,Villas del Rey,Departamento,2019,3549371
+68,1,2,2,Regular,Pradera Dorada,Departamento,1991,1908779
+242,4,3,2,Mala,Pradera Dorada,Casa,1993,4360575
+134,3,2,1,Mala,Villas del Rey,Casa,1990,2418326
+262,5,5,3,Mala,Pradera Dorada,Casa,2021,6798978
+107,2,2,0,Buena,Centro,Departamento,2023,4133579
+146,2,2,2,Buena,Marina Mazatlan,Casa,1996,7169915
+146,2,1,1,Lujo,Pradera Dorada,Casa,2005,3934701
+204,3,3,1,Excelente,Marina Mazatlan,Departamento,2016,20247964
+221,3,4,1,Regular,Villas del Rey,Departamento,2002,5054197
+74,2,1,0,Mala,Centro,Casa,2022,2151578
+147,2,2,1,Regular,Marina Mazatlan,Casa,2017,9677072
+171,4,3,0,Excelente,Marina Mazatlan,Departamento,2008,16248103
+48,2,2,2,Lujo,Marina Mazatlan,Departamento,2021,6036213
+243,4,3,2,Buena,Pradera Dorada,Casa,2017,5743806
+422,6,5,2,Excelente,Marina Mazatlan,Casa,1991,26333611
+80,2,1,1,Excelente,Pradera Dorada,Departamento,1997,1932949
+269,4,3,1,Regular,Villas del Rey,Departamento,2004,5836767
+414,6,5,4,Mala,Villas del Rey,Casa,1991,6623611
+416,6,3,4,Excelente,Pradera Dorada,Casa,2006,9508085
+66,2,2,1,Regular,Marina Mazatlan,Casa,2018,5335919
+221,4,2,2,Lujo,Centro,Departamento,2016,8701268
+263,5,5,2,Regular,Zona Dorada,Departamento,2015,19270618
+82,3,2,1,Lujo,Cerritos,Casa,1993,3866603
+98,2,2,1,Excelente,Pradera Dorada,Departamento,1990,2451473
+125,3,3,2,Mala,Centro,Departamento,2014,4041933
+397,5,4,2,Buena,Marina Mazatlan,Casa,2003,24207361
+76,2,1,1,Buena,Pradera Dorada,Casa,2019,2330077
+316,4,3,2,Mala,Cerritos,Casa,2017,10786787
+267,5,3,3,Lujo,Pradera Dorada,Casa,2014,7087615
+221,3,3,2,Mala,Centro,Casa,2009,5546045
+343,4,4,2,Lujo,Cerritos,Casa,2014,15498252
+399,5,3,2,Mala,Villas del Rey,Casa,2020,8435495
+93,3,2,2,Mala,Villas del Rey,Departamento,1997,2399583
+95,3,2,2,Regular,Pradera Dorada,Departamento,1990,2808922
+360,5,5,2,Lujo,Cerritos,Casa,2003,18375749
+257,6,3,0,Buena,Villas del Rey,Departamento,1995,4067817
+235,4,2,1,Buena,Zona Dorada,Casa,2005,17480641
+66,1,2,2,Lujo,Villas del Rey,Departamento,2015,2190743
+176,4,3,2,Regular,Cerritos,Departamento,1997,6432385
+329,6,5,2,Buena,Cerritos,Casa,2018,14606191
+249,4,4,2,Lujo,Zona Dorada,Casa,2002,22687536
+390,5,4,3,Excelente,Villas del Rey,Casa,1995,7814254
+131,3,4,0,Regular,Zona Dorada,Departamento,2017,11255016
+393,5,4,4,Excelente,Marina Mazatlan,Casa,1995,25520330
+112,2,1,1,Mala,Centro,Casa,1997,2255360
+116,2,2,0,Lujo,Centro,Departamento,1992,3735544
+166,3,4,0,Buena,Centro,Departamento,1994,4342900
+128,3,2,2,Buena,Marina Mazatlan,Departamento,1994,7990767
+370,4,3,3,Mala,Pradera Dorada,Casa,2015,6642773
+249,4,3,1,Excelente,Marina Mazatlan,Departamento,2020,22982498
+423,4,2,2,Regular,Pradera Dorada,Casa,2019,9383139
+237,3,4,2,Lujo,Zona Dorada,Casa,1994,14658400
+289,6,3,0,Regular,Marina Mazatlan,Departamento,2014,21723076
+291,5,3,1,Regular,Centro,Departamento,2014,8419796
+201,4,3,1,Regular,Marina Mazatlan,Departamento,2007,14982284
+136,2,2,1,Buena,Pradera Dorada,Casa,2008,2912785
+232,3,2,1,Excelente,Villas del Rey,Departamento,2020,4853173
+236,3,2,0,Regular,Cerritos,Departamento,2015,9211588
+159,4,3,1,Mala,Villas del Rey,Departamento,2003,3845719
+320,5,4,2,Buena,Villas del Rey,Casa,2007,7827541
+134,2,2,1,Lujo,Villas del Rey,Casa,1991,2706648
+220,3,4,0,Mala,Pradera Dorada,Departamento,2021,4922989
+336,4,3,3,Buena,Cerritos,Casa,1995,10355250
+273,4,2,4,Mala,Cerritos,Casa,2009,10305735
+349,4,2,4,Regular,Zona Dorada,Casa,1996,18924648
+336,4,4,3,Regular,Pradera Dorada,Casa,1991,6209518
+296,5,4,1,Lujo,Marina Mazatlan,Departamento,2018,28249728
+134,2,1,1,Mala,Villas del Rey,Casa,2017,2678016
+207,4,4,1,Mala,Villas del Rey,Departamento,2016,5553089
+133,3,4,1,Excelente,Centro,Casa,2022,5452338
+91,3,4,1,Mala,Zona Dorada,Departamento,2024,8805619
+234,3,3,2,Lujo,Villas del Rey,Casa,2022,7424967
+247,4,3,0,Excelente,Villas del Rey,Departamento,2025,7383728
+225,4,2,1,Regular,Centro,Casa,2014,6589717
+83,2,2,1,Lujo,Pradera Dorada,Casa,2004,2977692
+130,2,1,1,Lujo,Cerritos,Departamento,2026,6727925
+139,3,4,1,Excelente,Marina Mazatlan,Departamento,2018,13071327
+339,4,4,4,Lujo,Marina Mazatlan,Casa,2025,31413110
+117,3,4,1,Regular,Marina Mazatlan,Departamento,2006,9287819
+61,1,1,1,Regular,Pradera Dorada,Departamento,1999,1363049
+166,4,3,1,Regular,Centro,Casa,2024,6454742
+187,3,2,1,Buena,Pradera Dorada,Departamento,2013,4665825
+290,4,4,2,Excelente,Marina Mazatlan,Departamento,1999,20635252
+167,3,2,0,Excelente,Marina Mazatlan,Departamento,1998,11155457
+193,4,3,1,Buena,Zona Dorada,Departamento,1997,12798774
+251,6,4,2,Mala,Marina Mazatlan,Departamento,2001,13314231
+125,3,2,0,Excelente,Zona Dorada,Departamento,1996,9686967
+100,2,2,2,Buena,Villas del Rey,Departamento,2013,2905771
+322,6,5,4,Buena,Zona Dorada,Casa,2022,26216808
+238,4,4,2,Regular,Centro,Casa,2001,5203072
+106,2,2,1,Regular,Cerritos,Departamento,1992,3828293
+379,6,3,3,Excelente,Marina Mazatlan,Casa,2010,28829701
+214,4,3,2,Excelente,Marina Mazatlan,Casa,1999,13580673
+92,3,3,1,Excelente,Villas del Rey,Departamento,2004,2817251
+273,6,4,0,Excelente,Cerritos,Departamento,2025,14150999
+245,3,2,2,Lujo,Cerritos,Casa,1997,9418080
+450,6,4,4,Buena,Pradera Dorada,Casa,2025,10676952
+369,5,5,2,Mala,Marina Mazatlan,Casa,2026,25100104
+319,6,4,2,Regular,Pradera Dorada,Casa,1990,5167932
+243,3,2,2,Lujo,Centro,Departamento,2007,7858784
+397,6,4,3,Lujo,Marina Mazatlan,Casa,1999,26502631
+213,3,3,0,Mala,Zona Dorada,Departamento,2003,14912589
+83,3,3,1,Buena,Zona Dorada,Casa,1995,6274582
+394,4,3,2,Buena,Villas del Rey,Casa,1993,6350509
+211,3,2,2,Lujo,Villas del Rey,Casa,2002,5943928
+316,6,3,2,Mala,Centro,Casa,1995,6662647
+166,4,2,0,Mala,Centro,Departamento,1993,4514598
+88,3,3,0,Lujo,Centro,Casa,2016,4716148
+274,4,2,0,Excelente,Pradera Dorada,Departamento,2006,6507994
+192,4,2,2,Lujo,Centro,Departamento,1994,5563974
+116,2,2,1,Buena,Pradera Dorada,Departamento,2007,3052895
+121,3,2,2,Regular,Villas del Rey,Departamento,1993,2635405
+117,2,1,1,Excelente,Zona Dorada,Casa,2019,10346476
+326,5,5,3,Lujo,Zona Dorada,Casa,2002,30177423
+135,2,1,1,Lujo,Pradera Dorada,Departamento,2017,3849185
+114,3,2,2,Buena,Cerritos,Departamento,2021,5875944
+60,1,2,2,Mala,Cerritos,Departamento,2020,2960222
+222,4,2,0,Mala,Marina Mazatlan,Departamento,2010,14025287
+119,3,3,2,Regular,Cerritos,Departamento,2002,5459202
+416,6,3,2,Mala,Marina Mazatlan,Casa,2003,20619105
+396,6,3,3,Excelente,Villas del Rey,Casa,2006,8525920
+155,3,2,2,Excelente,Pradera Dorada,Casa,2015,4117086
+283,5,4,0,Mala,Centro,Departamento,2015,7351609
+220,3,3,2,Lujo,Pradera Dorada,Departamento,1995,4899258
+177,4,3,2,Mala,Marina Mazatlan,Casa,2005,9783439
+226,4,3,1,Buena,Marina Mazatlan,Casa,2021,16865155
+169,3,4,1,Lujo,Pradera Dorada,Departamento,2025,6062092
+220,3,2,2,Mala,Cerritos,Casa,2012,7261960
+272,4,3,0,Mala,Pradera Dorada,Departamento,2015,4830518
+132,3,4,1,Excelente,Villas del Rey,Casa,2005,4346135
+83,2,1,0,Mala,Cerritos,Casa,2025,3449804
+234,4,2,2,Mala,Marina Mazatlan,Departamento,2004,14188597
+241,4,3,1,Excelente,Marina Mazatlan,Departamento,1995,18333119
+265,6,5,0,Buena,Zona Dorada,Departamento,2018,23570082
+236,4,2,2,Buena,Marina Mazatlan,Departamento,2025,21417752
+320,4,2,4,Buena,Cerritos,Casa,2000,9278823
+253,5,5,4,Buena,Zona Dorada,Casa,2019,20307847
+124,2,2,0,Buena,Pradera Dorada,Departamento,1993,2559440
+60,2,2,2,Buena,Villas del Rey,Departamento,2008,2527838
+304,4,2,4,Excelente,Centro,Casa,2014,8396748
+139,2,1,2,Excelente,Pradera Dorada,Casa,2015,3297797
+335,4,4,4,Regular,Pradera Dorada,Casa,2016,8635927
+90,3,2,2,Mala,Cerritos,Departamento,2011,3711119
+69,1,1,1,Mala,Centro,Casa,2008,1671051
+164,3,3,2,Lujo,Cerritos,Casa,2014,7690323
+249,4,3,2,Mala,Villas del Rey,Casa,2005,5183807
+110,2,1,1,Lujo,Villas del Rey,Departamento,2021,3074898
+127,2,2,1,Excelente,Cerritos,Departamento,2012,6062795
+260,4,3,2,Lujo,Villas del Rey,Casa,1991,5350368
+129,2,1,1,Lujo,Cerritos,Casa,2018,6264484
+230,4,3,2,Lujo,Zona Dorada,Casa,2026,24051427
+209,4,4,1,Buena,Zona Dorada,Casa,2019,15909669
+223,3,2,1,Buena,Villas del Rey,Departamento,1992,3591032
+234,3,3,1,Regular,Villas del Rey,Departamento,2000,3927407
+233,3,3,0,Lujo,Pradera Dorada,Departamento,2008,6186236
+275,6,3,2,Regular,Marina Mazatlan,Departamento,2022,23722680
+420,4,4,4,Mala,Villas del Rey,Casa,2003,7393299
+193,3,3,1,Regular,Marina Mazatlan,Departamento,2009,13083492
+153,3,3,2,Lujo,Villas del Rey,Departamento,1998,4084095
+256,6,5,0,Lujo,Zona Dorada,Departamento,2025,29597749
+362,4,3,3,Lujo,Cerritos,Casa,2013,16504551
+384,4,3,3,Mala,Marina Mazatlan,Casa,2024,23421425
+154,4,2,1,Lujo,Villas del Rey,Casa,2018,3948864
+260,5,3,4,Buena,Pradera Dorada,Casa,2014,7378784
+87,3,2,0,Regular,Marina Mazatlan,Departamento,2014,7228801
+65,1,1,2,Buena,Marina Mazatlan,Departamento,2009,5333349
+412,6,3,2,Buena,Marina Mazatlan,Casa,2007,27227069
+308,5,5,3,Buena,Pradera Dorada,Casa,2010,8575243
+309,5,4,4,Mala,Centro,Casa,2015,9142058
+196,3,4,2,Regular,Cerritos,Departamento,2023,9777091
+240,3,2,2,Excelente,Marina Mazatlan,Departamento,2024,25798401
+92,3,3,0,Regular,Marina Mazatlan,Departamento,1992,6298862
+202,4,4,1,Regular,Zona Dorada,Departamento,1998,12453698
+198,4,4,0,Lujo,Pradera Dorada,Departamento,1998,4823603
+115,3,4,1,Lujo,Pradera Dorada,Casa,2017,4970208
+193,4,2,1,Excelente,Zona Dorada,Casa,2013,15059121
+231,3,4,2,Regular,Pradera Dorada,Departamento,2019,6723847
+216,3,3,0,Mala,Cerritos,Departamento,2005,7486306
+81,2,1,0,Excelente,Villas del Rey,Departamento,1997,1546082
+95,2,1,1,Excelente,Centro,Casa,2012,3275227
+98,2,1,1,Buena,Cerritos,Departamento,2008,4229928
+238,4,3,2,Regular,Cerritos,Casa,2011,8877479
+113,3,2,0,Mala,Pradera Dorada,Departamento,2016,3043594
+45,1,1,0,Lujo,Pradera Dorada,Departamento,2022,1750579
+192,3,2,2,Excelente,Pradera Dorada,Departamento,2020,5886531
+381,4,4,4,Lujo,Pradera Dorada,Casa,2010,9945799
+172,3,4,2,Lujo,Marina Mazatlan,Casa,2020,15304398
+248,3,3,1,Mala,Zona Dorada,Departamento,2002,17637170
+64,2,2,0,Regular,Marina Mazatlan,Casa,2023,5374525
+65,2,2,1,Lujo,Villas del Rey,Casa,1994,1825207
+54,2,1,0,Mala,Centro,Departamento,2017,1676274
+148,2,2,0,Excelente,Cerritos,Departamento,2011,5852466
+281,5,3,2,Mala,Marina Mazatlan,Casa,1999,12590768
+440,6,5,2,Lujo,Pradera Dorada,Casa,1998,8698440
+85,3,4,2,Buena,Zona Dorada,Departamento,2023,11099517
+143,3,4,0,Excelente,Pradera Dorada,Departamento,2011,4535124
+277,5,4,2,Excelente,Marina Mazatlan,Casa,2022,22111843
+84,2,1,1,Lujo,Villas del Rey,Departamento,2008,2443144
+226,3,3,2,Excelente,Villas del Rey,Casa,1990,4517975
+206,3,4,1,Excelente,Pradera Dorada,Casa,2024,6072934
+164,3,3,1,Mala,Villas del Rey,Casa,2025,4719630
+276,5,5,2,Regular,Zona Dorada,Departamento,2021,21285305
+305,6,5,4,Buena,Centro,Casa,1996,8058884
+146,3,4,1,Mala,Zona Dorada,Departamento,2010,11212145
+129,3,4,2,Buena,Zona Dorada,Departamento,2010,11491153
+75,2,2,0,Regular,Centro,Departamento,2011,2694882
+269,5,3,3,Mala,Villas del Rey,Casa,2004,5246703
+378,4,2,4,Mala,Villas del Rey,Casa,2022,6787932
+202,3,3,2,Lujo,Centro,Casa,2017,7936369
+231,3,2,1,Lujo,Pradera Dorada,Casa,2008,6214131
+298,4,4,4,Regular,Pradera Dorada,Casa,2019,8026211
+276,4,2,4,Buena,Cerritos,Casa,2007,11997933
+264,5,3,2,Lujo,Marina Mazatlan,Departamento,2025,28280870
+82,3,2,0,Regular,Centro,Departamento,2024,3855538
+182,4,4,1,Excelente,Marina Mazatlan,Departamento,2004,17297657
+284,4,4,4,Lujo,Marina Mazatlan,Casa,2005,22982941
+284,5,4,4,Buena,Zona Dorada,Casa,2004,22042126
+283,4,3,2,Lujo,Marina Mazatlan,Casa,2025,28477975
+152,3,3,2,Regular,Marina Mazatlan,Departamento,1991,9278100
+317,4,3,3,Excelente,Centro,Casa,2026,10374722
+203,4,3,2,Buena,Zona Dorada,Departamento,2026,19099254
+261,5,5,4,Buena,Zona Dorada,Casa,2025,24203016
+60,1,2,0,Lujo,Marina Mazatlan,Casa,2019,6210178
+353,6,3,4,Lujo,Villas del Rey,Casa,2024,10033601
+382,5,5,2,Excelente,Marina Mazatlan,Casa,2011,28045196
+405,6,5,3,Lujo,Zona Dorada,Casa,2022,36290079
+83,2,2,0,Lujo,Centro,Casa,2017,3628671
+87,2,1,0,Excelente,Cerritos,Casa,2026,4547157
+212,3,2,2,Lujo,Cerritos,Departamento,1990,7802225
+253,6,5,0,Mala,Pradera Dorada,Departamento,2016,7104758
+298,6,4,2,Lujo,Zona Dorada,Casa,1996,22689847
+87,2,1,0,Excelente,Zona Dorada,Casa,1995,5754901
+422,4,4,4,Buena,Pradera Dorada,Casa,2004,9398121
+186,4,2,1,Excelente,Centro,Departamento,2004,6590258
+250,4,4,0,Buena,Zona Dorada,Departamento,2019,22575843
+236,4,2,0,Excelente,Marina Mazatlan,Departamento,2012,19432784
+357,6,3,4,Regular,Villas del Rey,Casa,1998,6916670
+308,5,5,3,Excelente,Centro,Casa,2022,11194343
+198,4,2,2,Buena,Zona Dorada,Departamento,2016,15923401
+91,2,2,0,Regular,Villas del Rey,Casa,2001,1537522
+258,6,5,3,Mala,Villas del Rey,Casa,2010,6494487
+46,1,2,1,Lujo,Centro,Departamento,1993,2307833
+182,3,3,0,Buena,Zona Dorada,Departamento,1996,13253819
+129,3,2,2,Lujo,Pradera Dorada,Casa,2009,3829242
+156,3,2,2,Lujo,Centro,Departamento,2010,5725920
+268,6,4,3,Excelente,Marina Mazatlan,Casa,2008,20295606
+178,4,3,2,Lujo,Pradera Dorada,Casa,2019,5895880
+293,4,3,2,Mala,Cerritos,Departamento,2019,10722354
+73,2,2,0,Mala,Marina Mazatlan,Casa,2025,4743840
+117,3,3,0,Excelente,Cerritos,Casa,2004,4799624
+249,4,4,1,Excelente,Zona Dorada,Casa,2018,19837971
+431,5,3,3,Buena,Zona Dorada,Casa,1995,24463332
+222,3,2,2,Mala,Centro,Departamento,2019,5674130
+293,5,4,3,Lujo,Centro,Casa,2022,12689038
+259,4,4,0,Buena,Marina Mazatlan,Departamento,2009,19654816
+230,4,2,1,Regular,Marina Mazatlan,Casa,1991,10833572
+238,3,2,2,Lujo,Cerritos,Casa,2022,11379869
+430,4,3,2,Excelente,Zona Dorada,Casa,1996,28196961
+265,6,3,3,Excelente,Villas del Rey,Casa,1997,6242260
+202,3,4,1,Lujo,Pradera Dorada,Departamento,2003,5777814
+93,3,4,0,Regular,Centro,Casa,2001,3046343
+62,2,2,1,Excelente,Marina Mazatlan,Casa,2001,4131882
+126,2,2,2,Mala,Pradera Dorada,Departamento,1998,2763902
+68,2,1,1,Regular,Zona Dorada,Casa,2002,4810422
+450,5,4,3,Buena,Cerritos,Casa,2009,16739556
+199,4,2,1,Regular,Zona Dorada,Casa,2019,15436570
+278,6,4,1,Lujo,Marina Mazatlan,Departamento,2010,27021867
+202,3,4,2,Lujo,Pradera Dorada,Casa,2019,6859326
+93,2,1,0,Lujo,Villas del Rey,Departamento,2025,3045866
+261,5,5,2,Excelente,Marina Mazatlan,Departamento,1997,18081186
+428,4,3,4,Buena,Zona Dorada,Casa,2001,22152552
+285,6,4,4,Lujo,Villas del Rey,Casa,2007,7899066
+380,5,5,4,Buena,Zona Dorada,Casa,2002,25124550
+165,4,3,0,Excelente,Pradera Dorada,Departamento,2003,4264954
+424,6,3,4,Buena,Zona Dorada,Casa,2014,30111557
+158,4,3,2,Regular,Villas del Rey,Departamento,2006,4774988
+186,4,3,2,Excelente,Zona Dorada,Casa,2016,14538205
+143,3,3,0,Excelente,Marina Mazatlan,Departamento,2017,13141202
+148,3,4,1,Excelente,Marina Mazatlan,Casa,2012,12212508
+177,4,4,2,Mala,Pradera Dorada,Departamento,2017,5615703
+315,6,3,2,Lujo,Centro,Casa,2004,11888427
+266,5,3,2,Regular,Villas del Rey,Casa,1999,4647930
+113,3,4,0,Excelente,Marina Mazatlan,Departamento,2017,12386423
+204,3,3,0,Lujo,Pradera Dorada,Departamento,2006,6183201
+161,3,2,0,Regular,Zona Dorada,Departamento,2018,13676401
+158,3,4,1,Lujo,Centro,Casa,1992,5434269
+71,2,2,0,Mala,Zona Dorada,Casa,2015,4578756
+450,4,2,3,Lujo,Zona Dorada,Casa,2002,34250417
+208,3,3,2,Regular,Villas del Rey,Departamento,2007,4676912
+54,1,2,0,Mala,Centro,Departamento,2012,1850495
+169,3,3,2,Buena,Zona Dorada,Casa,2004,13110105
+117,2,1,0,Regular,Marina Mazatlan,Casa,2014,6611505
+148,3,2,0,Lujo,Marina Mazatlan,Departamento,1999,11444494
+176,4,4,1,Excelente,Marina Mazatlan,Departamento,2012,15402431
+352,5,3,4,Regular,Marina Mazatlan,Casa,1997,18091487
+244,4,4,2,Lujo,Marina Mazatlan,Casa,2022,23489748
+91,2,1,1,Lujo,Centro,Departamento,2021,4017214
+171,4,3,1,Excelente,Centro,Departamento,2020,6072752
+267,6,3,2,Excelente,Villas del Rey,Casa,2009,6258792
+200,3,3,0,Mala,Centro,Departamento,2010,5521541
+136,2,1,2,Mala,Zona Dorada,Casa,1998,6157485
+321,6,3,3,Buena,Zona Dorada,Casa,2023,26226515
+73,1,1,2,Regular,Marina Mazatlan,Departamento,2020,6238430
+375,6,5,3,Mala,Pradera Dorada,Casa,1999,7062322
+112,3,4,0,Buena,Centro,Casa,2015,3419672
+253,6,5,2,Lujo,Pradera Dorada,Casa,1993,7013846
+233,3,4,2,Excelente,Cerritos,Departamento,2007,10661657
+314,4,4,2,Buena,Centro,Casa,1996,7368235
+283,6,5,2,Buena,Centro,Departamento,2024,10293385
+219,4,2,2,Regular,Zona Dorada,Departamento,1998,12241863
+130,2,1,0,Regular,Zona Dorada,Departamento,2015,10488241
+78,1,2,1,Lujo,Villas del Rey,Departamento,1993,2160471
+158,3,3,0,Lujo,Pradera Dorada,Departamento,2015,4763147
+202,4,3,2,Buena,Centro,Casa,2006,6422569
+221,4,4,1,Regular,Centro,Departamento,2014,7017838
+183,4,3,1,Regular,Villas del Rey,Casa,2011,4718827
+145,3,2,2,Regular,Marina Mazatlan,Departamento,1993,9841416
+122,2,1,0,Mala,Zona Dorada,Departamento,2012,7843292
+262,4,2,1,Lujo,Centro,Departamento,2010,8934343
+133,2,2,2,Buena,Centro,Departamento,2014,4641383
+370,5,3,3,Excelente,Centro,Casa,2006,11171300
+111,3,2,1,Buena,Pradera Dorada,Casa,1991,2637483
+182,4,4,1,Excelente,Cerritos,Casa,2010,9528063
+227,4,2,0,Excelente,Pradera Dorada,Departamento,2006,5329664
+425,4,2,2,Lujo,Marina Mazatlan,Casa,2020,33053379
+345,4,3,2,Regular,Cerritos,Casa,2024,16273646
+410,4,4,2,Mala,Cerritos,Casa,1997,10490729
+397,4,2,4,Mala,Centro,Casa,2024,10636203
+142,2,2,2,Buena,Villas del Rey,Departamento,2003,3203757
+385,4,2,3,Excelente,Villas del Rey,Casa,1992,6479181
+392,6,3,4,Lujo,Cerritos,Casa,2019,20704088
+435,6,3,4,Lujo,Zona Dorada,Casa,1999,27146262
+76,1,1,0,Regular,Marina Mazatlan,Departamento,2003,5623293
+309,5,4,2,Lujo,Cerritos,Casa,1996,11919109
+125,3,4,2,Excelente,Marina Mazatlan,Departamento,2025,13216288
+423,4,4,3,Buena,Marina Mazatlan,Casa,1997,19585448
+173,4,3,2,Excelente,Villas del Rey,Departamento,2001,4134903
+279,6,3,3,Buena,Villas del Rey,Casa,2005,6282750
+128,2,2,2,Regular,Pradera Dorada,Casa,2016,3365802
+220,4,4,0,Buena,Pradera Dorada,Departamento,2013,5129237
+83,3,4,0,Lujo,Pradera Dorada,Departamento,2022,4008700
+83,2,1,0,Regular,Zona Dorada,Casa,1991,4649530
+450,5,5,2,Mala,Marina Mazatlan,Casa,2005,24011975
+285,4,2,3,Regular,Villas del Rey,Casa,2017,6735709
+371,4,3,2,Buena,Pradera Dorada,Casa,2014,8497320
+157,3,3,0,Mala,Zona Dorada,Departamento,2019,12770883
+58,2,1,2,Regular,Pradera Dorada,Departamento,2016,1856055
+53,1,1,1,Buena,Cerritos,Departamento,2018,2631212
+65,1,2,2,Mala,Centro,Departamento,2023,2784432
+331,5,3,4,Mala,Zona Dorada,Casa,2020,18929968
+353,5,3,3,Lujo,Marina Mazatlan,Casa,1994,20845020
+119,3,3,2,Lujo,Centro,Departamento,1999,4590769
+106,2,2,0,Regular,Zona Dorada,Casa,1997,6285052
+188,3,2,1,Mala,Cerritos,Departamento,2026,7075544
+444,5,4,3,Lujo,Villas del Rey,Casa,1993,9314361
+405,6,3,4,Lujo,Villas del Rey,Casa,2000,7485624
+309,4,2,3,Mala,Marina Mazatlan,Casa,1994,14253191
+146,3,3,1,Excelente,Centro,Departamento,2020,5905237
+161,3,2,1,Buena,Centro,Casa,2016,5345326
+141,2,1,1,Buena,Marina Mazatlan,Departamento,2020,12356430
+336,4,2,2,Lujo,Cerritos,Casa,2025,18655770
+273,4,4,2,Buena,Villas del Rey,Departamento,2010,5921202
+153,4,4,1,Mala,Centro,Casa,2018,4695222
+117,2,1,0,Lujo,Cerritos,Casa,2025,6028667
+202,3,3,0,Lujo,Zona Dorada,Departamento,2018,21634966
+171,4,3,1,Lujo,Centro,Casa,2005,6442296
+219,4,3,2,Excelente,Villas del Rey,Departamento,2008,6019302
+167,4,2,0,Regular,Centro,Departamento,1991,3915482
+445,4,2,4,Buena,Zona Dorada,Casa,2009,26957642
+214,4,4,1,Excelente,Centro,Casa,2014,7252350
+135,3,3,2,Lujo,Zona Dorada,Casa,2003,13128604
+351,6,3,2,Mala,Cerritos,Casa,2018,12396902
+118,2,1,0,Excelente,Villas del Rey,Departamento,2025,3268251
+96,3,2,1,Excelente,Marina Mazatlan,Casa,1991,5998194
+98,2,1,1,Buena,Cerritos,Departamento,1993,3425243
+176,3,2,2,Regular,Pradera Dorada,Casa,1990,3350945
+188,3,3,2,Lujo,Pradera Dorada,Departamento,2021,6239070
+212,3,3,0,Buena,Marina Mazatlan,Departamento,2009,16332867
+294,6,4,4,Mala,Marina Mazatlan,Casa,2003,17094734
+165,4,3,1,Regular,Villas del Rey,Departamento,2010,3767669
+366,4,2,2,Lujo,Zona Dorada,Casa,1991,22465720
+125,3,2,1,Buena,Villas del Rey,Casa,1998,2539196
+271,4,2,1,Mala,Centro,Departamento,2022,7077893
+187,4,2,1,Excelente,Pradera Dorada,Casa,2010,5561917
+87,3,4,0,Buena,Marina Mazatlan,Casa,1992,5053024
+160,3,2,1,Mala,Marina Mazatlan,Casa,2018,9633306
+365,4,2,4,Buena,Villas del Rey,Casa,1990,5419585
+279,6,4,2,Regular,Villas del Rey,Casa,1997,5089484
+110,2,2,0,Excelente,Villas del Rey,Departamento,2015,2828778
+102,2,2,2,Buena,Pradera Dorada,Departamento,2020,4061386
+68,1,1,2,Excelente,Zona Dorada,Departamento,2026,7428533
+72,1,1,0,Excelente,Villas del Rey,Departamento,1995,1531224
+219,3,2,1,Mala,Cerritos,Departamento,2000,6539364
+116,3,2,1,Buena,Cerritos,Casa,2013,5200002
+218,4,3,1,Excelente,Cerritos,Casa,2017,10404780
+66,1,1,0,Lujo,Cerritos,Departamento,2015,3415087
+142,2,2,2,Excelente,Zona Dorada,Casa,2017,13037740
+296,5,3,1,Regular,Cerritos,Departamento,2001,9172297
+150,2,1,2,Buena,Marina Mazatlan,Departamento,1990,8833374
+161,3,3,2,Buena,Pradera Dorada,Departamento,2019,5045147
+418,4,3,4,Mala,Centro,Casa,2008,10324146
+64,2,2,1,Excelente,Pradera Dorada,Departamento,1996,2274522
+174,4,2,2,Mala,Cerritos,Departamento,2017,6632807
+314,6,3,3,Lujo,Cerritos,Casa,2009,14610111
+222,3,2,1,Lujo,Marina Mazatlan,Casa,1991,12925916
+101,2,2,1,Mala,Pradera Dorada,Casa,1997,2270732
+66,1,1,1,Buena,Centro,Casa,2026,2468975
+178,4,2,1,Lujo,Marina Mazatlan,Departamento,2024,19401497
+270,5,4,2,Buena,Pradera Dorada,Departamento,2025,8033611
+185,3,3,2,Mala,Pradera Dorada,Casa,2000,3356141
+96,3,4,1,Mala,Villas del Rey,Departamento,2014,3125423
+350,5,3,3,Buena,Cerritos,Casa,2021,15278721
+442,4,3,3,Mala,Centro,Casa,1999,8704158
+96,2,2,1,Mala,Cerritos,Departamento,2007,3391715
+255,5,5,1,Regular,Zona Dorada,Departamento,2012,21563502
+166,4,2,2,Buena,Pradera Dorada,Departamento,1998,4207145
+227,4,2,1,Regular,Centro,Casa,2014,6600598
+172,3,2,2,Excelente,Marina Mazatlan,Departamento,2012,15838531
+288,6,5,4,Lujo,Villas del Rey,Casa,2003,8763337
+308,5,5,4,Buena,Centro,Casa,2009,11041617
+170,3,2,1,Regular,Villas del Rey,Casa,2021,3930021
+258,5,4,0,Mala,Centro,Departamento,2026,8028555
+216,3,3,0,Mala,Marina Mazatlan,Departamento,2023,17005269
+239,3,2,2,Mala,Villas del Rey,Departamento,2006,4213056
+164,3,4,2,Mala,Cerritos,Departamento,1992,5906245
+430,4,4,4,Regular,Zona Dorada,Casa,1994,23093566
+285,6,4,2,Mala,Zona Dorada,Departamento,2022,20916023
+167,3,2,0,Regular,Villas del Rey,Departamento,2019,3999565
+368,6,4,2,Buena,Centro,Casa,2019,12062684
+172,3,3,2,Mala,Zona Dorada,Departamento,2016,11152562
+232,3,3,1,Buena,Cerritos,Departamento,1995,7348401
+105,2,1,2,Lujo,Marina Mazatlan,Departamento,1990,8010533
+208,3,2,0,Mala,Marina Mazatlan,Departamento,2018,14018322
+197,4,2,0,Excelente,Villas del Rey,Departamento,2023,5068914
+192,4,2,1,Mala,Pradera Dorada,Casa,2013,4619302
+252,6,3,4,Buena,Pradera Dorada,Casa,2007,6889499
+174,4,3,1,Buena,Villas del Rey,Casa,2008,4262567
+126,3,3,1,Mala,Centro,Casa,2018,4165544
+219,4,3,2,Excelente,Cerritos,Casa,1999,8392376
+215,4,4,1,Excelente,Zona Dorada,Casa,2026,19180992
+432,4,3,4,Lujo,Villas del Rey,Casa,2009,11045273
+379,4,3,4,Regular,Cerritos,Casa,2016,15422181
+137,2,1,1,Regular,Zona Dorada,Departamento,2003,9619885
+142,3,3,2,Lujo,Villas del Rey,Casa,2020,4780035
+199,3,4,1,Lujo,Centro,Departamento,1995,5882469
+147,3,4,1,Lujo,Cerritos,Casa,2011,7272739
+178,3,4,1,Regular,Pradera Dorada,Departamento,2006,4308728
+275,4,4,3,Regular,Zona Dorada,Casa,2011,17969463
+251,4,3,4,Mala,Cerritos,Casa,1998,7150527
+142,3,4,2,Lujo,Zona Dorada,Departamento,1993,11342624
+420,6,5,3,Regular,Pradera Dorada,Casa,2019,9237143
+213,4,2,1,Buena,Centro,Casa,1992,5417708
+131,2,2,1,Excelente,Villas del Rey,Casa,1990,2742532
+448,4,4,2,Excelente,Zona Dorada,Casa,1995,24540241
+231,3,4,0,Excelente,Marina Mazatlan,Departamento,2026,25087361
+66,2,1,1,Regular,Pradera Dorada,Departamento,2004,1710494
+129,3,4,1,Excelente,Cerritos,Departamento,2010,6413391
+266,6,3,2,Lujo,Pradera Dorada,Departamento,2021,7886713
+174,4,3,1,Buena,Marina Mazatlan,Departamento,2013,12082667
+64,1,2,0,Excelente,Villas del Rey,Departamento,2018,2172534
+203,4,3,1,Lujo,Marina Mazatlan,Casa,2013,16755298
+147,2,2,0,Regular,Pradera Dorada,Departamento,2024,4490826
+113,2,1,2,Excelente,Zona Dorada,Departamento,2010,9827237
+232,4,4,0,Regular,Zona Dorada,Departamento,2025,21851728
+119,2,1,0,Lujo,Marina Mazatlan,Casa,2022,10843181
+300,5,5,2,Mala,Centro,Departamento,2019,8573753
+68,2,2,2,Regular,Zona Dorada,Departamento,2024,7373619
+231,4,3,0,Lujo,Cerritos,Departamento,1991,8467532
+253,5,5,1,Excelente,Zona Dorada,Departamento,2012,25846517
+104,3,3,0,Regular,Pradera Dorada,Departamento,2020,2985493
+217,3,2,0,Buena,Villas del Rey,Departamento,2002,4816719
+101,3,2,1,Regular,Centro,Departamento,2017,3815881
+135,2,1,0,Regular,Zona Dorada,Departamento,2005,10190103
+184,4,3,1,Buena,Centro,Departamento,2018,6229996
+202,4,3,2,Excelente,Centro,Casa,2004,6968032
+184,4,4,2,Buena,Centro,Departamento,2014,6312124
+298,4,4,3,Regular,Pradera Dorada,Casa,2015,7190589
+402,4,2,3,Buena,Marina Mazatlan,Casa,2024,28536056
+131,3,4,2,Mala,Zona Dorada,Casa,2017,9747277
+290,4,4,3,Regular,Marina Mazatlan,Casa,1997,14242640
+275,5,3,1,Regular,Centro,Departamento,1997,5728561
+426,5,3,2,Buena,Zona Dorada,Casa,2017,32092297
+214,3,2,1,Mala,Centro,Casa,2018,4970447
+220,4,2,2,Excelente,Zona Dorada,Casa,1993,14304096
+213,4,2,2,Lujo,Villas del Rey,Departamento,1992,5065680
+59,2,1,0,Buena,Centro,Departamento,2024,2586396
+239,3,4,2,Buena,Centro,Departamento,2024,8843347
+206,3,3,1,Lujo,Centro,Casa,2022,8405529
+293,6,3,1,Excelente,Marina Mazatlan,Departamento,2017,27579605
+128,3,3,2,Regular,Centro,Casa,1997,3247414
+134,3,2,1,Lujo,Marina Mazatlan,Departamento,1992,10998831
+415,6,4,4,Regular,Marina Mazatlan,Casa,2021,26218738
+245,3,3,0,Regular,Marina Mazatlan,Departamento,2024,20674529
+112,3,3,0,Regular,Cerritos,Casa,2011,4466333
+159,4,3,2,Regular,Zona Dorada,Departamento,1999,9880876
+285,4,2,3,Lujo,Villas del Rey,Casa,2020,8081357
+197,3,3,2,Regular,Zona Dorada,Departamento,1994,13442331
+187,3,2,0,Lujo,Villas del Rey,Departamento,2013,4547357
+58,2,2,2,Buena,Centro,Departamento,2015,2534192
+104,3,4,0,Lujo,Pradera Dorada,Departamento,2009,3430912
+281,6,4,2,Regular,Centro,Casa,2021,9836146
+202,4,4,1,Excelente,Pradera Dorada,Departamento,1998,4700964
+216,4,2,0,Excelente,Centro,Departamento,2025,8493927
+89,2,2,0,Lujo,Marina Mazatlan,Departamento,2023,11473607
+295,6,4,0,Lujo,Centro,Departamento,2013,10513631
+330,6,4,4,Excelente,Marina Mazatlan,Casa,2002,25470674
+63,1,2,0,Buena,Villas del Rey,Casa,1995,1387935
+262,5,4,0,Buena,Villas del Rey,Departamento,2004,5345187
+73,1,1,0,Excelente,Cerritos,Casa,2005,3224070
+288,5,5,4,Mala,Zona Dorada,Casa,2009,16208438
+195,3,3,0,Buena,Pradera Dorada,Departamento,2008,4815115
+129,3,2,2,Excelente,Zona Dorada,Casa,2001,7980784
+268,4,3,0,Buena,Centro,Departamento,2026,9490622
+112,2,2,1,Regular,Pradera Dorada,Casa,1994,2764441
+148,3,3,1,Lujo,Villas del Rey,Departamento,2024,4413658
+142,2,2,2,Buena,Villas del Rey,Departamento,2008,3174306
+95,3,2,2,Buena,Villas del Rey,Departamento,2011,2748618
+270,4,4,2,Excelente,Pradera Dorada,Departamento,2006,6550749
+78,1,2,1,Regular,Centro,Casa,1995,2094871
+178,4,4,0,Lujo,Villas del Rey,Departamento,2020,5462827
+230,4,3,0,Mala,Centro,Departamento,2008,5515834
+158,3,2,2,Excelente,Centro,Casa,1991,4463029
+93,3,2,1,Mala,Marina Mazatlan,Departamento,2007,6175814
+396,5,5,4,Lujo,Centro,Casa,2025,16091594
+265,4,4,2,Regular,Villas del Rey,Casa,1990,4692266
+275,5,4,3,Mala,Marina Mazatlan,Casa,2020,16269699
+227,3,2,2,Regular,Pradera Dorada,Casa,2010,5554730
+66,2,2,1,Lujo,Zona Dorada,Departamento,1999,5389175
+289,5,4,0,Excelente,Villas del Rey,Departamento,2000,6205967
+286,6,4,4,Regular,Cerritos,Casa,1993,8915992
+189,4,2,1,Mala,Centro,Departamento,1998,4068264
+243,3,2,1,Lujo,Villas del Rey,Casa,2024,7373749
+257,4,4,4,Mala,Marina Mazatlan,Casa,2016,16977669
+61,2,2,1,Buena,Centro,Casa,2020,3384680
+138,2,1,2,Regular,Centro,Casa,2002,3488851
+114,3,4,1,Lujo,Centro,Departamento,2006,5906560
+314,5,4,2,Excelente,Zona Dorada,Casa,2000,18804370
+158,3,2,1,Lujo,Marina Mazatlan,Casa,2017,13374709
+161,3,2,0,Regular,Pradera Dorada,Departamento,1990,2976160
+355,5,5,3,Regular,Pradera Dorada,Casa,2016,9717349
+156,3,2,0,Regular,Pradera Dorada,Departamento,2019,3783400
+271,6,3,2,Buena,Zona Dorada,Departamento,2012,23521104
+286,5,3,0,Excelente,Cerritos,Departamento,2001,10398704
+170,3,3,1,Excelente,Centro,Casa,2026,7105021
+171,3,4,0,Regular,Zona Dorada,Departamento,2014,14042053
+198,4,4,0,Buena,Centro,Departamento,1995,5505423
+127,3,2,2,Excelente,Marina Mazatlan,Departamento,2021,11412305
+91,3,2,0,Excelente,Villas del Rey,Casa,1994,2111533
+89,2,1,1,Buena,Marina Mazatlan,Departamento,2006,7431406
+278,5,4,2,Buena,Pradera Dorada,Departamento,2024,7869085
+162,3,2,1,Lujo,Pradera Dorada,Departamento,2010,4731931
+175,4,2,1,Mala,Cerritos,Departamento,2009,6204667
+191,4,3,2,Regular,Zona Dorada,Departamento,2005,13714037
+438,4,3,4,Mala,Marina Mazatlan,Casa,2017,23227723
+404,4,2,2,Regular,Zona Dorada,Casa,2019,29094896
+155,3,2,0,Mala,Pradera Dorada,Departamento,2015,3746022
+139,3,2,2,Lujo,Pradera Dorada,Casa,2019,4529736
+285,4,4,4,Regular,Centro,Casa,1990,7208033
+125,3,4,0,Mala,Cerritos,Departamento,2002,5497522
+323,5,5,4,Regular,Villas del Rey,Casa,2010,8069356
+222,3,4,2,Mala,Pradera Dorada,Casa,2012,5306460
+308,5,5,2,Lujo,Zona Dorada,Casa,1996,23417213
+167,3,4,1,Lujo,Centro,Departamento,2016,6692052
+404,6,5,4,Mala,Centro,Casa,1990,8719439
+72,1,1,0,Lujo,Cerritos,Departamento,2002,3926455
+212,4,4,1,Mala,Cerritos,Casa,1992,6189305
+162,3,4,1,Regular,Cerritos,Departamento,1995,5711097
+416,4,2,4,Lujo,Zona Dorada,Casa,2008,31417273
+153,4,2,2,Regular,Zona Dorada,Casa,2024,11702260
+96,2,1,0,Lujo,Cerritos,Departamento,1999,3675730
+80,1,1,1,Buena,Centro,Departamento,1996,2066786
+242,4,2,1,Mala,Centro,Casa,2007,5962684
+146,3,4,2,Buena,Cerritos,Casa,2003,6500686
+255,6,4,1,Lujo,Marina Mazatlan,Departamento,2007,26251086
+385,4,2,4,Regular,Villas del Rey,Casa,1996,5653858
+277,6,3,1,Buena,Zona Dorada,Departamento,2017,26251121
+178,3,2,1,Excelente,Marina Mazatlan,Casa,1998,9782797
+201,4,2,2,Excelente,Villas del Rey,Departamento,1995,4553783
+96,3,4,0,Excelente,Villas del Rey,Casa,2008,3664908
+77,1,2,0,Mala,Villas del Rey,Departamento,2019,2008844
+411,5,4,3,Lujo,Marina Mazatlan,Casa,1994,23708748
+192,4,3,0,Mala,Zona Dorada,Departamento,2005,12797571
+84,2,2,0,Mala,Pradera Dorada,Casa,2009,2311699
+272,6,5,3,Lujo,Villas del Rey,Casa,2008,7577386
+79,2,1,0,Mala,Pradera Dorada,Departamento,1991,1374331
+115,3,3,1,Buena,Pradera Dorada,Departamento,2022,4039491
+99,3,2,2,Excelente,Pradera Dorada,Departamento,2002,3439167
+122,2,1,2,Regular,Marina Mazatlan,Departamento,2023,9235628
+58,2,2,1,Lujo,Pradera Dorada,Departamento,1996,1885819
+274,4,3,3,Lujo,Centro,Casa,2022,10502336
+84,3,2,2,Lujo,Zona Dorada,Departamento,1999,8214382
+58,1,2,0,Excelente,Villas del Rey,Departamento,2004,2050425
+65,2,2,0,Excelente,Villas del Rey,Casa,2007,2153611
+160,4,3,1,Excelente,Marina Mazatlan,Departamento,2004,15053548
+225,3,4,2,Regular,Villas del Rey,Departamento,2020,6083152
+282,4,2,4,Excelente,Villas del Rey,Casa,2003,6541072
+258,5,5,0,Mala,Zona Dorada,Departamento,2016,18612910
+233,3,2,1,Excelente,Cerritos,Departamento,1994,8821066
+258,5,3,3,Excelente,Centro,Casa,2016,9174222
+75,2,2,1,Mala,Villas del Rey,Casa,2018,2255475
+194,4,4,0,Excelente,Pradera Dorada,Departamento,1999,5060317
+84,3,3,0,Excelente,Villas del Rey,Departamento,2010,2981160
+226,4,4,1,Buena,Pradera Dorada,Casa,2017,7281828
+75,2,2,0,Mala,Villas del Rey,Casa,2016,2454050
+118,3,2,0,Lujo,Marina Mazatlan,Casa,2009,10619761
+383,4,4,4,Mala,Villas del Rey,Casa,1994,5276234
+108,3,3,0,Mala,Zona Dorada,Departamento,2013,7718753
+100,3,3,0,Buena,Villas del Rey,Departamento,2020,3233132
+260,5,5,2,Excelente,Marina Mazatlan,Casa,1997,15210295
+70,2,1,1,Lujo,Centro,Casa,1995,2162467
+342,4,3,2,Lujo,Zona Dorada,Casa,2002,30717010
+241,4,2,2,Lujo,Pradera Dorada,Casa,2000,6449770
+222,3,4,2,Buena,Marina Mazatlan,Departamento,2016,19259003
+240,3,4,2,Lujo,Centro,Departamento,2001,7552863
+219,4,3,2,Lujo,Villas del Rey,Casa,2019,5869054
+409,5,4,2,Mala,Pradera Dorada,Casa,2013,8067564
+50,1,1,2,Regular,Pradera Dorada,Departamento,1997,1079606
+428,6,5,3,Regular,Marina Mazatlan,Casa,2024,31424077
+124,3,2,0,Regular,Centro,Departamento,2003,4091750
+186,4,3,0,Buena,Centro,Departamento,2007,6249115
+277,5,5,3,Lujo,Cerritos,Casa,2022,15844995
+278,6,3,1,Regular,Cerritos,Departamento,2023,11745919
+143,3,4,2,Regular,Cerritos,Departamento,2004,5695376
+138,3,2,1,Regular,Villas del Rey,Departamento,2009,3539325
+73,2,1,1,Regular,Zona Dorada,Casa,2020,5109345
+175,4,3,2,Buena,Marina Mazatlan,Departamento,1990,11675771
+78,2,1,0,Lujo,Marina Mazatlan,Departamento,2004,6730737
+231,3,4,1,Regular,Pradera Dorada,Departamento,2003,5715992
+441,6,4,2,Lujo,Villas del Rey,Casa,1990,9212779
+136,3,3,1,Excelente,Zona Dorada,Casa,2006,11308080
+172,4,3,2,Mala,Pradera Dorada,Departamento,1997,3768625
+70,2,1,0,Regular,Zona Dorada,Casa,2012,4458158
+196,3,4,2,Mala,Cerritos,Departamento,2008,6802917
+169,4,3,2,Excelente,Marina Mazatlan,Departamento,2009,13580611
+384,6,3,3,Mala,Villas del Rey,Casa,2012,7300704
+442,5,3,4,Mala,Centro,Casa,2007,10656600
+48,1,1,0,Lujo,Centro,Departamento,1994,1554906
+340,6,3,3,Lujo,Centro,Casa,2013,11283878
+178,4,3,2,Lujo,Zona Dorada,Departamento,2015,18743455
+81,2,2,2,Excelente,Centro,Departamento,2019,3750370
+147,2,1,2,Mala,Cerritos,Casa,2006,5081526
+166,4,2,0,Mala,Marina Mazatlan,Departamento,2019,10564383
+124,3,4,2,Buena,Centro,Casa,2016,5186305
+292,4,3,4,Mala,Zona Dorada,Casa,2021,17905676
+221,3,4,0,Excelente,Villas del Rey,Departamento,2002,5287350
+414,5,4,2,Mala,Pradera Dorada,Casa,1991,6252568
+377,6,4,4,Regular,Pradera Dorada,Casa,1993,7458317
+234,4,4,1,Excelente,Pradera Dorada,Casa,1991,5863826
+213,4,2,2,Excelente,Centro,Casa,1990,5340573
+170,3,3,2,Regular,Zona Dorada,Departamento,2013,12873003
+284,4,4,2,Regular,Marina Mazatlan,Departamento,2005,20516586
+450,6,3,3,Mala,Zona Dorada,Casa,2008,26206702
+77,1,2,0,Regular,Zona Dorada,Departamento,2013,6379245
+241,3,3,2,Lujo,Pradera Dorada,Departamento,2016,7392561
+137,3,4,2,Buena,Centro,Casa,2025,6301606
+167,4,3,0,Excelente,Centro,Departamento,1998,5237212
+238,3,2,1,Mala,Cerritos,Departamento,2004,7675191
+229,4,4,2,Excelente,Pradera Dorada,Departamento,1992,5869848
+309,5,5,2,Lujo,Cerritos,Casa,1990,14667606
+219,4,3,1,Buena,Pradera Dorada,Casa,1991,4137942
+315,4,2,2,Regular,Pradera Dorada,Casa,1996,4644735
+278,4,2,4,Regular,Cerritos,Casa,2006,11400530
+176,4,4,2,Regular,Cerritos,Departamento,1996,6429590
+341,4,2,2,Buena,Pradera Dorada,Casa,2015,7893869
+239,4,2,2,Lujo,Centro,Casa,2000,7508944
+97,3,4,1,Mala,Centro,Casa,1990,2902331
+248,3,4,2,Lujo,Zona Dorada,Departamento,2025,26898340
+216,3,3,1,Lujo,Villas del Rey,Casa,2006,5088636
+290,6,4,2,Lujo,Cerritos,Casa,1999,11526721
+405,4,2,4,Lujo,Cerritos,Casa,2019,19597458
+77,2,2,1,Buena,Cerritos,Casa,1997,3022130
+264,4,3,2,Mala,Pradera Dorada,Casa,2021,5234143
+321,5,5,3,Regular,Villas del Rey,Casa,2013,7097295
+128,3,3,0,Excelente,Centro,Departamento,2002,4831169
+77,1,2,2,Excelente,Pradera Dorada,Departamento,2022,2576844
+88,3,3,0,Lujo,Cerritos,Casa,2000,4204288
+184,4,2,1,Mala,Pradera Dorada,Departamento,2004,3943033
+103,2,2,0,Lujo,Pradera Dorada,Departamento,2007,2908728
+418,4,3,3,Regular,Pradera Dorada,Casa,2025,9361527
+188,3,4,2,Regular,Cerritos,Departamento,1996,6455672
+210,3,3,2,Excelente,Marina Mazatlan,Departamento,2007,17030618
+68,1,1,2,Mala,Centro,Departamento,2018,2398600
+175,3,3,1,Buena,Villas del Rey,Casa,1991,3168636
+276,6,5,0,Excelente,Centro,Departamento,2008,9996233
+305,4,2,3,Lujo,Pradera Dorada,Casa,1997,6838537
+202,4,4,2,Regular,Cerritos,Departamento,1992,7791553
+102,3,3,0,Excelente,Cerritos,Departamento,1993,4842776
+234,3,2,2,Lujo,Cerritos,Departamento,2001,9019856
+78,2,2,0,Lujo,Villas del Rey,Departamento,1990,1741866
+424,6,3,4,Excelente,Pradera Dorada,Casa,1993,7866560
+201,4,2,0,Mala,Villas del Rey,Departamento,1998,3134185
+59,1,1,0,Excelente,Pradera Dorada,Departamento,2018,1489510
+426,4,3,4,Mala,Pradera Dorada,Casa,2016,9006899
+247,4,2,2,Regular,Zona Dorada,Casa,2016,16453133
+151,4,4,1,Excelente,Centro,Casa,2007,5234546
+179,3,2,2,Lujo,Villas del Rey,Departamento,2011,4731126
+365,6,5,3,Lujo,Marina Mazatlan,Casa,2014,29418476
+271,4,2,4,Mala,Cerritos,Casa,1996,6918538
+437,5,5,2,Excelente,Pradera Dorada,Casa,2011,11139224
+411,6,4,2,Mala,Centro,Casa,1999,7416495
+271,6,5,3,Excelente,Zona Dorada,Casa,2017,22765973
+347,4,2,3,Lujo,Centro,Casa,2001,8923502
+267,4,3,1,Buena,Pradera Dorada,Departamento,2018,7306743
+413,4,2,4,Regular,Cerritos,Casa,1994,10745983
+441,5,5,2,Lujo,Marina Mazatlan,Casa,2003,36274316
+118,2,1,1,Regular,Cerritos,Casa,2012,4058600
+253,5,3,2,Excelente,Zona Dorada,Departamento,2016,25818763
+143,2,2,1,Mala,Villas del Rey,Departamento,2006,2927886
+140,2,1,1,Mala,Marina Mazatlan,Departamento,2011,9028882
+406,5,3,2,Buena,Pradera Dorada,Casa,2005,9080019
+142,3,4,1,Mala,Zona Dorada,Casa,2008,9526577
+101,2,2,0,Regular,Villas del Rey,Departamento,1994,2216080
+113,2,1,2,Mala,Zona Dorada,Departamento,2016,8439156
+226,4,3,1,Mala,Marina Mazatlan,Departamento,1996,12516521
+76,2,2,2,Regular,Marina Mazatlan,Departamento,1998,5376829
+207,4,3,0,Excelente,Villas del Rey,Departamento,2009,4847015
+150,3,3,1,Excelente,Centro,Departamento,2001,4871455
+174,4,4,0,Buena,Cerritos,Departamento,2006,7726193
+296,4,3,1,Lujo,Centro,Departamento,2011,10456700
+263,5,5,0,Mala,Cerritos,Departamento,2016,10937469
+232,4,2,2,Regular,Pradera Dorada,Casa,2006,5291311
+166,3,2,1,Excelente,Centro,Casa,2016,6077705
+129,2,2,1,Buena,Villas del Rey,Departamento,2005,3155818
+136,3,3,1,Regular,Cerritos,Departamento,1994,4157623
+313,5,5,4,Mala,Marina Mazatlan,Casa,2008,16712428
+82,2,2,0,Buena,Villas del Rey,Casa,1992,2130494
+218,4,3,2,Buena,Zona Dorada,Casa,1993,13102556
+395,6,3,3,Buena,Villas del Rey,Casa,2011,8279654
+344,5,5,4,Regular,Centro,Casa,2024,10858193
+225,4,2,1,Buena,Marina Mazatlan,Departamento,1994,14237822
+252,4,2,1,Lujo,Villas del Rey,Departamento,2002,6218463
+381,6,4,3,Excelente,Pradera Dorada,Casa,2017,11858177
+152,3,3,1,Lujo,Villas del Rey,Casa,2026,5392199
+124,2,1,0,Mala,Centro,Departamento,2002,3013645
+128,2,1,1,Regular,Pradera Dorada,Departamento,1991,2345070
+192,3,3,1,Regular,Zona Dorada,Casa,2024,15921281
+99,2,2,0,Lujo,Centro,Departamento,1995,3071304
+190,3,2,1,Mala,Pradera Dorada,Departamento,2002,4274052
+146,3,3,1,Excelente,Zona Dorada,Departamento,1997,11998601
+71,1,2,0,Regular,Centro,Casa,2003,2206269
+296,6,5,1,Buena,Zona Dorada,Departamento,1992,21405182
+200,4,4,2,Mala,Villas del Rey,Casa,2015,5535488
+95,3,4,1,Excelente,Villas del Rey,Departamento,2000,3133138
+147,3,4,0,Excelente,Pradera Dorada,Departamento,1994,4293353
+226,4,3,2,Lujo,Centro,Departamento,2021,9892129
+449,4,4,3,Mala,Villas del Rey,Casa,2023,10432444
+261,6,5,0,Excelente,Marina Mazatlan,Departamento,2004,21718185
+436,4,2,2,Buena,Cerritos,Casa,2008,16033996
+189,4,3,1,Excelente,Zona Dorada,Departamento,1991,14381127
+269,6,4,4,Buena,Cerritos,Casa,2021,12593738
+265,5,3,2,Mala,Pradera Dorada,Casa,2011,5720028
+118,3,3,0,Regular,Marina Mazatlan,Casa,2021,9341979
+356,4,2,2,Regular,Cerritos,Casa,2020,14448747
+177,3,4,2,Lujo,Villas del Rey,Casa,1992,4261539
+295,6,4,3,Buena,Pradera Dorada,Casa,2020,8901454
+194,3,2,1,Excelente,Pradera Dorada,Departamento,2026,5310801
+239,4,4,2,Mala,Villas del Rey,Casa,2004,4999156
+441,4,3,4,Mala,Pradera Dorada,Casa,2004,7920024
+146,2,1,0,Regular,Villas del Rey,Departamento,2010,2591700
+163,4,3,1,Mala,Centro,Departamento,2026,6459302
+343,6,3,4,Buena,Marina Mazatlan,Casa,2026,27324388
+382,4,3,3,Excelente,Cerritos,Casa,2003,17376567
+183,3,2,0,Excelente,Pradera Dorada,Departamento,2015,4338812
+346,5,3,2,Mala,Marina Mazatlan,Casa,1990,13656343
+223,3,3,2,Excelente,Marina Mazatlan,Departamento,2007,18120265
+447,6,3,2,Excelente,Zona Dorada,Casa,2002,32684081
+286,5,4,4,Regular,Zona Dorada,Casa,2013,21412232
+88,3,2,1,Excelente,Zona Dorada,Casa,2010,8005020
+332,5,5,2,Excelente,Marina Mazatlan,Casa,2002,25932262
+64,1,1,1,Regular,Centro,Casa,2001,1697757
+136,3,3,1,Mala,Villas del Rey,Departamento,1992,2487896
+99,2,2,0,Excelente,Pradera Dorada,Casa,2015,2352995
+293,6,4,2,Excelente,Marina Mazatlan,Departamento,2013,27106143
+67,1,1,1,Regular,Centro,Casa,2010,2018949
+280,6,3,2,Lujo,Cerritos,Casa,1996,10421371
+252,5,3,0,Regular,Marina Mazatlan,Departamento,1997,15846812
+431,6,5,3,Lujo,Marina Mazatlan,Casa,2006,34601879
+92,3,2,0,Excelente,Centro,Casa,1994,2853836
+248,4,2,0,Lujo,Zona Dorada,Departamento,1990,18173862
+63,2,2,2,Regular,Cerritos,Departamento,2010,3373734
+279,4,2,1,Buena,Marina Mazatlan,Departamento,1993,17815289
+115,3,4,1,Excelente,Cerritos,Departamento,2015,5841022
+394,6,5,2,Mala,Pradera Dorada,Casa,2008,8217695
+203,4,4,1,Mala,Zona Dorada,Casa,2013,13616953
+116,3,4,2,Mala,Cerritos,Departamento,2022,5008841
+236,4,2,0,Regular,Zona Dorada,Departamento,1991,13507286
+426,4,3,2,Lujo,Pradera Dorada,Casa,2022,10652709
+204,4,4,1,Regular,Villas del Rey,Departamento,2013,4751138
+418,6,5,3,Regular,Cerritos,Casa,2009,14718561
+215,4,2,2,Excelente,Marina Mazatlan,Casa,2017,17673008
+60,2,1,0,Buena,Cerritos,Casa,2026,3443120
+241,4,3,1,Excelente,Marina Mazatlan,Casa,1995,14035418
+60,2,1,1,Excelente,Cerritos,Departamento,2026,3695609
+194,3,4,0,Excelente,Centro,Departamento,1995,4898643
+273,4,3,0,Lujo,Centro,Departamento,2012,10169477
+190,4,4,2,Excelente,Pradera Dorada,Departamento,2003,5941157
+446,4,2,3,Lujo,Zona Dorada,Casa,1999,27361930
+111,3,2,1,Excelente,Zona Dorada,Casa,2006,8578607
+81,3,2,2,Regular,Villas del Rey,Departamento,2012,2283793
+118,2,2,0,Lujo,Centro,Departamento,2002,4827945
+214,3,4,2,Excelente,Cerritos,Casa,2020,10007454
+239,3,4,1,Excelente,Villas del Rey,Casa,2019,5826187
+289,5,3,1,Buena,Pradera Dorada,Departamento,2009,7760770
+232,3,4,2,Excelente,Pradera Dorada,Casa,2021,6605400
+163,3,2,2,Mala,Pradera Dorada,Departamento,1990,3074703
+248,3,4,2,Buena,Centro,Departamento,2024,9048303
+255,4,3,4,Buena,Pradera Dorada,Casa,1998,5982825
+132,3,4,0,Lujo,Zona Dorada,Departamento,1994,12316861
+135,2,2,1,Lujo,Pradera Dorada,Departamento,1998,3663553
+170,4,3,1,Lujo,Zona Dorada,Casa,1990,11509674
+168,3,4,1,Regular,Pradera Dorada,Departamento,1990,3746671
+97,3,2,1,Buena,Marina Mazatlan,Departamento,2023,9226829
+325,5,3,4,Regular,Zona Dorada,Casa,2008,21885333
+306,6,4,4,Mala,Centro,Casa,1992,7190601
+370,4,4,2,Excelente,Villas del Rey,Casa,2009,8942114
+321,6,3,4,Buena,Marina Mazatlan,Casa,2012,21345536
+85,2,2,1,Excelente,Villas del Rey,Departamento,1992,2250616
+201,4,4,0,Regular,Cerritos,Departamento,2026,9898779
+211,3,2,0,Lujo,Cerritos,Departamento,2009,11123688
+114,3,3,0,Excelente,Zona Dorada,Departamento,1991,8611474
+95,3,4,0,Lujo,Villas del Rey,Casa,2015,3694498
+259,6,3,2,Lujo,Villas del Rey,Departamento,1992,6612486
+153,4,2,1,Lujo,Cerritos,Casa,2014,8369005
+413,6,3,3,Buena,Centro,Casa,2008,12804501
+263,5,4,0,Buena,Cerritos,Departamento,1999,9145333
+217,4,4,2,Mala,Centro,Departamento,2011,6909109
+90,3,3,1,Excelente,Pradera Dorada,Departamento,2012,3333113
+104,3,4,0,Excelente,Pradera Dorada,Casa,1997,2408907
+119,3,3,1,Regular,Centro,Casa,2023,4582436
+202,4,3,1,Mala,Villas del Rey,Departamento,2018,3702857
+145,2,2,1,Excelente,Cerritos,Departamento,2008,6620794
+409,4,4,2,Lujo,Centro,Casa,1999,11692385
+260,4,2,3,Regular,Villas del Rey,Casa,2023,5973129
+423,6,4,2,Buena,Marina Mazatlan,Casa,1996,25031139
+163,3,3,0,Regular,Zona Dorada,Departamento,2008,13116581
+296,4,3,2,Lujo,Cerritos,Casa,1993,12856520
+83,3,2,0,Excelente,Villas del Rey,Casa,2002,2728496
+407,5,3,4,Mala,Marina Mazatlan,Casa,1992,16870069
+60,1,1,0,Excelente,Cerritos,Departamento,2023,3458198
+294,6,4,0,Lujo,Marina Mazatlan,Departamento,2017,28575823
+129,2,2,1,Regular,Zona Dorada,Departamento,2025,11038533
+286,4,2,2,Regular,Centro,Departamento,2000,5817406
+284,6,5,2,Mala,Cerritos,Casa,2012,9464124
+397,6,3,3,Regular,Zona Dorada,Casa,1997,19662382
+243,4,4,2,Excelente,Zona Dorada,Casa,2019,18893079
+175,3,4,0,Excelente,Villas del Rey,Departamento,2020,4943707
+224,4,3,2,Regular,Marina Mazatlan,Casa,2023,15135244
+320,5,5,2,Lujo,Centro,Casa,2018,13413596
+260,6,5,0,Buena,Villas del Rey,Departamento,2003,7957733
+261,4,2,4,Regular,Marina Mazatlan,Casa,1993,12417090
+328,6,5,2,Excelente,Cerritos,Casa,2001,11300187
+81,2,2,0,Regular,Cerritos,Casa,2000,2968316
+439,4,4,3,Mala,Marina Mazatlan,Casa,1996,20139640
+419,6,4,2,Buena,Marina Mazatlan,Casa,2018,26735597
+65,1,2,1,Regular,Pradera Dorada,Departamento,2012,2177835
+306,6,3,4,Mala,Marina Mazatlan,Casa,2015,15809707
+67,1,1,2,Mala,Villas del Rey,Departamento,2019,1523315
+189,3,3,2,Lujo,Zona Dorada,Departamento,2013,18413293
+333,6,5,2,Lujo,Pradera Dorada,Casa,2008,11429356
+397,4,3,3,Mala,Villas del Rey,Casa,2019,5905687
+276,5,3,2,Excelente,Marina Mazatlan,Casa,2023,23961792
+152,3,4,1,Mala,Centro,Casa,2003,4646541
+268,5,5,2,Regular,Pradera Dorada,Departamento,1998,6188844
+102,3,3,2,Regular,Zona Dorada,Departamento,2019,8486285
+328,4,4,2,Mala,Cerritos,Casa,2011,11518667
+234,4,2,1,Excelente,Zona Dorada,Departamento,1995,16769063
+350,6,3,3,Mala,Centro,Casa,2019,10238939
+160,3,2,1,Mala,Centro,Casa,2003,3827235
+57,2,1,2,Mala,Centro,Departamento,2026,2294268
+279,4,3,2,Buena,Pradera Dorada,Departamento,2025,7635561
+283,4,3,4,Excelente,Zona Dorada,Casa,2010,21512519
+370,5,3,3,Regular,Marina Mazatlan,Casa,1997,17249297
+213,3,2,2,Lujo,Pradera Dorada,Casa,1998,5084810
+252,6,5,1,Buena,Villas del Rey,Departamento,1994,4686376
+281,5,4,0,Buena,Zona Dorada,Departamento,1997,19599330
+364,6,5,2,Mala,Pradera Dorada,Casa,2005,6633859
+281,5,5,3,Buena,Pradera Dorada,Casa,2006,7475381
+289,6,5,2,Buena,Marina Mazatlan,Casa,1999,16491490
+427,4,2,2,Buena,Marina Mazatlan,Casa,2020,28837032
+102,2,1,2,Excelente,Pradera Dorada,Departamento,1994,2302253
+79,2,2,1,Regular,Marina Mazatlan,Departamento,2007,6328700
+163,3,2,2,Lujo,Villas del Rey,Departamento,2019,5379337
+105,2,1,0,Buena,Centro,Casa,1999,2939946
+271,4,3,3,Lujo,Villas del Rey,Casa,2001,5219695
+305,4,3,3,Regular,Zona Dorada,Casa,2007,21452936
+430,6,4,2,Lujo,Marina Mazatlan,Casa,2006,34776307
+267,6,3,4,Mala,Zona Dorada,Casa,1999,12394499
+102,3,3,1,Mala,Zona Dorada,Departamento,2005,7755323
+95,3,2,0,Mala,Zona Dorada,Departamento,1993,5075901
+123,3,4,1,Buena,Marina Mazatlan,Casa,2019,9538178
+65,1,1,1,Excelente,Cerritos,Departamento,1996,2874567
+356,6,3,2,Lujo,Cerritos,Casa,2012,15420055
+86,2,1,0,Buena,Marina Mazatlan,Casa,2021,6290512
+208,3,4,2,Excelente,Zona Dorada,Casa,2007,16272585
+77,1,2,1,Lujo,Zona Dorada,Departamento,2005,8384978
+363,4,2,3,Lujo,Centro,Casa,2023,15136472
+334,6,3,2,Buena,Centro,Casa,1998,7692433
+203,3,2,1,Buena,Centro,Departamento,2019,6665241
+350,5,3,4,Lujo,Marina Mazatlan,Casa,2010,25724360
+250,3,3,1,Regular,Marina Mazatlan,Casa,2021,17079601
+257,6,5,3,Mala,Zona Dorada,Casa,2015,15192733
+157,4,2,1,Buena,Marina Mazatlan,Departamento,2010,12351339
+118,3,4,1,Regular,Cerritos,Casa,2018,6742779
+363,4,4,2,Excelente,Pradera Dorada,Casa,1992,6829713
+178,3,2,2,Mala,Villas del Rey,Casa,1999,2738429
+288,6,5,1,Regular,Zona Dorada,Departamento,1991,18399843
+249,3,2,1,Mala,Marina Mazatlan,Departamento,2000,12037611
+92,3,2,0,Lujo,Villas del Rey,Departamento,2020,2625152
+207,4,4,1,Regular,Marina Mazatlan,Departamento,2026,16751598
+218,4,3,1,Buena,Centro,Casa,1993,5746999
+56,1,2,0,Mala,Villas del Rey,Departamento,2004,1250647
+160,3,2,2,Regular,Villas del Rey,Casa,2002,3874641
+399,5,3,3,Buena,Pradera Dorada,Casa,2010,9514482
+101,2,2,0,Buena,Marina Mazatlan,Departamento,2025,9634664
+47,2,1,1,Mala,Cerritos,Departamento,2018,2779862
+215,3,3,0,Excelente,Cerritos,Departamento,2002,9018106
+375,6,3,2,Regular,Cerritos,Casa,2000,10891494
+137,3,2,0,Buena,Cerritos,Departamento,2009,6105650
+317,4,3,2,Regular,Zona Dorada,Casa,2014,18372156
+285,4,3,0,Excelente,Centro,Departamento,2004,10025878
+49,2,1,0,Buena,Villas del Rey,Departamento,2015,1314881
+94,2,2,1,Mala,Villas del Rey,Departamento,2004,2296775
+164,3,4,2,Regular,Pradera Dorada,Departamento,2016,5556648
+153,3,3,2,Mala,Pradera Dorada,Departamento,2009,3746307
+124,3,3,1,Mala,Zona Dorada,Departamento,1993,7314476
+87,3,4,1,Lujo,Marina Mazatlan,Departamento,2001,7133074
+323,5,4,4,Buena,Pradera Dorada,Casa,2011,8514723
+81,3,2,1,Mala,Centro,Departamento,1995,2636121
+207,4,2,2,Regular,Marina Mazatlan,Departamento,2010,15621128
+327,6,5,2,Buena,Zona Dorada,Casa,1994,18593561
+262,4,3,2,Excelente,Centro,Casa,2020,9501722
+289,5,4,3,Buena,Pradera Dorada,Casa,2012,8430766
+146,2,1,2,Excelente,Centro,Departamento,2018,4899751
+375,5,4,3,Excelente,Villas del Rey,Casa,2017,9530597
+287,4,3,3,Excelente,Zona Dorada,Casa,1998,18152778
+249,3,2,1,Lujo,Villas del Rey,Casa,2020,6913230
+217,3,3,1,Regular,Pradera Dorada,Casa,2000,3913005
+184,4,3,1,Lujo,Cerritos,Departamento,2001,7281578
+442,6,5,4,Excelente,Villas del Rey,Casa,2023,11568511
+223,3,3,0,Mala,Villas del Rey,Departamento,1997,3429797
+85,2,1,1,Lujo,Centro,Departamento,2011,3548218
+180,3,4,2,Mala,Pradera Dorada,Departamento,2011,4912214
+433,6,3,4,Buena,Marina Mazatlan,Casa,2020,26981722
+193,3,3,1,Regular,Pradera Dorada,Casa,2003,3955886
+146,3,4,2,Lujo,Marina Mazatlan,Casa,2002,13159877
+226,3,3,2,Regular,Villas del Rey,Casa,2020,5033212
+179,3,4,1,Regular,Centro,Casa,2014,4963542
+248,4,4,0,Lujo,Villas del Rey,Departamento,2000,5690869
+184,3,4,1,Mala,Cerritos,Departamento,1997,5416506
+211,3,4,2,Lujo,Centro,Casa,2023,9481752
+366,6,5,3,Buena,Villas del Rey,Casa,2008,8652626
+94,3,2,0,Buena,Centro,Departamento,1997,3094842
+60,1,2,2,Lujo,Villas del Rey,Departamento,2003,2268775
+58,2,2,0,Lujo,Cerritos,Departamento,2011,3692169
+330,5,4,4,Lujo,Cerritos,Casa,1992,13995137
+231,3,4,2,Regular,Zona Dorada,Departamento,2002,18595541
+399,5,3,2,Buena,Marina Mazatlan,Casa,2006,22985997
+139,3,3,2,Excelente,Marina Mazatlan,Departamento,2016,13808832
+226,3,3,1,Lujo,Cerritos,Casa,2010,10577422
+216,4,2,1,Lujo,Zona Dorada,Casa,1991,15434906
+214,4,3,1,Lujo,Cerritos,Departamento,1996,9349279
+237,4,4,1,Buena,Zona Dorada,Departamento,2017,21100429
+293,6,5,2,Regular,Centro,Casa,2023,9150351
+206,4,3,2,Mala,Villas del Rey,Casa,1994,4057419
+409,5,5,2,Regular,Centro,Casa,2020,11588018
+95,3,4,1,Buena,Zona Dorada,Casa,2026,8169304
+310,6,5,3,Excelente,Pradera Dorada,Casa,2013,8380341
+252,5,3,0,Regular,Cerritos,Departamento,2001,8063537
+183,3,4,2,Regular,Pradera Dorada,Casa,2009,4594799
+165,4,3,1,Mala,Centro,Casa,2026,5435171
+205,3,3,2,Mala,Villas del Rey,Departamento,1990,3754474
+147,3,4,1,Mala,Zona Dorada,Casa,1997,8472787
+345,6,3,2,Mala,Cerritos,Casa,2004,11803883
+426,6,4,3,Buena,Cerritos,Casa,2014,17789736
+119,3,3,1,Lujo,Cerritos,Casa,2011,6810937
+106,3,3,0,Regular,Centro,Casa,2022,4256096
+283,5,3,1,Regular,Marina Mazatlan,Departamento,2002,19447300
+293,4,3,0,Mala,Pradera Dorada,Departamento,2015,4691019
+222,3,4,2,Regular,Marina Mazatlan,Casa,2015,15701606
+174,4,3,1,Buena,Pradera Dorada,Casa,1998,3704218
